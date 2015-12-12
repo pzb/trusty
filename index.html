@@ -34,8 +34,12 @@ circle.node.ec {
   fill: forestgreen;
 }
 
+circle.node.smallrsa {
+  fill: purple;
+}
+
 circle.node.unknown {
-	fill: darkred;
+	fill: lightgray;
 }
 
 .node.fixed {
@@ -63,8 +67,7 @@ text.shadow {
     <script type="text/javascript">
 
 var w = 2400,
-    h = 2400,
-    r = 6;
+    h = 2400;
 
 var color = d3.scale.category20();
 
@@ -138,78 +141,18 @@ var link = svg.selectAll(".link")
 var node = svg.selectAll(".node")
     .data(trusty.nodes)
     .enter().append("circle")
-    .attr("class", function(d){ kt = d.keytype || "unknown"; return "node " + kt.toLowerCase(); })
-    .attr("r", r)
+    .attr("class", function(d){ 
+	kt = d.keytype || "unknown"; 
+        if (kt == "RSA" && d.params[0] < 2048) {
+	  kt = "smallrsa"
+        }
+	return "node " + kt.toLowerCase(); 
+    })
+    .attr("r", function(d){return d.radius;})
     .call(force.drag)
       .on("dblclick", dblclick)
 .on('mouseover', tip.show) //Added
  .on('mouseout', tip.hide); //Added 
-
-/*svg.append("svg:rect").attr("width",w).attr("height",h) */
-
-/*
-// Per-type markers, as they don't inherit styles.
-svg.append("svg:defs").selectAll("marker")
-    .data(["expired", "current"])
-  .enter().append("svg:marker")
-    .attr("id", String)
-    .attr("viewBox", "0 -5 10 10")
-    .attr("refX", 15)
-    .attr("refY", -1.5)
-    .attr("markerWidth", 6)
-    .attr("markerHeight", 6)
-    .attr("orient", "auto")
-  .append("svg:path")
-    .attr("d", "M0,-5L10,0L0,5");
-
-var path = svg.append("svg:g").selectAll("path")
-    .data(force.links())
-  .enter().append("svg:path")
-    .attr("class", function(d) { return "link " + d.type; })
-    .attr("marker-end", function(d) { return "url(#" + d.type + ")"; });
-
-var circle = svg.append("svg:g").selectAll("circle")
-    .data(force.nodes())
-  .enter().append("svg:circle")
-    .attr("r", 8)
-    .call(force.drag);
-
-var text = svg.append("svg:g").selectAll("g")
-    .data(force.nodes())
-  .enter().append("svg:g");
-*/
-/*
-// A copy of the text with a thick white stroke for legibility.
-text.append("svg:text")
-    .attr("x", 12)
-    .attr("y", ".31em")
-    .attr("class", "shadow")
-    .text(function(d) { return d.name; });
-
-text.append("svg:text")
-    .attr("x", 12)
-    .attr("y", ".31em")
-    .text(function(d) { return d.name; });
-*/
-/*
-// Use elliptical arc path segments to doubly-encode directionality.
-function tick() {
-  path.attr("d", function(d) {
-    var dx = d.target.x - d.source.x,
-        dy = d.target.y - d.source.y,
-        dr = Math.sqrt(dx * dx + dy * dy);
-    return "M" + d.source.x + "," + d.source.y + "A" + dr + "," + dr + " 0 0,1 " + d.target.x + "," + d.target.y;
-  });
-
-  circle.attr("transform", function(d) {
-    return "translate(" + d.x + "," + d.y + ")";
-  });
-
-  text.attr("transform", function(d) {
-    return "translate(" + d.x + "," + d.y + ")";
-  });
-}
-*/
 
 /*function tick() { */
 force.on("tick", function() {
@@ -219,8 +162,8 @@ force.on("tick", function() {
 	while (++i < n) q.visit(collide(trusty.nodes[i]));
 
 
-  node.attr("cx", function(d) { return d.x = Math.max(r, Math.min(w - r, d.x)); })
-      .attr("cy", function(d) { return d.y = Math.max(r, Math.min(h - r, d.y)); });
+  node.attr("cx", function(d) { return d.x = Math.max(d.radius, Math.min(w - d.radius, d.x)); })
+      .attr("cy", function(d) { return d.y = Math.max(d.radius, Math.min(h - d.radius, d.y)); });
   link.attr("x1", function(d) { return d.source.x; })
       .attr("y1", function(d) { return d.source.y; })
       .attr("x2", function(d) { return d.target.x; })
@@ -228,7 +171,7 @@ force.on("tick", function() {
 });
 
 function collide(node) {
-  var r = 6 + 16,
+  var r = node.radius + 16,
       nx1 = node.x - r,
       nx2 = node.x + r,
       ny1 = node.y - r,
@@ -238,7 +181,7 @@ function collide(node) {
       var x = node.x - quad.point.x,
           y = node.y - quad.point.y,
           l = Math.sqrt(x * x + y * y),
-          r = 6 + 6;
+          r = node.radius + quad.point.radius;
       if (l < r) {
         l = (l - r) / l * .5;
         node.x -= x *= l;
