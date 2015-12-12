@@ -17,7 +17,7 @@ line.link {
 }
 
 marker#expired {
-  fill: red;
+  fill: pink;
 }
 
 line.link.expired {
@@ -75,13 +75,44 @@ var force = d3.layout.force()
 var drag = force.drag()
     .on("dragstart", dragstart);
 
+
 var svg = d3.select("body").append("svg:svg")
     .attr("width", w)
     .attr("height", h);
 
-    force.nodes(trusty.nodes)
-    .links(trusty.links)
-	.start();
+
+svg.append("defs").append("marker")
+    .attr("id", "current")
+    .attr("refX", 6 + 3)
+    .attr("refY", 2)
+    .attr("markerWidth", 12)
+    .attr("markerHeight", 8)
+    .attr("orient", "auto")
+    .append("path")
+        .attr("d", "M 0,0 V 8 L12,2 Z"); //this is actual shape for arrowhead
+
+svg.append("defs").append("marker")
+    .attr("id", "expired")
+    .attr("refX", 6 + 3)
+    .attr("refY", 2)
+    .attr("markerWidth", 12)
+    .attr("markerHeight", 8)
+    .attr("orient", "auto")
+    .append("path")
+        .attr("d", "M 0,0 V 8 L12,2 Z"); //this is actual shape for arrowhead
+
+
+force.nodes(trusty.nodes)
+    .links(trusty.links);
+
+force.linkStrength(function(link) {
+	if (link.type == "expired") {
+		return 0.5;
+	} 
+	return 1;
+});
+
+force.start();
 
 //Set up tooltip
 var tip = d3.tip()
@@ -110,6 +141,7 @@ var node = svg.selectAll(".node")
     .attr("class", function(d){ kt = d.keytype || "unknown"; return "node " + kt.toLowerCase(); })
     .attr("r", r)
     .call(force.drag)
+      .on("dblclick", dblclick)
 .on('mouseover', tip.show) //Added
  .on('mouseout', tip.hide); //Added 
 
