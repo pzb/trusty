@@ -38,6 +38,10 @@ circle.node.unknown {
 	fill: darkred;
 }
 
+.node.fixed {
+	stroke: red;
+}
+
 /*
 text {
   font: 10px sans-serif;
@@ -67,6 +71,9 @@ var color = d3.scale.category20();
 var force = d3.layout.force()
     .size([w, h]);
 /*    .on("tick", tick); */
+
+var drag = force.drag()
+    .on("dragstart", dragstart);
 
 var svg = d3.select("body").append("svg:svg")
     .attr("width", w)
@@ -211,6 +218,15 @@ function collide(node) {
     return x1 > nx2 || x2 < nx1 || y1 > ny2 || y2 < ny1;
   };
 }
+
+function dblclick(d) {
+  d3.select(this).classed("fixed", d.fixed = false);
+}
+
+function dragstart(d) {
+  d3.select(this).classed("fixed", d.fixed = true);
+}
+
 
     </script>
   </body>
