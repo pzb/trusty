@@ -9,25 +9,34 @@
     <link type="text/css" rel="stylesheet" href="style.css"/>
     <style type="text/css">
 
-path.link {
+line.link {
   fill: none;
   stroke: #000;
   stroke-width: 1px;
 }
 
 marker#expired {
-  fill: lightgray;
+  fill: red;
 }
 
-path.link.expired {
-  stroke: lightgray;
+line.link.expired {
+  stroke: pink;
 }
 
 circle {
-  fill: #ccc;
+  fill: cornflowerblue;
   stroke: #333;
   stroke-width: 1px;
 }
+
+circle.node.ec {
+  fill: forestgreen;
+}
+
+circle.node.unknown {
+	fill: darkred;
+}
+
 /*
 text {
   font: 10px sans-serif;
@@ -70,20 +79,18 @@ var svg = d3.select("body").append("svg:svg")
 var link = svg.selectAll(".link")
     .data(trusty.links)
     .enter().append("line")
-    .attr("class", "link")
+    .attr("class", function(d) { return "link " + d.type; })
+    .attr("marker-end", function(d) { return "url(#" + d.type + ")"; })
     .style("stroke-width", function (d) {
-    return Math.sqrt(d.value);
-});
+    	return Math.sqrt(d.value);
+    });
 
 //Do the same with the circles for the nodes - no 
 var node = svg.selectAll(".node")
     .data(trusty.nodes)
     .enter().append("circle")
-    .attr("class", "node")
+    .attr("class", function(d){ kt = d.keytype || "unknown"; return "node " + kt.toLowerCase(); })
     .attr("r", r)
-    .style("fill", function (d) {
-    return color(2);
-})
     .call(force.drag);
 
 /*svg.append("svg:rect").attr("width",w).attr("height",h) */
@@ -154,6 +161,12 @@ function tick() {
 
 /*function tick() { */
 force.on("tick", function() {
+	var q = d3.geom.quadtree(trusty.nodes),
+			i = 0,
+			n = trusty.nodes.length;
+	while (++i < n) q.visit(collide(trusty.nodes[i]));
+
+
   node.attr("cx", function(d) { return d.x = Math.max(r, Math.min(w - r, d.x)); })
       .attr("cy", function(d) { return d.y = Math.max(r, Math.min(h - r, d.y)); });
   link.attr("x1", function(d) { return d.source.x; })
@@ -161,6 +174,30 @@ force.on("tick", function() {
       .attr("x2", function(d) { return d.target.x; })
       .attr("y2", function(d) { return d.target.y; });
 });
+
+function collide(node) {
+  var r = 6 + 16,
+      nx1 = node.x - r,
+      nx2 = node.x + r,
+      ny1 = node.y - r,
+      ny2 = node.y + r;
+  return function(quad, x1, y1, x2, y2) {
+    if (quad.point && (quad.point !== node)) {
+      var x = node.x - quad.point.x,
+          y = node.y - quad.point.y,
+          l = Math.sqrt(x * x + y * y),
+          r = 6 + 6;
+      if (l < r) {
+        l = (l - r) / l * .5;
+        node.x -= x *= l;
+        node.y -= y *= l;
+        quad.point.x += x;
+        quad.point.y += y;
+      }
+    }
+    return x1 > nx2 || x2 < nx1 || y1 > ny2 || y2 < ny1;
+  };
+}
     </script>
   </body>
 </html>
