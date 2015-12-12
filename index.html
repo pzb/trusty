@@ -6,6 +6,7 @@
     <title>Trusty CAs</title>
     <script type="text/javascript" src="trusty.json" charset="utf-8"></script>
     <script type="text/javascript" src="d3.js" charset="utf-8"></script>
+<script type='text/javascript' src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"> </script>
     <link type="text/css" rel="stylesheet" href="style.css"/>
     <style type="text/css">
 
@@ -75,6 +76,16 @@ var svg = d3.select("body").append("svg:svg")
     .links(trusty.links)
 	.start();
 
+//Set up tooltip
+var tip = d3.tip()
+    .attr('class', 'd3-tip')
+    .offset([-10, 0])
+    .html(function (d) {
+    return  d.name + "";
+})
+svg.call(tip);
+
+
 //Create all the line svgs but without locations yet
 var link = svg.selectAll(".link")
     .data(trusty.links)
@@ -91,7 +102,9 @@ var node = svg.selectAll(".node")
     .enter().append("circle")
     .attr("class", function(d){ kt = d.keytype || "unknown"; return "node " + kt.toLowerCase(); })
     .attr("r", r)
-    .call(force.drag);
+    .call(force.drag)
+.on('mouseover', tip.show) //Added
+ .on('mouseout', tip.hide); //Added 
 
 /*svg.append("svg:rect").attr("width",w).attr("height",h) */
 
@@ -198,6 +211,7 @@ function collide(node) {
     return x1 > nx2 || x2 < nx1 || y1 > ny2 || y2 < ny1;
   };
 }
+
     </script>
   </body>
 </html>
