@@ -49,7 +49,8 @@ text.shadow {
     <script type="text/javascript">
 
 var w = 2400,
-    h = 2400;
+    h = 2400,
+    r = 6;
 
 var color = d3.scale.category20();
 
@@ -79,7 +80,7 @@ var node = svg.selectAll(".node")
     .data(trusty.nodes)
     .enter().append("circle")
     .attr("class", "node")
-    .attr("r", 8)
+    .attr("r", r)
     .style("fill", function (d) {
     return color(2);
 })
@@ -153,12 +154,12 @@ function tick() {
 
 /*function tick() { */
 force.on("tick", function() {
+  node.attr("cx", function(d) { return d.x = Math.max(r, Math.min(w - r, d.x)); })
+      .attr("cy", function(d) { return d.y = Math.max(r, Math.min(h - r, d.y)); });
   link.attr("x1", function(d) { return d.source.x; })
       .attr("y1", function(d) { return d.source.y; })
       .attr("x2", function(d) { return d.target.x; })
       .attr("y2", function(d) { return d.target.y; });
-  node.attr("cx", function(d) { return d.x; })
-      .attr("cy", function(d) { return d.y; });
 });
     </script>
   </body>
