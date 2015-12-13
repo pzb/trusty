@@ -72,7 +72,8 @@ var w = 2400,
 var color = d3.scale.category20();
 
 var force = d3.layout.force()
-    .size([w, h]);
+    .size([w, h])
+    .gravity(0.05);
 /*    .on("tick", tick); */
 
 var drag = force.drag()
@@ -146,9 +147,12 @@ var node = svg.selectAll(".node")
         if (kt == "RSA" && d.params[0] < 2048) {
 	  kt = "smallrsa"
         }
+	if (d.nocerts) {
+	  kt += " nocerts"
+	}
 	return "node " + kt.toLowerCase(); 
     })
-    .attr("r", function(d){return d.radius;})
+    .attr("r", function(d){if (d.nocerts) {return 3.5}; return d.radius;})
     .call(force.drag)
       .on("dblclick", dblclick)
 .on('mouseover', tip.show) //Added

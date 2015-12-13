@@ -7,6 +7,7 @@ var trusty = {
         65537
       ],
       "name": "CN=NSW-DET-INT-CA1,OU=ITD,O=Department of Education and Training,C=AU",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16,6 +17,7 @@ var trusty = {
         65537
       ],
       "name": "C=BE,O=GlobalSign nv-sa,OU=RootSign Partners CA,CN=GlobalSign RootSign Partners CA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -47,6 +49,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DFN-Verein PCA Global - G01,OU=DFN-PKI,O=DFN-Verein,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -65,6 +68,7 @@ var trusty = {
         65537
       ],
       "name": "CN=USERTrust RSA Certification Authority,O=The USERTRUST Network,L=Jersey City,ST=New Jersey,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -92,10 +96,12 @@ var trusty = {
         65537
       ],
       "name": "CN=TradeSignCA,OU=AccreditedCA,O=TradeSign,C=KR",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=KISA RootCA 1,OU=Korea Certification Authority Central,O=KISA,C=KR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -105,10 +111,12 @@ var trusty = {
         65537
       ],
       "name": "CN=Cisco SSL CA,O=Cisco Systems",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "emailAddress=ca@digsigtrust.com,CN=DST RootCA X1,OU=DSTCA X1,O=Digital Signature Trust Co.,L=Salt Lake City,ST=Utah,C=us",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -145,10 +153,12 @@ var trusty = {
         65537
       ],
       "name": "CN=CERTSIGN FOR BANKING SIMPLE SSL PRODUCTION CA,OU=Certificat de productie Production certificate,O=certSIGN,C=RO",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "OU=certSIGN ROOT CA,O=certSIGN,C=RO",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -162,6 +172,7 @@ var trusty = {
     },
     {
       "name": "CN=Izenpe.com,O=IZENPE S.A.,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -171,6 +182,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DoD Intermediate CA-2,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -180,6 +192,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DoD Root CA 2,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -189,6 +202,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD EMAIL CA-17,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -216,6 +230,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Go Daddy Root Certificate Authority - G2,O=GoDaddy.com\\, Inc.,L=Scottsdale,ST=Arizona,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -234,6 +249,7 @@ var trusty = {
         65537
       ],
       "name": "CN=COMODO Certification Authority,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -243,6 +259,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC CAIXA-JUS,OU=Autoridade Certificadora da Justica - AC-JUS,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -252,6 +269,7 @@ var trusty = {
         63423
       ],
       "name": "CN=Autoridade Certificadora da Justica,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -270,6 +288,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Federal Bridge CA,OU=FPKI,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -297,10 +316,12 @@ var trusty = {
         65537
       ],
       "name": "ST=AP,emailAddress=admin@tcs-ca.tcs.co.in,L=Hyderabad,CN=Tata Consultancy Services Certifying Authority,OU=TCS CA,O=India PKI,C=IN",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=CCA India,O=India PKI,C=IN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -310,10 +331,12 @@ var trusty = {
         65537
       ],
       "name": "serialNumber=26,CN=Certigna Authentification PRIS***,OU=0002 481463081,O=Dhimyotis,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=Certigna,O=Dhimyotis,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -323,6 +346,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SerasaACGlobal,OU=Serasa Autoridade Certificadora Global,O=Serasa,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -332,6 +356,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GlobalSign Partners CA,OU=Partners CA,O=GlobalSign nv-sa,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -341,6 +366,7 @@ var trusty = {
         65537
       ],
       "name": "CN=ECA Root CA 2,OU=ECA,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -350,6 +376,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SHA-1 Federal Root CA,OU=FPKI,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -368,6 +395,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AddTrust External CA Root,OU=AddTrust External TTP Network,O=AddTrust AB,C=SE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -377,6 +405,7 @@ var trusty = {
         65537
       ],
       "name": "CN=ATT Wi-Fi Services Root Certificate Authority G2,OU=ATT Wi-Fi Services,O=ATT Services Inc,ST=Texas,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -386,6 +415,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Trusted Root CA G2,O=GlobalSign nv-sa,OU=Trusted Root,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -404,6 +434,7 @@ var trusty = {
         65537
       ],
       "name": "CN=ShoperÂ® SSL,OU=Dreamcommerce S.A.,O=Dreamcommerce S.A.,C=PL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -413,6 +444,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Certum Global Services CA,OU=Certum Certification Authority,O=Unizeto Technologies S.A.,C=PL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -431,6 +463,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Hellenic Academic and Research Institutions RootCA 2011,O=Hellenic Academic and Research Institutions Cert. Authority,C=GR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -449,6 +482,7 @@ var trusty = {
         65537
       ],
       "name": "CN=certSIGN Non-Repudiation CA Class 4,OU=certSIGN Non-Repudiation CA Class 4,O=certSIGN,C=RO",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -485,6 +519,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=info@diginotar.nl,CN=DigiNotar Qualified CA,O=DigiNotar,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -494,6 +529,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=info@diginotar.nl,CN=DigiNotar Root CA,O=DigiNotar,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -503,6 +539,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Autorite de Certification Serveurs,O=Ministere de la Justice",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -512,6 +549,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Autorite de Certification Ministere de la Justice,O=Ministere de la Justice",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -530,10 +568,12 @@ var trusty = {
         65537
       ],
       "name": "CN=Advanced e-Szigno CA2,OU=e-Szigno CA,O=Microsec Ltd.,L=Budapest,C=HU",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=Microsec e-Szigno Root CA,OU=e-Szigno CA,O=Microsec Ltd.,L=Budapest,C=HU",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -561,10 +601,12 @@ var trusty = {
         47143
       ],
       "name": "CN=Autoridade Certificadora da Presidencia da Republica v2,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=Autoridade Certificadora Raiz Brasileira v1,OU=Instituto Nacional de Tecnologia da Informacao - ITI,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -574,6 +616,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Comodo Class 3 Security Services CA,OU=(c)2002 Comodo Limited,OU=Terms and Conditions of use: http://www.comodo.net/repository,OU=Comodo Trust Network,O=Comodo Limited,C=GB",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -601,6 +644,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Baltimore CyberTrust Root,OU=CyberTrust,O=Baltimore,C=IE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -610,6 +654,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC SINCOR RFB G2,OU=Secretaria da Receita Federal do Brasil - RFB,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -619,6 +664,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Secretaria da Receita Federal do Brasil,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -628,10 +674,12 @@ var trusty = {
         65537
       ],
       "name": "CN=Fraunhofer Root CA 2007,OU=Fraunhofer Corporate PKI,O=Fraunhofer,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=Deutsche Telekom Root CA 2,OU=T-TeleSec Trust Center,O=Deutsche Telekom AG,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -641,6 +689,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=hmica@hmi.de,CN=HMI CA - G02,OU=Abteilung DV-Systeme und Netze,O=Hahn-Meitner-Institut Berlin GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -659,6 +708,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VR IDENT EXTERNAL ROOT CA 2013,OU=VR IDENT,O=GAD EG,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -668,6 +718,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Bechtel External Policy CA 1,OU=Information Security,O=Bechtel Corporation,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -677,6 +728,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GTE CyberTrust Global Root,OU=GTE CyberTrust Solutions\\, Inc.,O=GTE Corporation,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -686,6 +738,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Greek School Network CA R2,O=Hellenic Academic and Research Institutions Cert. Authority,C=GR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -695,6 +748,7 @@ var trusty = {
         65537
       ],
       "name": "CN=PKI SwissPost EXT Machine CA,OU=PROD,O=Die Schweizerische Post,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -708,10 +762,12 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Imprensa Oficial SP G3,OU=Autoridade Certificadora Raiz Brasileira v2,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=Autoridade Certificadora Raiz Brasileira v2,OU=Instituto Nacional de Tecnologia da Informacao - ITI,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -730,6 +786,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Network Solutions EV SSL CA,O=Network Solutions L.L.C.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -757,10 +814,12 @@ var trusty = {
         65537
       ],
       "name": "CN=GlobalSign Domain Validation CT,O=GlobalSign nv-sa,OU=Domain Validation CA,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=GlobalSign Root CAT,OU=Root CAT,O=GlobalSign nv-sa,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -792,6 +851,7 @@ var trusty = {
     },
     {
       "name": "CN=CNNIC ROOT,O=CNNIC,C=CN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -801,6 +861,7 @@ var trusty = {
         65537
       ],
       "name": "CN=UIS-IsuA1-CA,DC=uis,DC=unisys,DC=com",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -810,6 +871,7 @@ var trusty = {
         65537
       ],
       "name": "CN=UIS-IntA-CA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -819,6 +881,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GlobalSign Primary Class 2 CA,OU=Primary Class 2 CA,O=GlobalSign nv-sa,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -828,6 +891,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GlobalSign Root CA,OU=Root CA,O=GlobalSign nv-sa,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -837,10 +901,12 @@ var trusty = {
         65537
       ],
       "name": "CN=Wells Fargo Enterprise CA 01,OU=Wells Fargo Certificate Authorities,O=Wells Fargo,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=Wells Fargo Root Certificate Authority,OU=Wells Fargo Certification Authority,O=Wells Fargo,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -886,6 +952,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DeltaCredit Bank Enterprise Certification Authority,O=Commercial bank DeltaCredit Closed joint stock company,L=Moscow,DC=deltacredit,DC=ru,C=RU",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -895,6 +962,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DeltaCredit CA,O=Commercial bank DeltaCredit Closed joint stock company",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -904,10 +972,12 @@ var trusty = {
         65537
       ],
       "name": "CN=SSC Class 1 CA II,OU=Certification Authority,O=Skaitmeninio sertifikavimo centras,C=LT",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=SSC Root CA A,OU=Certification Authority,O=Skaitmeninio sertifikavimo centras,C=LT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -917,10 +987,12 @@ var trusty = {
         65537
       ],
       "name": "CN=Autoridade Certificadora da Presidencia da Republica,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=Autoridade Certificadora Raiz Brasileira,ST=DF,L=Brasilia,OU=Instituto Nacional de Tecnologia da Informacao - ITI,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -948,10 +1020,12 @@ var trusty = {
         65537
       ],
       "name": "CN=DigiCert Trusted Root G4,OU=www.digicert.com,O=DigiCert Inc,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=DigiCert Global Root CA,OU=www.digicert.com,O=DigiCert Inc,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -961,6 +1035,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Earthlink Root CA,O=Earthlink Inc",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -970,6 +1045,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=rsakeonrootsign@rsasecurity.com,CN=RSA Public Root CA v1,O=RSA Security Inc.",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -979,6 +1055,7 @@ var trusty = {
         65537
       ],
       "name": "CN=USERTrust Legacy Secure Server CA,O=The USERTRUST Network,L=Salt Lake City,ST=UT,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -997,6 +1074,7 @@ var trusty = {
         65537
       ],
       "name": "CN=UniCERT Certificadora,OU=AC-01 UniCERT,O=UniCERT Brasil Certificadora,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1006,6 +1084,7 @@ var trusty = {
         65537
       ],
       "name": "OU=Security Communication RootCA1,O=SECOM Trust.net,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1019,6 +1098,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TeliaSonera Class 2 CA v2,O=TeliaSonera,C=SE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1028,6 +1108,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TeliaSonera Root CA v1,O=TeliaSonera",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1064,6 +1145,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DigiCert High Assurance EV Root CA,OU=www.digicert.com,O=DigiCert Inc,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1082,6 +1164,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Certification Authority of WoSign,O=WoSign eCommerce Services Limited,C=CN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1100,6 +1183,7 @@ var trusty = {
         65537
       ],
       "name": "CN=eBiz Networks Certificate Services,O=eBiz Networks Ltd,C=KR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1118,6 +1202,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VeriSign Class 3 Public Primary Certification Authority - G5,OU=(c) 2006 VeriSign\\, Inc. - For authorized use only,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1127,6 +1212,7 @@ var trusty = {
         65537
       ],
       "name": "CN=COMODO RSA Certification Authority,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1136,6 +1222,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VeriSign Class 2 SSP Intermediate CA,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1158,10 +1245,12 @@ var trusty = {
         65537
       ],
       "name": "CN=Digidentity L3 ABZ CA - G2,O=Digidentity B.V.,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=Digidentity L3 Root CA - G2,O=Digidentity B.V.,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1216,6 +1305,7 @@ var trusty = {
         65537
       ],
       "name": "CN=UIS-IntB-CA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1234,6 +1324,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC VALID,OU=Autoridade Certificadora Raiz Brasileira v2,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1243,6 +1334,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Herritar eta Erakundeen CA - CA de Ciudadanos y Entidades (3),OU=NZZ Ziurtagiri publikoa - Certificado publico SCI,O=IZENPE S.A.,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1270,6 +1362,7 @@ var trusty = {
         65537
       ],
       "name": "OU=Security Communication EV RootCA1,O=SECOM Trust Systems CO.\\,LTD.,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1279,6 +1372,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Equifax Secure E-Business CA-2,O=Equifax Secure Inc,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1297,6 +1391,7 @@ var trusty = {
         65537
       ],
       "name": "CN=LSU Health System CA,O=LSU Health System,OU=IT Security and Policy Group,L=Shreveport,ST=Louisiana,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1306,6 +1401,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Trusted Root CAT G2,O=GlobalSign nv-sa,OU=Trusted Root,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1315,6 +1411,7 @@ var trusty = {
         65537
       ],
       "name": "OU=Security Communication RootCA2,O=SECOM Trust Systems CO.\\,LTD.,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1351,6 +1448,7 @@ var trusty = {
         65537
       ],
       "name": "CN=StartCom Certification Authority,OU=Secure Digital Certificate Signing,O=StartCom Ltd.,C=IL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1360,6 +1458,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VeriSign Japan Class 2 Managed PKI Individual Subscriber CA - G2,OU=Terms of use at https://www.verisign.co.jp/rpa (c)09,OU=VeriSign Trust Network,O=VeriSign Japan K.K.,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1369,6 +1468,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DEV Virginia Tech Global Qualified Server CA,O=Virginia Polytechnic Institute and State University,OU=Global Qualified Server CA,L=Blacksburg,ST=Virginia,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1378,6 +1478,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Fuji Xerox SDES CA,O=Fuji Xerox,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1387,6 +1488,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Fuji Xerox Certification Authority,O=Fuji Xerox,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1414,6 +1516,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Symantec Class 3 Organizational CA - G2,OU=Terms of use at https://www.verisign.com/rpa (c)11,OU=VeriSign Trust Network,O=Symantec Corporation,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1445,6 +1548,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Cybertrust Global Root,O=Cybertrust\\, Inc",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1463,6 +1567,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Racine,OU=0002 110 036 035 00019,O=Ministere en charge des affaires sanitaires et sociales,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1472,6 +1577,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Touring Club Suisse CA,O=Touring Club Suisse (TCS),L=Vernier,ST=Geneva,DC=tcsgroup,DC=ch,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1481,6 +1587,7 @@ var trusty = {
         65537
       ],
       "name": "CN=WISeKey CertifyID Advanced G1 CA,OU=International,OU=Copyright (c) 2005 WISeKey SA,O=WISeKey,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1494,6 +1601,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GDT-EntSubCA-Public,DC=ad,DC=guidant,DC=com",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1503,6 +1611,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GDT-SubCA-Public",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1512,6 +1621,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Google Internet Authority,O=Google Inc,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1525,10 +1635,12 @@ var trusty = {
         65537
       ],
       "name": "CN=QuoVadis Demo CA No Reliance,OU=Issuing Certification Authority,OU=Demonstration No Reliance Value,O=QuoVadis Limited,C=BM",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=QuoVadis Root Certification Authority,OU=Root Certification Authority,O=QuoVadis Limited,C=BM",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1556,6 +1668,7 @@ var trusty = {
         3
       ],
       "name": "CN=Entrust.net Secure Server Certification Authority,OU=(c) 1999 Entrust.net Limited,OU=www.entrust.net/CPS incorp. by ref. (limits liab.),O=Entrust.net,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1565,10 +1678,12 @@ var trusty = {
         65537
       ],
       "name": "CN=CA131000001,OU=GPKI,O=Government of Korea,C=KR",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=Root CA,OU=GPKI,O=Government of Korea,C=KR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1596,6 +1711,7 @@ var trusty = {
         65537
       ],
       "name": "CN=CA 沃通根证书,O=WoSign CA Limited,C=CN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1605,6 +1721,7 @@ var trusty = {
         65537
       ],
       "name": "CN=COMODO Code Signing CA,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1614,6 +1731,7 @@ var trusty = {
         65537
       ],
       "name": "CN=UTN-USERFirst-Object,OU=http://www.usertrust.com,O=The USERTRUST Network,L=Salt Lake City,ST=UT,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1627,6 +1745,7 @@ var trusty = {
     },
     {
       "name": "CN=Certplus Root CA G1,O=Certplus,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1663,6 +1782,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Syncrude Corporate Policy CA 2,O=Syncrude Canada Ltd,C=CA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1681,6 +1801,7 @@ var trusty = {
         65537
       ],
       "name": "CN=E-ME PSI (PCA),OU=Sertifikacijas pakalpojumu dala,C=LV",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1690,14 +1811,17 @@ var trusty = {
         65537
       ],
       "name": "CN=Florida HIE Exchange CA,OU=Florida HIE,O=Harris Corp,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=DigiCert Assured ID Root CA,OU=www.digicert.com,O=DigiCert Inc,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=E-ME SSI (RCA),OU=Sertifikacijas pakalpojumu dala,C=LV",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1707,10 +1831,12 @@ var trusty = {
         65537
       ],
       "name": "serialNumber=A82743287,CN=CA Camerfirma Express Corporate Server,O=AC Camerfirma SA,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=Chambers of Commerce Root,OU=http://www.chambersign.org,O=AC Camerfirma SA CIF A82743287,C=EU",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1720,6 +1846,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Digidentity L3 Services CA - G2,O=Digidentity B.V.,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1729,6 +1856,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Digidentity L3 Organisatie CA - G2,O=Digidentity B.V.,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1747,6 +1875,7 @@ var trusty = {
         65537
       ],
       "name": "serialNumber=2008,CN=Government CA,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1756,6 +1885,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Belgium Root CA2,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1765,6 +1895,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TaiCA Secure CA,OU=SSL Certification Service Provider,O=TAIWAN-CA.COM Inc.,C=TW",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1778,6 +1909,7 @@ var trusty = {
     },
     {
       "name": "CN=GeoTrust Primary Certification Authority - G3,OU=(c) 2008 GeoTrust Inc. - For authorized use only,O=GeoTrust Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1809,6 +1941,7 @@ var trusty = {
     },
     {
       "name": "CN=OpenTrust Root CA G1,O=OpenTrust,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1827,6 +1960,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TC TrustCenter Class 4 Extended Validation CA I,OU=TC TrustCenter Class 4 L1 CA,O=TC TrustCenter GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1836,6 +1970,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TC TrustCenter Universal CA III,OU=TC TrustCenter Universal CA,O=TC TrustCenter GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1845,6 +1980,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Certum Level III CA,OU=Certum Certification Authority,O=Unizeto Technologies S.A.,C=PL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1854,6 +1990,7 @@ var trusty = {
         65537
       ],
       "name": "CN=ORC ECA HW 3,OU=Certification Authorities,OU=ECA,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1863,6 +2000,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Akamai Subordinate CA 3,O=Akamai Technologies Inc,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1881,6 +2019,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Certification Authority of WoSign,O=WoSign CA Limited,C=CN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1908,6 +2047,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Staat der Nederlanden Organisatie CA - G2,O=Staat der Nederlanden,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1917,6 +2057,7 @@ var trusty = {
         65537
       ],
       "name": "CN=CA de Certificados SSL EV,O=IZENPE S.A.,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1926,6 +2067,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TC TrustCenter Class 3 L1 CA III,OU=TC TrustCenter Class 3 L1 CA,O=TC TrustCenter GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1935,6 +2077,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=certificate@trustcenter.de,OU=TC TrustCenter Class 3 CA,O=TC TrustCenter for Security in Data Networks GmbH,L=Hamburg,ST=Hamburg,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1953,6 +2096,7 @@ var trusty = {
         65537
       ],
       "name": "CN=RSA Corporate CA v2,OU=Global Security Organization,O=RSA Security LLC,L=Bedford,ST=Massachusetts,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1962,10 +2106,12 @@ var trusty = {
         65537
       ],
       "name": "CN=Bechtel Corporation Issuing CA 1,OU=Information Security,O=Bechtel Corporation,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=Bechtel Corporation Root CA,OU=Information Security,O=Bechtel Corporation,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -1993,6 +2139,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC RACINE DIPLOMATIE,OU=0002 12000601000025,O=MINISTERE DES AFFAIRES ETRANGERES,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2002,6 +2149,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GlobalSign Primary Class 2 CAT,OU=Primary Class 2 CAT,O=GlobalSign nv-sa,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2011,6 +2159,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Audkenni SLP CA,OU=SLP CA,O=Audkenni hf.,C=IS",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2029,6 +2178,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=ca@inp-greifswald.de,CN=INP-Greifswald CA,O=Leibniz-Institut fuer Plasmaforschung und Technologie e.V.,L=Greifswald,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2047,6 +2197,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Entrust Root Certification Authority,OU=(c) 2006 Entrust\\, Inc.,OU=www.entrust.net/CPS is incorporated by reference,O=Entrust\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2056,10 +2207,12 @@ var trusty = {
         65537
       ],
       "name": "OU=i-Notary Hosted Enterprises CA+CN=i-Notary Hosted Enterprises CA+DC=hosted-ca+O=InfoNotary PLC+C=BG",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "emailAddress=csp@infonotary.com+OU=InfoNotary CSP Root+CN=InfoNotary CSP Root+DC=root-ca+O=InfoNotary PLC+C=BG",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2078,6 +2231,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AffirmTrust Networking,O=AffirmTrust,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2087,6 +2241,7 @@ var trusty = {
         65537
       ],
       "name": "CN=eLeader Global Class3 CA v2,OU=CA Center,O=TaiOne International Ltd.,C=TW,emailAddress=camaster@egca.com.tw",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2096,6 +2251,7 @@ var trusty = {
         65537
       ],
       "name": "CN=eLeader Global CA v2,OU=CA Center,O=TaiOne International Ltd.,C=TW,emailAddress=camaster@egca.com.tw",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2114,10 +2270,12 @@ var trusty = {
         65537
       ],
       "name": "CN=TRUST2408 OCES CA II,O=TRUST2408,C=DK",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=TRUST2408 OCES Primary CA,O=TRUST2408,C=DK",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2158,6 +2316,7 @@ var trusty = {
     },
     {
       "name": "CN=Swiss Government Root CA II,OU=Certification Authorities,OU=Services,O=The Federal Authorities of the Swiss Confederation,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2167,6 +2326,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DST ACES Device CA A4,OU=DST ACES,O=Digital Signature Trust,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2176,6 +2336,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DST ACES CA X6,OU=DST ACES,O=Digital Signature Trust,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2203,10 +2364,12 @@ var trusty = {
         65537
       ],
       "name": "CN=DRS-TEM External Issuing CA v1,O=DRS-TEM",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "OU=RSA Security 2048 V3,O=RSA Security Inc",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2229,6 +2392,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Entrust QA Certification Authority - L1M,OU=(c) 2014 Entrust\\, Inc. - for authorized use only,OU=See www.entrust.net/legal-terms,O=Entrust\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2238,14 +2402,17 @@ var trusty = {
         65537
       ],
       "name": "CN=Swisscom Rubin CA 2,OU=Digital Certificate Services,O=Swisscom,C=ch",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=Swisscom Root CA 2,OU=Digital Certificate Services,O=Swisscom,C=ch",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=UIS-Root-CA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2264,6 +2431,7 @@ var trusty = {
         65537
       ],
       "name": "CN=QuoVadis Root CA 2,O=QuoVadis Limited,C=BM",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2273,6 +2441,7 @@ var trusty = {
         65537
       ],
       "name": "OU=InfoNotary Validation Services CA+CN=InfoNotary Validation Services CA+DC=validation-ca+O=InfoNotary PLC+C=BG",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2282,10 +2451,12 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=general@ipsca.com,CN=ipsCA CLASEA1 Certification Authority,OU=ipsCA CLASEA1 Certification Authority,O=general@ipsca.com C.I.F.  B-B62210695,O=IPS Certification Authority s.l.,L=Barcelona,ST=Barcelona,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "emailAddress=ips@mail.ips.es,CN=IPS SERVIDORES,OU=Certificaciones,O=IPS Seguridad CA,L=BARCELONA,ST=BARCELONA,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2295,10 +2466,12 @@ var trusty = {
         42731
       ],
       "name": "C=TR,O=EBG Bilişim Teknolojileri ve Hizmetleri A.Ş.,CN=EBG Nitelikli Elektronik Sertifika Hizmet Sağlayıcısı",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "C=TR,O=EBG Bilişim Teknolojileri ve Hizmetleri A.Ş.,CN=EBG Elektronik Sertifika Hizmet Sağlayıcısı",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2326,6 +2499,7 @@ var trusty = {
         65537
       ],
       "name": "C=US,O=ATT Services Inc,OU=ATT Wi-Fi Services,CN=Managed Device CA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2335,6 +2509,7 @@ var trusty = {
         65537
       ],
       "name": "C=US,O=ATT Services Inc,OU=ATT Wi-Fi Services,CN=ATT Wi-Fi Services Root Certificate Authority",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2348,6 +2523,7 @@ var trusty = {
     },
     {
       "name": "OU=Trustis FPS Root CA,O=Trustis Limited,C=GB",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2357,6 +2533,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=ca@trustwave.com,CN=Trustwave Organization Validation CA\\, Level 1,O=Trustwave Holdings\\, Inc.,L=Chicago,ST=Illinois,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2384,6 +2561,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DigiNotar PKIoverheid CA Organisatie - G2,O=DigiNotar B.V.,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2393,6 +2571,7 @@ var trusty = {
         65537
       ],
       "name": "C=GB,O=Marks and Spencer Group plc,OU=Marks and Spencer Group plc OmniRoot sub CA,CN=Marks and Spencer Group plc External sub CA1",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2402,10 +2581,12 @@ var trusty = {
         65537
       ],
       "name": "CN=TCS CA 2011,houseIdentifier=9th Floor\\, Nirmal Building,street=Nariman Point\\, Mumbai,ST=Maharashtra,postalCode=400021,OU=Certifying Authority,O=Tata Consultancy Services Ltd.,C=IN",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=CCA India 2011,O=India PKI,C=IN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2415,6 +2596,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Wells Fargo Enterprise CA 03,OU=Wells Fargo Certificate Authorities,O=Wells Fargo,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2433,6 +2615,7 @@ var trusty = {
         65537
       ],
       "name": "OU=InfoNotary TrustPath CA+CN=InfoNotary TrustPath CA+DC=trustpath-ca+O=InfoNotary PLC+C=BG",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2451,6 +2634,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TWCA Global Root CA,OU=Root CA,O=TAIWAN-CA,C=TW",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2460,6 +2644,7 @@ var trusty = {
         65537
       ],
       "name": "CN=E-Tuğra Nitelikli Elektronik Sertifika Hizmet Sağlayıcısı v2,OU=E-Tuğra Sertifikasyon Merkezi,O=E-Tuğra EBG Bilişim Teknolojileri ve Hizmetleri A.Ş.,L=Ankara,C=TR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2469,6 +2654,7 @@ var trusty = {
         65537
       ],
       "name": "CN=E-Tugra Certification Authority,OU=E-Tugra Sertifikasyon Merkezi,O=E-Tuğra EBG Bilişim Teknolojileri ve Hizmetleri A.Ş.,L=Ankara,C=TR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2482,6 +2668,7 @@ var trusty = {
     },
     {
       "name": "CN=Registradores de España - CA Raíz,OU=Certificado Propio,O=Colegio de Registradores de la Propiedad y Mercantiles de España,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2491,10 +2678,12 @@ var trusty = {
         65537
       ],
       "name": "CN=BTJ Public CA 1,O=Baltimore Technologies Japan Co.\\,Ltd.,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=GTE CyberTrust Root,O=GTE Corporation,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2517,6 +2706,7 @@ var trusty = {
     },
     {
       "name": "CN=GPKIRootCA1,OU=GPKI,O=Government of Korea,C=KR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2526,6 +2716,7 @@ var trusty = {
         65537
       ],
       "name": "CN=mtnlTrustLine Class 3 Devices Sub CA G1,OU=mtnlTrustLine,O=Mahanagar Telephone Nigam Limited\\ ,C=IN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2535,6 +2726,7 @@ var trusty = {
         65537
       ],
       "name": "CN=mtnlTrustLine Public Primary Certification Authority G1,OU=mtnlTrustLine,O=Mahanagar Telephone Nigam Limited,C=IN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2544,6 +2736,7 @@ var trusty = {
         65537
       ],
       "name": "CN=T-TeleSec Extended Validation SSL CA Class 3,OU=T-Systems Trust Center,O=T-Systems Enterprise Services GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2553,6 +2746,7 @@ var trusty = {
         65537
       ],
       "name": "CN=T-TeleSec GlobalRoot Class 3,OU=T-Systems Trust Center,O=T-Systems Enterprise Services GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2571,6 +2765,7 @@ var trusty = {
         65537
       ],
       "name": "CN=The Walt Disney Company Root CA,OU=TWDC-PKI,DC=disney,DC=com",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2589,6 +2784,7 @@ var trusty = {
         65537
       ],
       "name": "OU=US Treasury Root CA,OU=Certification Authorities,OU=Department of the Treasury,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2598,6 +2794,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Federal Common Policy CA,OU=FPKI,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2607,6 +2804,7 @@ var trusty = {
         58919
       ],
       "name": "CN=AC SERPRO-JUS v3,OU=Autoridade Certificadora da Justica - AC-JUS,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2616,6 +2814,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Autoridade Certificadora da Justica v3,OU=Instituto Nacional de Tecnologia da Informacao - ITI,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2638,6 +2837,7 @@ var trusty = {
     },
     {
       "name": "CN=StartCom Certification Authority G2,O=StartCom Ltd.,C=IL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2665,6 +2865,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC CAIXA PJ v1,OU=Caixa Economica Federal,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2674,6 +2875,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC CAIXA v1,OU=Autoridade Certificadora Raiz Brasileira v1,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2683,6 +2885,7 @@ var trusty = {
         65537
       ],
       "name": "C=PT,O=Saphety Level - Trusted Services SA,CN=Saphety Server 04",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2692,6 +2895,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Saphety CA02,O=Saphety,C=PT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2710,6 +2914,7 @@ var trusty = {
         65537
       ],
       "name": "OU=Social Security Administration Certification Authority,OU=SSA,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2719,6 +2924,7 @@ var trusty = {
         65537
       ],
       "name": "CN=U.S. Department of State AD Root CA,CN=AIA,CN=Public Key Services,CN=Services,CN=Configuration,DC=state,DC=sbu",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2728,6 +2934,7 @@ var trusty = {
         65537
       ],
       "name": "CN=NAU Offline Intermediate CA,C=US,L=Flagstaff,O=Northern Arizona University,OU=Information Technology Services,ST=Arizona,emailAddress=its-mensa@nau.edu",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2759,6 +2966,7 @@ var trusty = {
     },
     {
       "name": "CN=VRK Gov. Root CA,OU=Varmennepalvelut,OU=Certification Authority Services,O=Vaestorekisterikeskus CA,ST=Finland,C=FI",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2768,6 +2976,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DoD Intermediate CA-1,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2777,6 +2986,7 @@ var trusty = {
         65537
       ],
       "name": "CN=ATT Wi-Fi Services Managed Device Certificate Authority G3,OU=ATT Wi-Fi Services,O=ATT Services Inc,ST=Texas,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2786,6 +2996,7 @@ var trusty = {
         65537
       ],
       "name": "CN=ATT Wi-Fi Services Root Certificate Authority G3,OU=ATT Wi-Fi Services,O=ATT Services Inc,ST=Texas,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2795,6 +3006,7 @@ var trusty = {
         3
       ],
       "name": "OU=Go Daddy Class 2 Certification Authority,O=The Go Daddy Group\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2813,6 +3025,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Symantec Class 3 Registration Authority Intermediate CA,OU=Symantec Trust Network,O=Symantec Corporation,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2835,6 +3048,7 @@ var trusty = {
     },
     {
       "name": "CN=Buypass Class 3 Root CA,O=Buypass AS-983163327,C=NO",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2853,6 +3067,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GeoTrust Global CA,O=GeoTrust Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2866,6 +3081,7 @@ var trusty = {
     },
     {
       "name": "CN=EADS Root CA 2,O=European Aeronautic Defence and Space Company,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2875,10 +3091,12 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=info@e-szigno.hu,CN=Advanced Class 3 e-Szigno CA 2009,O=Microsec Ltd.,L=Budapest,C=HU",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "emailAddress=info@e-szigno.hu,CN=Microsec e-Szigno Root CA 2009,O=Microsec Ltd.,L=Budapest,C=HU",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2888,10 +3106,12 @@ var trusty = {
         65537
       ],
       "name": "CN=MSIT Enterprise CA 1",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=Microsoft Corporate Root CA,O=Microsoft Corporation",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2901,10 +3121,12 @@ var trusty = {
         65537
       ],
       "name": "CN=VI CA2,OU=Visa International Service Association,O=VISA,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=Visa Information Delivery Root CA,OU=Visa International Service Association,O=VISA,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2923,6 +3145,7 @@ var trusty = {
         65537
       ],
       "name": "CN=MINEFI-AC-Teleprocedures,OU=Teleprocedures,O=MINEFI,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2932,6 +3155,7 @@ var trusty = {
         65537
       ],
       "name": "CN=MINEFI-AUTORITE DE CERTIFICATION RACINE,OU=AGENCE AUTORITE,O=MINEFI,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2950,6 +3174,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD CA-16,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -2986,6 +3211,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Class 3 Open Financial Exchange CA - G2,OU=Terms of use at https://www.verisign.com/rpa (c)01,OU=VeriSign Trust Network,O=VeriSign\\, Inc.",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3040,6 +3266,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AddTrust2Server CA 03,OU=AddTrust TTP Network,O=SCANDTRUST AB,C=SE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3049,6 +3276,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AddTrust Public Chaining CA 02,OU=AddTrust TTP Network,O=AddTrust AB,C=SE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3067,6 +3295,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GOVT-SSP-CA-B6,OU=PKI,OU=Services,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3076,6 +3305,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Betrusted Production SSP CA A1,OU=Betrusted Production SSP CA A1,OU=SSP,O=Betrusted US Inc,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3085,10 +3315,12 @@ var trusty = {
         65537
       ],
       "name": "C=IL,O=Bank Leumi Le-Israel LTD,CN=Leumi",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "C=IL,O=ComSign,CN=ComSign CA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3098,6 +3330,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Autoridade Certificadora do SERPRO - SRF,OU=Secretaria da Receita Federal - SRF,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3107,6 +3340,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Autoridade Certificadora da Secretaria da Receita Federal,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3134,6 +3368,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VeriSign Universal Root Certification Authority,OU=(c) 2008 VeriSign\\, Inc. - For authorized use only,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3152,6 +3387,7 @@ var trusty = {
         65537
       ],
       "name": "CN=CertiPath Bridge CA,OU=Certification Authorities,O=CertiPath LLC,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3161,6 +3397,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Autoridade Certificadora SERPRO v3,OU=Autoridade Certificadora Raiz Brasileira v2,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3170,6 +3407,7 @@ var trusty = {
         65537
       ],
       "name": "CN=cw,O=Cable & Wireless plc,C=WW",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3179,10 +3417,12 @@ var trusty = {
         65537
       ],
       "name": "CN=Agriculture AC Racine,OU=0002 110070018,O=service-public gouv agriculture,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "emailAddress=igca@sgdn.pm.gouv.fr,CN=IGC/A,OU=DCSSI,O=PM/SGDN,L=Paris,ST=France,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3192,6 +3432,7 @@ var trusty = {
         3
       ],
       "name": "CN=Cisco SSCA,O=Cisco Systems",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3201,6 +3442,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DST Root CA X3,O=Digital Signature Trust Co.",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3210,6 +3452,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=info@diginotar.nl,CN=DigiNotar Cyber CA,O=DigiNotar,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3228,6 +3471,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Certification Authority of WoSign G2,O=WoSign CA Limited,C=CN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3237,6 +3481,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DigiCert Federated Trust CA,OU=www.digicert.com,O=DigiCert Inc,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3264,6 +3509,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Instituto Fenacon G2,OU=Certisign Certificadora Digital S.A.,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3273,6 +3519,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Certisign G6,OU=Autoridade Certificadora Raiz Brasileira v2,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3300,6 +3547,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Certum Trusted Network CA,OU=Certum Certification Authority,O=Unizeto Technologies S.A.,C=PL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3309,6 +3557,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GeoTrust Primary Certification Authority,O=GeoTrust Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3318,10 +3567,12 @@ var trusty = {
         65537
       ],
       "name": "CN=Kas_Pol_Prod_CA,O=KAS BANK N.V.,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=KASBANK-ROOT-CA,O=KAS BANK N.V.,L=Amsterdam,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3335,6 +3586,7 @@ var trusty = {
     },
     {
       "name": "CN=CFCA EV ROOT,O=China Financial Certification Authority,C=CN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3374,6 +3626,7 @@ var trusty = {
       "keytype": "EC",
       "params": "secp384r1",
       "name": "CN=COMODO ECC Certification Authority,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3401,6 +3654,7 @@ var trusty = {
         65537
       ],
       "name": "CN=shv-SH-CA1,O=LSU Health System,L=Shreveport,ST=Louisiana,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3410,6 +3664,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Intel External Basic Policy CA,O=Intel Corporation,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3428,6 +3683,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VeriSign Class 3 Extended Validation CA - T1,OU=Terms of use at https://www.verisign.com/rpa (c)10,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3446,6 +3702,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC DIGITALSIGN ACP,OU=Autoridade Certificadora Raiz Brasileira v2,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3477,6 +3734,7 @@ var trusty = {
     },
     {
       "name": "CN=Hongkong Post Root CA 1,O=Hongkong Post,C=HK",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3490,6 +3748,7 @@ var trusty = {
     },
     {
       "name": "CN=Certplus Root CA G2,O=Certplus,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3508,6 +3767,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Racine - Secteur public developpement durable,OU=0002 120066022,O=Secteur public developpement durable,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3517,6 +3777,7 @@ var trusty = {
         65537
       ],
       "name": "OU=i-Notary TrustPath Validated Identity CA+CN=i-Notary TrustPath Validated Identity CA+DC=identity-ca+O=InfoNotary PLC+C=BG",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3526,6 +3787,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Audkenni Primary Secure Server CA,OU=Primary Secure Server CA,O=Audkenni hf.,C=IS",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3535,6 +3797,7 @@ var trusty = {
         65537
       ],
       "name": "CN=S-TRUST Class 2 VTN Universal CA,OU=Class 2 Managed PKI Individual Subscriber CA,OU=Terms of use at https://www.s-trust.de/rpa (c)10,OU=VeriSign Trust Network,O=Deutscher Sparkassen Verlag GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3544,6 +3807,7 @@ var trusty = {
         65537
       ],
       "name": "CN=S-TRUST Class 2 CA - G2,OU=VeriSign Trust Network,O=Deutscher Sparkassen Verlag GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3553,6 +3817,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SafeScrypt CA 2011,houseIdentifier=II Floor\\, Tidel Park,street=No.4\\, Rajiv Gandhi Salai\\, Taramani\\, Chennai,ST=Tamil Nadu,postalCode=600 113,OU=Certifying Authority,O=Sify Technologies Limited,C=IN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3580,6 +3845,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GlobalSign,O=GlobalSign,OU=GlobalSign Root CA - R2",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3616,6 +3882,7 @@ var trusty = {
         65537
       ],
       "name": "CN=PinkRoccade CSP - Overheid - Onweerlegbaarheid CA,O=PinkRoccade Infrastructure Services BV,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3625,6 +3892,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Staat der Nederlanden Overheid CA,O=Staat der Nederlanden,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3652,6 +3920,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Fraunhofer User CA 2007,OU=Fraunhofer Corporate PKI,O=Fraunhofer,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3661,6 +3930,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SwissSign EV Gold CA 2008 - G2,O=SwissSign AG,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3670,6 +3940,7 @@ var trusty = {
         65537
       ],
       "name": "CN=KIBS Verba Root CA,OU=Verba CA,O=KIBS AD Skopje,C=MK",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3679,10 +3950,12 @@ var trusty = {
         65537
       ],
       "name": "CN=Let's Encrypt Authority X2,O=Let's Encrypt,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=ISRG Root X1,O=Internet Security Research Group,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3692,6 +3965,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VI Registru Centras RCSC (IssuingCA),OU=Registru Centro Sertifikavimo Centras,O=VI Registru Centras - I.k. 124110246,C=LT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3701,6 +3975,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VI Registru Centras RCSC (PolicyCA),OU=Registru Centro Sertifikavimo Centras,O=VI Registru Centras - I.k. 124110246,C=LT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3755,6 +4030,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=soc@bechtel.com,CN=CIRT CA,OU=CIRT,O=Bechtel,L=San Francisco,ST=CA,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3782,6 +4058,7 @@ var trusty = {
         65537
       ],
       "name": "CN=thawte Primary Root CA,OU=(c) 2006 thawte\\, Inc. - For authorized use only,OU=Certification Services Division,O=thawte\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3800,6 +4077,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC SOLUTI,OU=Autoridade Certificadora Raiz Brasileira v2,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3809,6 +4087,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DigiCert Global CA,OU=www.digicert.com,O=DigiCert Inc,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3827,10 +4106,12 @@ var trusty = {
         65537
       ],
       "name": "CN=Starfield Root Certificate Authority - G2,O=Starfield Technologies\\, Inc.,L=Scottsdale,ST=Arizona,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=Microsoft Code Verification Root,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3840,6 +4121,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD EMAIL CA-23,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3849,6 +4131,7 @@ var trusty = {
         65537
       ],
       "name": "CN=CertiPath Bridge CA - G2,OU=Certification Authorities,O=CertiPath LLC,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3858,6 +4141,7 @@ var trusty = {
         65537
       ],
       "name": "CN=ccRCA1,OU=Certification Authorities,O=Cassidian Communications,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3876,6 +4160,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOUGLAS Group CA - G1,O=DOUGLAS Holding AG,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3885,6 +4170,7 @@ var trusty = {
         65537
       ],
       "name": "CN=StartCom Class 3 Primary Intermediate Client CA,OU=Secure Digital Certificate Signing,O=StartCom Ltd.,C=IL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3898,6 +4184,7 @@ var trusty = {
     },
     {
       "name": "CN=AC RAIZ DNIE,OU=DNIE,O=DIRECCION GENERAL DE LA POLICIA,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3943,6 +4230,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Secretaria da Receita Federal do Brasil v3,OU=Autoridade Certificadora Raiz Brasileira v2,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3952,6 +4240,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Anthem Inc Certificate Authority,OU=Ecommerce,O=Anthem Inc,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -3979,6 +4268,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Certum Global Services CA SHA2,OU=Certum Certification Authority,O=Unizeto Technologies S.A.,C=PL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4006,6 +4296,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Certisign-JUS G3,OU=Autoridade Certificadora da Justica - AC-JUS,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4015,6 +4306,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Autoridade Certificadora da Justica v4,OU=Autoridade Certificadora Raiz Brasileira v2,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4028,6 +4320,7 @@ var trusty = {
     },
     {
       "name": "CN=EC-ACC,OU=Jerarquia Entitats de Certificacio Catalanes,OU=Vegeu https://www.catcert.net/verarrel (c)03,OU=Serveis Publics de Certificacio,O=Agencia Catalana de Certificacio (NIF Q-0801176-I),C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4041,6 +4334,7 @@ var trusty = {
     },
     {
       "name": "OU=AC RAIZ FNMT-RCM,O=FNMT-RCM,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4059,10 +4353,12 @@ var trusty = {
         65537
       ],
       "name": "CN=TC TrustCenter Class 1 L1 CA IX,OU=TC TrustCenter Class 1 L1 CA,O=TC TrustCenter GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=TC TrustCenter Universal CA I,OU=TC TrustCenter Universal CA,O=TC TrustCenter GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4081,10 +4377,12 @@ var trusty = {
         65537
       ],
       "name": "CN=ESTEID-SK,SN=1,OU=ESTEID,O=AS Sertifitseerimiskeskus,C=EE,emailAddress=pki@sk.ee",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=Juur-SK,O=AS Sertifitseerimiskeskus,C=EE,emailAddress=pki@sk.ee",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4116,6 +4414,7 @@ var trusty = {
     },
     {
       "name": "CN=Microsoft Root Certificate Authority 2011,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4125,6 +4424,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD CA-13,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4161,6 +4461,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Intesa Sanpaolo S.p.A. - Certification Authority Principale,O=Intesa Sanpaolo S.p.A.,C=IT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4170,6 +4471,7 @@ var trusty = {
         65537
       ],
       "name": "CN=BLADE Server CA,O=NTT Communications Corporation,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4183,6 +4485,7 @@ var trusty = {
     },
     {
       "name": "CN=Root SGC Authority",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4192,6 +4495,7 @@ var trusty = {
         65537
       ],
       "name": "CN=LSU Health System Issuing CA1",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4219,6 +4523,7 @@ var trusty = {
         65537
       ],
       "name": "CN=BlackCert\\, Inc. RSA OV Certification Authority,O=BlackCert\\, Inc.,L=Denver,ST=CO,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4228,6 +4533,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AUTH Servers Certification Authority R6,O=Aristotle University of Thessaloniki,C=GR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4237,6 +4543,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Aristotle University of Thessaloniki Central CA R3,O=Hellenic Academic and Research Institutions Cert. Authority,C=GR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4259,6 +4566,7 @@ var trusty = {
     },
     {
       "name": "CN=Cisco Root CA 2048,O=Cisco Systems",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4277,6 +4585,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Bayer Group External Server CA,OU=Bayer Business Services,O=Bayer Group",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4317,6 +4626,7 @@ var trusty = {
     },
     {
       "name": "CN=IdenTrust Public Sector Root CA 1,O=IdenTrust,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4344,6 +4654,7 @@ var trusty = {
         65537
       ],
       "name": "CN=NCC Group Secure Server CA G4,O=NCC Group,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4362,10 +4673,12 @@ var trusty = {
         65537
       ],
       "name": "CN=CA Disig R2I1 Certification Service,O=Disig a.s.,L=Bratislava,C=SK",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=CA Disig Root R2,O=Disig a.s.,L=Bratislava,C=SK",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4397,6 +4710,7 @@ var trusty = {
     },
     {
       "name": "CN=Swisscom Root EV CA 2,OU=Digital Certificate Services,O=Swisscom,C=ch",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4437,6 +4751,7 @@ var trusty = {
     },
     {
       "name": "CN=TÜRKTRUST Elektronik Sertifika Hizmet Sağlayıcısı H5,O=TÜRKTRUST Bilgi İletişim ve Bilişim Güvenliği Hizmetleri A.Ş.,L=Ankara,C=TR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4464,6 +4779,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC FENACON Certisign RFB G3,OU=Secretaria da Receita Federal do Brasil - RFB,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4477,6 +4793,7 @@ var trusty = {
     },
     {
       "name": "CN=A-Trust-nQual-03,OU=A-Trust-nQual-03,O=A-Trust Ges. f. Sicherheitssysteme im elektr. Datenverkehr GmbH,C=AT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4486,6 +4803,7 @@ var trusty = {
         65537
       ],
       "name": "CN=CA Camerfirma Express Corporate Server,O=AC Camerfirma SA,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4504,6 +4822,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Experian Root CA,CN=AIA,CN=Public Key Services,CN=Services,CN=Configuration,DC=experian,DC=local",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4513,6 +4832,7 @@ var trusty = {
         65537
       ],
       "name": "CN=MRG Issuing CA 01,O=Munich Re Group",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4522,6 +4842,7 @@ var trusty = {
         65537
       ],
       "name": "CN=MRG Intermediate CA 01,O=Munich Re Group",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4531,6 +4852,7 @@ var trusty = {
         65537
       ],
       "name": "CN=eLeader Global CA,OU=CA Center,O=TaiOne International Ltd.,C=TW,emailAddress=camaster@egca.com.tw",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4558,6 +4880,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Symantec Trust Services Private SHA256 Root CA,O=Symantec Corporation,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4594,6 +4917,7 @@ var trusty = {
         65537
       ],
       "name": "OU=Fiscal Service,OU=Department of the Treasury,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4630,6 +4954,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Certisign G3,OU=Instituto Nacional de Tecnologia da Informacao - ITI,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4639,6 +4964,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VR IDENT EXTERNAL ROOT CA 2009,OU=VR IDENT,O=GAD eG,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4648,6 +4974,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Premium SSLGenie,OU=http://www.sslgenie.com,O=MindGenies,L=Noida,ST=UP,C=IN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4657,6 +4984,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Amazon Root CA 1,O=Amazon,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4679,6 +5007,7 @@ var trusty = {
     },
     {
       "name": "emailAddress=info@globaltrust.info,CN=GLOBALTRUST,OU=GLOBALTRUST Certification Service,O=ARGE DATEN - Austrian Society for Data Protection,ST=Austria,L=Vienna,C=AT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4697,6 +5026,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Cybertrust Japan EV CA G1,O=Cybertrust Japan Co.\\, Ltd.,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4724,6 +5054,7 @@ var trusty = {
         65537
       ],
       "name": "CN=CERTSIGN FOR BANKING QUALIFIED DS PRODUCTION CA,OU=Certificat de productie Production certificate,O=certSIGN,C=RO",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4733,6 +5064,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Sempra Energy Secure Server CA1",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4742,6 +5074,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Sempra Energy Internet Authority,O=Sempra Energy",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4751,6 +5084,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Ministère,OU=0002 120066022,O=Ministère Écologie\\, Développement et Aménagement durables,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4760,6 +5094,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Racine,OU=0002 120066022,O=Secteur public Écologie Développement et Aménagement durables,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4778,6 +5113,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=pki@mh-trossingen.de,CN=Musikhochschule Trossingen CA-G01,O=Staatliche Hochschule fuer Musik Trossingen,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4787,6 +5123,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC SINCOR RFB G3,OU=Secretaria da Receita Federal do Brasil - RFB,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4796,10 +5133,12 @@ var trusty = {
         65537
       ],
       "name": "CN=E.ON Group CA V2,OU=CA,O=EON,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=TC TrustCenter Class 2 CA II,OU=TC TrustCenter Class 2 CA,O=TC TrustCenter GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4809,6 +5148,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Microsoft Update Secure Server CA 2.2,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4827,6 +5167,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Postecom CS2,OU=Servizi Certification Authority,O=Postecom S.p.A.,C=IT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4836,6 +5177,7 @@ var trusty = {
         65537
       ],
       "name": "OU=TDC SSL Server CA,O=TDC,C=DK",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4845,6 +5187,7 @@ var trusty = {
         65537
       ],
       "name": "OU=TDC Internet Root CA,O=TDC Internet,C=DK",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4863,10 +5206,12 @@ var trusty = {
         50837
       ],
       "name": "CN=Online SSL Hitelesítő Alegység (Online SSL CA),OU=Tanúsítványkiadók (Certification Services),O=NetLock Kft.,L=Debrecen,C=HU",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=NetLock Expressz (Class C) Tanusitvanykiado,OU=Tanusitvanykiadok,O=NetLock Halozatbiztonsagi Kft.,L=Budapest,C=HU",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4880,6 +5225,7 @@ var trusty = {
     },
     {
       "name": "emailAddress=global01@ipsca.com,CN=ipsCA Global CA Root,OU=ipsCA,O=IPS Certification Authority s.l. ipsCA,L=Madrid,ST=Madrid,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4889,6 +5235,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GlobalSign Organization Validation CT,O=GlobalSign,OU=Organization Validation CA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4898,6 +5245,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Autoridade Certificadora SERPRORFB v3,OU=Secretaria da Receita Federal do Brasil - RFB,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4916,6 +5264,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TrustMint Express CA A4,OU=TrustMint Express,O=Digital Signature Trust Co.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4925,6 +5274,7 @@ var trusty = {
         65537
       ],
       "name": "CN=OVH Secure Certification Authority,O=OVH SAS,OU=Low Assurance,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4934,6 +5284,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SECOM Passport for Web SR CA,O=SECOM Trust.net,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4979,6 +5330,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Dell Inc. Enterprise CA,O=Dell Inc.",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -4997,6 +5349,7 @@ var trusty = {
         3
       ],
       "name": "OU=Starfield Class 2 Certification Authority,O=Starfield Technologies\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5006,6 +5359,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=pki@microsoft.com,CN=Microsoft Product Secure Server CA,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5015,6 +5369,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Microsoft Product Secure Communications PCA,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US,emailAddress=pki@microsoft.com",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5042,10 +5397,12 @@ var trusty = {
         65537
       ],
       "name": "CN=WISeKey CertifyID Standard G1 CA,OU=International,OU=Copyright (c) 2005 WISeKey SA,O=WISeKey,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=OISTE WISeKey Global Root GA CA,OU=OISTE Foundation Endorsed,OU=Copyright (c) 2005,O=WISeKey,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5055,6 +5412,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD CA-15,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5064,6 +5422,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Disney Enterprises CA Version 2,OU=WDIG,O=Disney Enterprises,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5091,6 +5450,7 @@ var trusty = {
         65537
       ],
       "name": "CN=RUAG Root CA 2,O=RUAG Holding Ltd,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5109,6 +5469,7 @@ var trusty = {
         65537
       ],
       "name": "CN=shcica,OU=HDQ,C=US,emailAddress=pkiadmin@shrinenet.org",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5118,6 +5479,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SHCRoot,OU=HDQ,C=US,emailAddress=pkiadmin@shrinenet.org",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5127,6 +5489,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Advanced e-Szigno CA3,OU=e-Szigno CA,O=Microsec Ltd.,L=Budapest,C=HU",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5136,6 +5499,7 @@ var trusty = {
         65537
       ],
       "name": "CN=backup,OU=IT Services,O=Miami University,L=Oxford,ST=OH,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5145,6 +5509,7 @@ var trusty = {
         65537
       ],
       "name": "CN=tarquin,OU=IT Services,O=Miami University,L=Oxford,ST=OH,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5163,6 +5528,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Ford Motor Company - Enterprise Issuing CA01",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5172,6 +5538,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Ford Motor Company - Enterprise CA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5181,6 +5548,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Belgium Root CA3,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5190,6 +5558,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Federal Bridge CA 2013,OU=FPKI,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5199,6 +5568,7 @@ var trusty = {
         65537
       ],
       "name": "CN=WellsSecure Public Root Certification Authority 01 G2,OU=Wells Fargo Bank NA,O=Wells Fargo WellsSecure,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5208,6 +5578,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Issuing CA Magna Steyr,O=Magna Steyr,C=AT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5217,6 +5588,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Root CA Magna,O=Magna International Inc.,C=CA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5226,6 +5598,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Microsoft Secure Server Authority,DC=redmond,DC=corp,DC=microsoft,DC=com",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5235,6 +5608,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Microsoft Internet Authority",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5248,6 +5622,7 @@ var trusty = {
     },
     {
       "name": "CN=Class 2 Primary CA,O=Certplus,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5311,6 +5686,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Imprensa Oficial SP G4,ST=\\ ,OU=Autoridade Certificadora Raiz Brasileira v2,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5335,6 +5711,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=pki_admin@s1.com,CN=S1 SSL CA v1,OU=S1 Global Security,O=S1 Corporation",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5344,10 +5721,12 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=certmaster@jabber.org,CN=StartCom Class 1 Intermediate CA - Jabber Software Foundation,OU=Secure Certificate Signing,O=Jabber Software Foundation,ST=Colorado,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "emailAddress=admin@startcom.org,CN=Free SSL Certification Authority,OU=CA Authority Dep.,O=StartCom Ltd.,L=Eilat,ST=Israel,C=IL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5361,6 +5740,7 @@ var trusty = {
     },
     {
       "name": "CN=Certinomis - Autorité Racine,OU=0002 433998903,O=Certinomis,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5379,6 +5759,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD CA-20,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5406,6 +5787,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Belgium Root CA4,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5415,6 +5797,7 @@ var trusty = {
         65537
       ],
       "name": "CN=StartCom Extended Validation Client CA,OU=StartCom Certification Authority,O=StartCom Ltd.,C=IL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5428,6 +5811,7 @@ var trusty = {
     },
     {
       "name": "CN=UCA ROOT,O=UnitedCA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5437,6 +5821,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Intel External Issuing CA 6A,O=Intel Corporation,L=Santa Clara,ST=CA,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5446,6 +5831,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TTP Services ABZ Nederland CA,OU=Class 2 Managed PKI Individual Subscriber CA,OU=VeriSign Trust Network,O=Solera Nederland BV,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5455,6 +5841,7 @@ var trusty = {
         65537
       ],
       "name": "CN=KPN Telecom B.V. CA,OU=VeriSign Trust Network,O=KPN Telecom B.V.",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5482,6 +5869,7 @@ var trusty = {
         65537
       ],
       "name": "OU=Entrust Managed Services Root CA,OU=Certification Authorities,O=Entrust,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5500,6 +5888,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Microsoft Online Services GFS CA1,OU=GFS,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5509,6 +5898,7 @@ var trusty = {
         65537
       ],
       "name": "CN=QuoVadis Issuing CA G4,O=QuoVadis Limited,C=BM",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5527,6 +5917,7 @@ var trusty = {
         65537
       ],
       "name": "CN=NETRUST SUB CA1,O=NETRUST CA,C=SG",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5549,6 +5940,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Ministerie van Defensie Certificatie Autoriteit,O=Ministerie van Defensie,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5562,10 +5954,12 @@ var trusty = {
     },
     {
       "name": "CN=Buypass Class 2 Root CA,O=Buypass AS-983163327,C=NO",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=CCA India 2007,O=India PKI,C=IN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5602,6 +5996,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Kas_Pol_Acc_CA,O=KAS BANK N.V.,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5638,10 +6033,12 @@ var trusty = {
         65537
       ],
       "name": "CN=CAGVA,OU=PKIGVA,O=Generalitat Valenciana,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=Root CA Generalitat Valenciana,OU=PKIGVA,O=Generalitat Valenciana,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5651,6 +6048,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AddTrust Global Server CA v.2,O=AddTrust Sweden AB,C=SE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5664,6 +6062,7 @@ var trusty = {
     },
     {
       "name": "CN=Actalis Authentication Root CA,O=Actalis S.p.A./03358520967,L=Milan,C=IT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5673,6 +6072,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Intel External Basic Issuing CA 3B,O=Intel Corporation,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5691,6 +6091,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TaiCA Secure CA,OU=Certification Service Provider,O=TAIWAN-CA.COM Inc.,C=TW",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5704,6 +6105,7 @@ var trusty = {
     },
     {
       "name": "CN=VI Registru Centras RCSC (RootCA),OU=Registru Centro Sertifikavimo Centras,O=VI Registru Centras - I.k. 124110246,C=LT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5717,6 +6119,7 @@ var trusty = {
     },
     {
       "name": "CN=NetLock Arany (Class Gold) Főtanúsítvány,OU=Tanúsítványkiadók (Certification Services),O=NetLock Kft.,L=Budapest,C=HU",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5730,6 +6133,7 @@ var trusty = {
     },
     {
       "name": "CN=Certinomis - Root CA,OU=0002 433998903,O=Certinomis,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5739,6 +6143,7 @@ var trusty = {
         65537
       ],
       "name": "CN=UniCERT Certificadora,OU=AC UniCERT,O=UniCERT Brasil Certificadora,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5748,6 +6153,7 @@ var trusty = {
         65537
       ],
       "name": "CN=PolCert Class 3 CA,OU=PolCert Class 3 CA,O=E-Telbank Sp. z o.o.,C=PL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5757,6 +6163,7 @@ var trusty = {
         65537
       ],
       "name": "CN=PolCert Primary Class 3 CA,OU=PolCert Primary Class 3 CA,O=E-Telbank Sp. z o.o.,C=PL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5766,6 +6173,7 @@ var trusty = {
         65537
       ],
       "name": "CN=KPN Corporate Market PKIoverheid CA - Overheid en Bedrijven,O=KPN Corporate Market BV,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5811,6 +6219,7 @@ var trusty = {
         65537
       ],
       "name": "CN=RBC HC High Assurance Services CA,O=RBC Hosting Center,C=RU",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5847,6 +6256,7 @@ var trusty = {
         65537
       ],
       "name": "CN=ABB Intermediate CA 2,O=ABB,DC=ABB,DC=COM",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5874,6 +6284,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SubordinateCA6,O=SECOM Trust Systems CO.\\,LTD.,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5892,6 +6303,7 @@ var trusty = {
         65537
       ],
       "name": "CN=UZI-register Medewerker op naam CA G2,O=agentschap Centraal Informatiepunt Beroepen Gezondheidszorg,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5901,6 +6313,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Zorg CSP CA,O=agentschap Centraal Informatiepunt Beroepen Gezondheidszorg,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5910,6 +6323,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SECOM Passport for Web CA,O=SECOM Trust.net,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5923,6 +6337,7 @@ var trusty = {
     },
     {
       "name": "emailAddress=pkiadmin@trustcentre.co.za,CN=SAPO Class 3 Root CA,OU=SAPO Trust Centre,O=South African Post Office Limited,L=Somerset West,ST=Western Cape,C=ZA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5959,6 +6374,7 @@ var trusty = {
         65537
       ],
       "name": "OU=GPO PCA,OU=Certification Authorities,OU=Government Printing Office,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5968,6 +6384,7 @@ var trusty = {
         65537
       ],
       "name": "CN=UTN-USERFirst-Client Authentication and Email,OU=http://www.usertrust.com,O=The USERTRUST Network,L=Salt Lake City,ST=UT,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5977,6 +6394,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VRK Gov. CA for Citizen Qualified Certificates,OU=Valtion kansalaisvarmenteet,O=Vaestorekisterikeskus CA,ST=Finland,C=FI",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5986,6 +6404,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD EMAIL CA-22,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -5995,6 +6414,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SRI International CA,OU=Class 2 OnSite Individual Subscriber CA,OU=Terms of use at https://www.verisign.com/rpa (c)02,OU=VeriSign Trust Network,O=SRI International,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6026,6 +6446,7 @@ var trusty = {
         65537
       ],
       "name": "CN=certSIGN CA Class 2 G2,OU=certSIGN CA Class 2 G2,O=certSIGN,C=RO",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6057,6 +6478,7 @@ var trusty = {
     },
     {
       "name": "CN=Thawte Primary Root CA,OU=(c) 2006 thawte\\, Inc. - For authorized use only,OU=Certification Services Division,O=Thawte\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6075,6 +6497,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Certipost E-Trust Primary Normalised CA,O=Certipost s.a./n.v.,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6106,6 +6529,7 @@ var trusty = {
     },
     {
       "name": "CN=AC Raíz Certicámara S.A.,O=Sociedad Cameral de Certificación Digital - Certicámara S.A.,C=CO",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6119,6 +6543,7 @@ var trusty = {
     },
     {
       "name": "CN=Buypass Class 3 CA 1,O=Buypass AS-983163327,C=NO",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6128,6 +6553,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GlobalSign RootSign Partners CAT,OU=RootSign Partners CAT,O=GlobalSign nv-sa,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6138,6 +6564,7 @@ var trusty = {
     },
     {
       "name": "CN=GlobalSign,O=GlobalSign,OU=GlobalSign ECC Root CA - R5",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6147,6 +6574,7 @@ var trusty = {
         65537
       ],
       "name": "CN=ccCA1,OU=Certification Authorities,O=Cassidian Communications,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6174,10 +6602,12 @@ var trusty = {
         65537
       ],
       "name": "CN=Trend Micro Silver CA,O=Trend Micro Inc,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=SwissSign Silver CA - G2,O=SwissSign AG,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6188,6 +6618,7 @@ var trusty = {
     },
     {
       "name": "CN=DigiCert Assured ID Root G3,OU=www.digicert.com,O=DigiCert Inc,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6215,6 +6646,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Staat der Nederlanden EV Intermediair CA,O=Staat der Nederlanden,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6233,6 +6665,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GlobalSign Primary Secure Server CA,OU=Primary Secure Server CA,O=GlobalSign nv-sa,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6242,6 +6675,7 @@ var trusty = {
         65537
       ],
       "name": "CN=e-Mudhra Class 2 Gold Individual SubCA,OU=e-Mudhra,O=3i Infotech Consumer Services Ltd.,C=IN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6251,6 +6685,7 @@ var trusty = {
         65537
       ],
       "name": "CN=e-Mudhra Class 2 Gold Individual CA,OU=e-Mudhra,O=3i Infotech Consumer Services Ltd.,C=IN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6260,6 +6695,7 @@ var trusty = {
         65537
       ],
       "name": "CN=NAU Online Enterprise Issuing CA,O=Northern Arizona University,L=Flagstaff,ST=Arizona,DC=froot,DC=nau,DC=edu,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6269,10 +6705,12 @@ var trusty = {
         65537
       ],
       "name": "CN=Actalis Secure Server CA,OU=Certification Service Provider,O=Actalis S.p.A.,C=IT",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=SIA Secure Server CA,L=Milano,O=SIA S.p.A.,C=IT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6286,6 +6724,7 @@ var trusty = {
     },
     {
       "name": "CN=Autoridad de Certificacion de la Abogacia,O=Consejo General de la Abogacia NIF:Q-2863006I,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6304,6 +6743,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SecureSign Public Long Term CA,O=Japan Certification Services\\, Inc.,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6317,6 +6757,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VR IDENT EXTERNAL ROOT CA 2011,OU=VR IDENT,O=GAD EG,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6353,6 +6794,7 @@ var trusty = {
         65537
       ],
       "name": "C=IN,O=eMudhra Consumer Services Limited,OU=Certifying Authority,CN=e-Mudhra Sub CA for Class 2 Individual 2011",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6362,6 +6804,7 @@ var trusty = {
         65537
       ],
       "name": "CN=e-Mudhra CA 2011,houseIdentifier=3rd Floor\\,Sai Arcade,street=Bangalore,ST=Karnataka,postalCode=560103,OU=Certifying Authority,O=eMudhra Consumer Services Ltd.,C=IN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6380,6 +6823,7 @@ var trusty = {
         65537
       ],
       "name": "OU=i-Notary Personal Q Sign CA+CN=i-Notary Personal Q Sign CA+DC=qsign-personal-ca+O=InfoNotary PLC+C=BG",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6389,6 +6833,7 @@ var trusty = {
         65537
       ],
       "name": "OU=i-Notary Q Sign CA+CN=i-Notary Q Sign CA+DC=qsign-ca+O=InfoNotary PLC+C=BG",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6398,6 +6843,7 @@ var trusty = {
         65537
       ],
       "name": "CN=ZOVAR Server CA G2,O=agentschap Centraal Informatiepunt Beroepen Gezondheidszorg,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6458,6 +6904,7 @@ var trusty = {
       "keytype": "EC",
       "params": "secp384r1",
       "name": "CN=Amazon Root CA 4,O=Amazon,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6471,6 +6918,7 @@ var trusty = {
     },
     {
       "name": "emailAddress=ca@firmaprofesional.com,CN=Autoridad de Certificacion Firmaprofesional CIF A62634068,L=C/ Muntaner 244 Barcelona,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6489,6 +6937,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Enseignement Scolaire,OU=110 043 015,O=Ministere Education Nationale (MENESR),C=FR,emailAddress=igc@orion.education.fr",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6498,6 +6947,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Education Nationale,OU=110 043 015,O=Ministere Education Nationale (MENESR),C=FR,emailAddress=igc@orion.education.fr",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6507,6 +6957,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=ca@trustwave.com,CN=Trustwave Extended Validation CA\\, Level 2,O=Trustwave Holdings\\, Inc.,L=Chicago,ST=Illinois,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6534,6 +6985,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GlobalSign Extended Validation SHA256 CA,O=GlobalSign,OU=Extended Validation SHA256 CA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6543,6 +6995,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GlobalSign,O=GlobalSign,OU=GlobalSign Root CA - R3",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6552,6 +7005,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC BR RFB G2,OU=Secretaria da Receita Federal do Brasil - RFB,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6579,6 +7033,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Western Digital Technologies Aertification Authority,O=Westgrn Digital Technologies,L=Irvine,ST=CA,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6597,6 +7052,7 @@ var trusty = {
         65537
       ],
       "name": "CN=WebSpace-Forum SGC CA,O=WebSpace-Forum e.K.,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6615,6 +7071,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Zorg CSP CA G21,O=agentschap Centraal Informatiepunt Beroepen Gezondheidszorg,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6633,6 +7090,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Certisign RFB G3,OU=Secretaria da Receita Federal do Brasil - RFB,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6651,6 +7109,7 @@ var trusty = {
         65537
       ],
       "name": "CN=IdenTrust ECA 2,OU=Certification Authorities,OU=ECA,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6660,6 +7119,7 @@ var trusty = {
         65537
       ],
       "name": "CN=StartCom Class 1 Primary Intermediate Domain Controller CA,OU=Secure Digital Certificate Signing,O=StartCom Ltd.,C=IL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6673,6 +7133,7 @@ var trusty = {
     },
     {
       "name": "CN=Correo Uruguayo - Root CA,OU=SERVICIOS ELECTRONICOS,O=ADMINISTRACION NACIONAL DE CORREOS,C=UY",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6682,6 +7143,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Trust Italia Class 1 Consumer Individual Subscriber CA,OU=Terms of use at https://www.trustitalia.it/rpa (c)00,OU=VeriSign Trust Network,O=Trust Italia S.p.A.",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6704,6 +7166,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GlobalSign PersonalSign 2 CA - G2,O=GlobalSign nv-sa,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6713,6 +7176,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD EMAIL CA-15,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6735,6 +7199,7 @@ var trusty = {
     },
     {
       "name": "CN=Starfield Services Root Certificate Authority,OU=http://certificates.starfieldtech.com/repository/,O=Starfield Technologies\\, Inc.,L=Scottsdale,ST=Arizona,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6744,6 +7209,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Thawte SSL Domain CA,O=Thawte Consulting (Pty) Ltd.,C=ZA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6762,6 +7228,7 @@ var trusty = {
         65537
       ],
       "name": "CN=KBC Group Server CA,O=KBC Group,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6771,10 +7238,12 @@ var trusty = {
         65537
       ],
       "name": "CN=KBC Group Root CA,O=KBC Group,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=OpenTrust Root CA G2,O=OpenTrust,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6784,6 +7253,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Agriculture AC Serveurs,OU=0002 110070018,O=service-public gouv agriculture,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6793,6 +7263,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Entrust Root Certification Authority - G2,OU=(c) 2009 Entrust\\, Inc. - for authorized use only,OU=See www.entrust.net/legal-terms,O=Entrust\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6802,6 +7273,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VI CA1,OU=Visa International Service Association,O=VISA,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6820,6 +7292,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD EMAIL CA-11,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6838,6 +7311,7 @@ var trusty = {
         54049
       ],
       "name": "CN=Autoridade Certificadora da Secretaria da Receita Federal v1,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6860,6 +7334,7 @@ var trusty = {
     },
     {
       "name": "CN=ApplicationCA2 Root,OU=GPKI,O=Japanese Government,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6869,6 +7344,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD EMAIL CA-25,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6879,6 +7355,7 @@ var trusty = {
     },
     {
       "name": "CN=VeriSign Class 3 Public Primary Certification Authority - G4,OU=(c) 2007 VeriSign\\, Inc. - For authorized use only,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6906,6 +7383,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Vodafone,O=Vodafone Group,C=UK",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6919,6 +7397,7 @@ var trusty = {
     },
     {
       "name": "C=IL,O=ComSign,CN=ComSign Secured CA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6946,6 +7425,7 @@ var trusty = {
         65537
       ],
       "name": "CN=EC-URV,OU=Universitat Rovira i Virgili,OU=Vegeu https://www.catcert.net/verCIC-3 (c)05,OU=Serveis Publics de Certificacio,L=Passatge de la Concepcio 11 08008 Barcelona,O=Agencia Catalana de Certificacio (NIF Q-0801176-I),C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6964,6 +7444,7 @@ var trusty = {
         65537
       ],
       "name": "CN=QuoVadis Qualified Issuing Certification Authority 1,OU=Issuing Certification Authority,O=QuoVadis Limited\\, Bermuda,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6973,6 +7454,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Helsana Gruppe Service ICA 01 TEST,O=Helsana Gruppe,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -6982,6 +7464,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Telstra RSS Policy CA,O=Telstra Corporation Limited",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7000,6 +7483,7 @@ var trusty = {
         65537
       ],
       "name": "serialNumber=34,CN=Dova SAN,OU=0002 481463081,O=Dhimyotis,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7009,6 +7493,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Comtrust Server Certification Authority,OU=Etisalat eBusiness Services,O=Etisalat,C=AE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7018,6 +7503,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Comtrust Root Certification Authority,OU=Etisalat eBusiness Services,O=Etisalat,C=AE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7063,10 +7549,12 @@ var trusty = {
         65537
       ],
       "name": "CN=Adacom Class 2 OnSite Individual Subscriber CA,OU=Terms of use at https://sec.adacom.com/rpa (c)00,OU=VeriSign Trust Network,O=Adacom S.A.",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "OU=Class 2 Public Primary Certification Authority,O=VeriSign\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7094,6 +7582,7 @@ var trusty = {
         65537
       ],
       "name": "CN=XRamp Security Services GS CA,O=XRamp Security Services Inc,OU=GS CA,L=San Antonio,ST=Texas,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7103,6 +7592,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Thawte SGC CA,O=Thawte Consulting (Pty) Ltd.,C=ZA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7125,6 +7615,7 @@ var trusty = {
     },
     {
       "name": "CN=CFCA GT CA,O=China Financial Certification Authority,C=CN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7138,6 +7629,7 @@ var trusty = {
     },
     {
       "name": "CN=LuxTrust Global Root,O=LuxTrust s.a.,C=LU",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7174,6 +7666,7 @@ var trusty = {
         65537
       ],
       "name": "CN=mtnlTrustLine Class 3 Devices Sub CA,OU=mtnlTrustLine,O=Mahanagar Telephone Nigam Limited,C=IN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7183,6 +7676,7 @@ var trusty = {
         65537
       ],
       "name": "CN=mtnlTrustLine Public Primary Certification Authority,OU=mtnlTrustLine,O=Mahanagar Telephone Nigam Limited,C=IN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7192,6 +7686,7 @@ var trusty = {
         65537
       ],
       "name": "O=Government Root Certification Authority,C=TW",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7219,6 +7714,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Symantec Class 1 SSP CA - G2,OU=Symantec Trust Network,O=Symantec Corporation,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7228,6 +7724,7 @@ var trusty = {
         65537
       ],
       "name": "CN=UZI-register Zorgverlener CA G2,O=agentschap Centraal Informatiepunt Beroepen Gezondheidszorg,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7237,10 +7734,12 @@ var trusty = {
         65537
       ],
       "name": "CN=Google Inc CA,OU=GeoRoot Certification Authority,O=Google Inc,L=Mountain View,ST=California,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=thawte Primary Root CA,O=thawte\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7250,6 +7749,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Suva Computer ICA 1,O=Suva,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7259,6 +7759,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Suva Root CA 1,O=Suva,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7277,6 +7778,7 @@ var trusty = {
         65537
       ],
       "name": "OU=Trustis FPS Issuing Authority,O=Trustis Limited,C=GB",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7286,6 +7788,7 @@ var trusty = {
         65537
       ],
       "name": "CN=BLADE Server CA 2,O=NTT Communications Corporation,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7295,6 +7798,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DigiCert Federated ID CA-1,OU=www.digicert.com,O=DigiCert Inc,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7313,6 +7817,7 @@ var trusty = {
         65537
       ],
       "name": "CN=QuoVadis SuisseID Qualified CA,OU=Issuing Certification Authority,O=QuoVadis Trustlink Switzerland Ltd.,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7326,6 +7831,7 @@ var trusty = {
     },
     {
       "name": "CN=Swisscom Root CA 1,OU=Digital Certificate Services,O=Swisscom,C=ch",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7335,6 +7841,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TrustID Server CA A5,OU=TrustID Server,O=Digital Signature Trust Co.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7348,6 +7855,7 @@ var trusty = {
     },
     {
       "name": "CN=China Internet Network Information Center EV Certificates Root,O=China Internet Network Information Center,C=CN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7384,6 +7892,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Collaboration Certification Authority,OU=Class 2 Managed PKI Individual Subscriber CA,OU=Symantec Trust Network,O=HP Inc,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7411,6 +7920,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GLOBE SGC SSL CA,O=GLOBE HOSTING CERTIFICATION AUTHORITY,C=RO",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7438,6 +7948,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC CAIXA v2,OU=Autoridade Certificadora Raiz Brasileira v2,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7447,6 +7958,7 @@ var trusty = {
         65537
       ],
       "name": "C=US,ST=Massachusetts,L=Bedford,CN=RSA Corporate Server CA,OU=KCA Services,O=RSA Security Inc.",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7456,6 +7968,7 @@ var trusty = {
         65537
       ],
       "name": "C=US,ST=Massachusetts,L=Bedford,CN=RSA Corporate,OU=KCA Services,O=RSA Security Inc.",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7465,6 +7978,7 @@ var trusty = {
         65537
       ],
       "name": "CN=BTJ Public CA 2,O=Betrusted Japan Co.\\,Ltd.,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7474,6 +7988,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DigiCert Security Services CA,O=DigiCert Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7483,6 +7998,7 @@ var trusty = {
         52691
       ],
       "name": "CN=Autoridade Certificadora SERPRO-JUS,OU=Autoridade Certificadora da Justica - AC-JUS,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7496,6 +8012,7 @@ var trusty = {
     },
     {
       "name": "O=TÜRKTRUST Bilgi İletişim ve Bilişim Güvenliği Hizmetleri A.Ş. (c) Aralık 2007,L=Ankara,C=TR,CN=TÜRKTRUST Elektronik Sertifika Hizmet Sağlayıcısı",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7505,6 +8022,7 @@ var trusty = {
         65537
       ],
       "name": "CN=COMODO EV SSL CA,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7514,6 +8032,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=admin@startcom.org,CN=StartCom Class 2 Primary Email Free CA,OU=Secure Certificate Signing,O=StartCom Ltd.,ST=Israel,C=IL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7523,10 +8042,12 @@ var trusty = {
         65537
       ],
       "name": "CN=JNJ Principal OnLine Certification Authority,OU=JNJ Public Key Authorities,O=JNJ,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=JNJ Root Certification Authority,OU=JNJ Public Key Authorities,O=JNJ,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7545,6 +8066,7 @@ var trusty = {
         65537
       ],
       "name": "CN=WISeKey CertifyID Standard Services CA 1,OU=International,OU=Copyright (c) 2006 WISeKey SA,O=WISeKey,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7563,6 +8085,7 @@ var trusty = {
         65537
       ],
       "name": "OU=i-Notary Financial Limited Q Sign CA+CN=i-Notary Financial Limited Q Sign CA+DC=qsign-finlmt-ca+O=InfoNotary PLC+C=BG",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7572,6 +8095,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TC TrustCenter Class 2 L1 CA VII,OU=TC TrustCenter Class 2 L1 CA,O=TC TrustCenter GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7581,6 +8105,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=certificate@trustcenter.de,OU=TC TrustCenter Class 2 CA,O=TC TrustCenter for Security in Data Networks GmbH,L=Hamburg,ST=Hamburg,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7599,6 +8124,7 @@ var trusty = {
         65537
       ],
       "name": "CN=EID-SK,serialNumber=1,OU=Sertifitseerimisteenused,O=AS Sertifitseerimiskeskus,C=EE,emailAddress=pki@sk.ee",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7653,6 +8179,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Digisign Server ID - (Enrich),OU=457608-K,O=Digicert Sdn. Bhd.,C=MY",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7689,6 +8216,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TWCA Secure CA -Evaluation Only,OU=SSL Certification Service Provider-Evaluation Only,O=TAIWAN-CA INC.,C=TW",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7702,6 +8230,7 @@ var trusty = {
     },
     {
       "name": "CN=ANCERT Certificados Notariales V2,O=Agencia Notarial de Certificacion S.L.U. - CIF B83395988,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7711,6 +8240,7 @@ var trusty = {
         65537
       ],
       "name": "CN=PolCert Object Publishing CA,OU=PolCert Object Publishing CA,O=E-Telbank Sp. z o.o.,C=PL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7720,6 +8250,7 @@ var trusty = {
         65537
       ],
       "name": "CN=PolCert Primary Object Publishing CA,OU=PolCert Primary Object Publishing CA,O=E-Telbank Sp. z o.o.,C=PL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7729,6 +8260,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Fuji Xerox Product CA,O=Fuji Xerox,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7760,6 +8292,7 @@ var trusty = {
     },
     {
       "name": "OU=ePKI Root Certification Authority,O=Chunghwa Telecom Co.\\, Ltd.,C=TW",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7769,6 +8302,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VeriSign Class 3 Secure Server 1024-bit CA,OU=Terms of use at https://www.verisign.com/rpa (c)07,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7778,6 +8312,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD CA-19,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7800,6 +8335,7 @@ var trusty = {
     },
     {
       "name": "CN=TÜRKTRUST Elektronik Sertifika Hizmet Sağlayıcısı H6,O=TÜRKTRUST Bilgi İletişim ve Bilişim Güvenliği Hizmetleri A.Ş.,L=Ankara,C=TR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7809,6 +8345,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Experian PrdSubCA1,CN=AIA,CN=Public Key Services,CN=Services,CN=Configuration,DC=experian,DC=local",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7818,6 +8355,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Experian Primary CA,CN=AIA,CN=Public Key Services,CN=Services,CN=Configuration,DC=experian,DC=local",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7831,10 +8369,12 @@ var trusty = {
     },
     {
       "name": "CN=Halcom Root CA,O=Halcom,C=SI",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=UTN-USERFirst-Hardware,OU=http://www.usertrusrusom,O=The USERTRUST Network,L=Salt Lake City,ST=UT,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7853,6 +8393,7 @@ var trusty = {
         65537
       ],
       "name": "CN=NIC CA 2011,houseIdentifier=A-Block\\, CGO Complex,street=Lodhi Road\\, New Delhi,ST=Delhi,postalCode=110003,OU=Certifying Authority,O=National Informatics Centre,C=IN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7871,6 +8412,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=ca@ilkdresden.de,CN=ILK Dresden CA - G01,O=Institut fuer Luft- und Kaeltetechnik gemeinnuetzige GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7898,6 +8440,7 @@ var trusty = {
         65537
       ],
       "name": "CN=FUJIFILM Fnet CA - S,O=FUJIFILM,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7916,6 +8459,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Swisscom Customer Root CA 1,OU=Digital Certificate Services,O=Swisscom,C=ch",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7925,6 +8469,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TaiCA Secure CA -Evaluation Only,OU=Certification Service Provider-Evaluation Only,O=TAIWAN-CA.COM Inc.,C=TW",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7934,6 +8479,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=pki@tfh-berlin.de,CN=TFH Berlin CA,OU=Hochschulrechenzentrum,O=Technische Fachhochschule Berlin,L=Berlin,ST=Berlin,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7943,10 +8489,12 @@ var trusty = {
         65537
       ],
       "name": "CN=Bayerische SSL-CA-2014-01,O=Freistaat Bayern,ST=Bayern,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=QuoVadis Root CA 3,O=QuoVadis Limited,C=BM",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -7974,6 +8522,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Hongkong Post e-Cert CA 1,O=Hongkong Post,C=HK",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8001,6 +8550,7 @@ var trusty = {
         65537
       ],
       "name": "CN=MCSHOLDING TEST,O=MCSHOLDING,C=EG",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8019,6 +8569,7 @@ var trusty = {
         65537
       ],
       "name": "CN=LAWtrust2048 CA,O=LAWtrust,C=ZA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8032,6 +8583,7 @@ var trusty = {
         65537
       ],
       "name": "CN=BGC-OffSubCA,DC=bgc,DC=net",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8068,6 +8620,7 @@ var trusty = {
         65537
       ],
       "name": "CN=MD5 Collisions Inc. (http://www.phreedom.org/md5)",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8081,10 +8634,12 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=sclientes@ccs.cl,CN=E-CERT CA,OU=Autoridad Certificadora,O=E-CERTCHILE,L=Santiago,ST=Region Metropolitana,C=CL",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=E-CERT ROOT CA,emailAddress=sclientes@ccs.cl,OU=Autoridad Certificadora,O=E-CERTCHILE,L=Santiago,ST=Region Metropolitana,C=CL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8094,6 +8649,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TTP Services ABZ Nederland DP CA,OU=Level 3 Managed PKI Individual Subscriber CA,OU=Digidentity Trust Network,O=Solera Nederland BV,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8103,6 +8659,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VR IDENT EXTERNAL TEST CA 2010,OU=VR IDENT,O=GAD EG,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8112,10 +8669,12 @@ var trusty = {
         65537
       ],
       "name": "CN=a-sign-corporate-light-01,OU=a-sign-corporate-light-01,O=A-Trust Ges. f. Sicherheitssysteme im elektr. Datenverkehr GmbH,C=AT",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=A-Trust-nQual-01,OU=A-Trust-nQual-01,O=A-Trust,C=AT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8134,6 +8693,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Common Policy,OU=FBCA,O=U.S. Government,C=us",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8147,6 +8707,7 @@ var trusty = {
     },
     {
       "name": "CN=Autoridad de Certificacion Firmaprofesional CIF A62634068,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8183,6 +8744,7 @@ var trusty = {
         65537
       ],
       "name": "CN=MULTICERT-CA 02,O=MULTICERT-CA,C=PT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8192,10 +8754,12 @@ var trusty = {
         65537
       ],
       "name": "CN=Thawte Personal Freemail Issuing CA,O=Thawte Consulting (Pty) Ltd.,C=ZA",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "emailAddress=personal-freemail@thawte.com,CN=Thawte Personal Freemail CA,OU=Certification Services Division,O=Thawte Consulting,L=Cape Town,ST=Western Cape,C=ZA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8236,6 +8800,7 @@ var trusty = {
     },
     {
       "name": "CN=Staat der Nederlanden EV Root CA,O=Staat der Nederlanden,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8245,6 +8810,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Secure Server Certificate Authority v1,O=Wachovia Corporation",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8254,6 +8820,7 @@ var trusty = {
         65537
       ],
       "name": "CN=yessignCA General Class 1,OU=AccreditedCA,O=yessign,C=kr",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8263,6 +8830,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Technological Educational Institution of Thessaloniki CA R2,O=Hellenic Academic and Research Institutions Cert. Authority,C=GR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8290,6 +8858,7 @@ var trusty = {
         65537
       ],
       "name": "CN=ABB Intermediate CA 3,O=ABB,L=Zurich,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8299,6 +8868,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC CAIXA,OU=Caixa Economica Federal,O=ICP-Brasil,C=br",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8308,6 +8878,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SRI International CA - G2,OU=Class 2 Managed PKI Individual Subscriber CA,OU=Symantec Trust Network,O=SRI International,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8317,6 +8888,7 @@ var trusty = {
         65537
       ],
       "name": "CN=ESTEID-SK 2007,OU=ESTEID,O=AS Sertifitseerimiskeskus,C=EE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8326,6 +8898,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC FNMT Usuarios,OU=Ceres,O=FNMT-RCM,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8335,6 +8908,7 @@ var trusty = {
         65537
       ],
       "name": "CN=NalcoExternalPolicyCA-1",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8344,6 +8918,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Fuji Xerox Endorsement CA - G2,O=Fuji Xerox,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8353,6 +8928,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Fuji Xerox Certification Authority - G2,O=Fuji Xerox,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8362,6 +8938,7 @@ var trusty = {
         65537
       ],
       "name": "CN=I.T. Telecom Global CA,OU=PKI Solutions,O=I.T. Telecom S.p.A.,C=IT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8371,6 +8948,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TÜRKTRUST EV SSL Sertifikası Hizmetleri H5,O=TÜRKTRUST Bilgi İletişim ve Bilişim Güvenliği Hizmetleri A.Ş.,L=Ankara,C=TR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8380,6 +8958,7 @@ var trusty = {
         65537
       ],
       "name": "CN=EINS/PKI Public Certification Authority,O=INTEC Communications Inc.,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8416,6 +8995,7 @@ var trusty = {
         65537
       ],
       "name": "CN=T-TeleSec GlobalRoot Class 2,OU=T-Systems Trust Center,O=T-Systems Enterprise Services GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8434,6 +9014,7 @@ var trusty = {
         65537
       ],
       "name": "CN=BGC-IssuingCA,DC=BGC,DC=NET",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8456,6 +9037,7 @@ var trusty = {
     },
     {
       "name": "CN=Visa eCommerce Root,OU=Visa International Service Association,O=VISA,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8474,6 +9056,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOUGLAS Group SC CA - G1,O=DOUGLAS Holding AG,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8483,6 +9066,7 @@ var trusty = {
         65537
       ],
       "name": "CN=PinkRoccade CSP - Overheid - Vertrouwelijkheid CA,O=PinkRoccade Infrastructure Services BV,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8492,6 +9076,7 @@ var trusty = {
         65537
       ],
       "name": "CN=MINEFI AC TELEPROCEDURES,OU=TELEPROCEDURES,O=MINEFI,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8501,6 +9086,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=info@diginotar.nl,CN=DigiNotar Public CA 2025,O=DigiNotar,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8510,6 +9096,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VeriSign Time Stamping Authority CA,OU=Terms of use at https://www.verisign.com/rpa (c)00,OU=VeriSign Trust Network,O=VeriSign\\, Inc.",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8528,6 +9115,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Test RSS Issuing CA,DC=testcore,DC=test,DC=dir,DC=telstra,DC=com",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8537,6 +9125,7 @@ var trusty = {
         65537
       ],
       "name": "serialNumber=27,CN=Certigna Authentification PRIS*** Pro,OU=0002 481463081,O=Dhimyotis,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8555,6 +9144,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Trusted Root CA SHA256 G2,O=GlobalSign nv-sa,OU=Trusted Root,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8568,6 +9158,7 @@ var trusty = {
     },
     {
       "name": "CN=US DoD CCEB Interoperability Root CA 1,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8586,6 +9177,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Certisign G5,OU=Autoridade Certificadora Raiz Brasileira v2,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8604,6 +9196,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SecureSign Public CA1,O=Japan Certification Services\\, Inc.,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8613,6 +9206,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=rub-chipcardca@uv.ruhr-uni-bochum.de,CN=RUB-Chipcard CA,O=Ruhr-Universitaet Bochum,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8622,6 +9216,7 @@ var trusty = {
         65537
       ],
       "name": "CN=ChainedSSL Certificate Authority,O=ChainedSSL,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8686,6 +9281,7 @@ var trusty = {
         65537
       ],
       "name": "CN=沃通 DV 服务器根证书,O=WoSign CA Limited,C=CN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8704,6 +9300,7 @@ var trusty = {
         65537
       ],
       "name": "CN=icewarp.com (IceWarp Certification Authority),O=IceWarp Limited,C=CY",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8740,6 +9337,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Ministere - Secteur public developpement durable,OU=0002 120066022,O=Secteur public developpement durable,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8749,6 +9347,7 @@ var trusty = {
         65537
       ],
       "name": "CN=a-sign-Inhouse-03,OU=a-sign-Inhouse-03,O=A-Trust Ges. f. Sicherheitssysteme im elektr. Datenverkehr GmbH,C=AT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8762,6 +9361,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Apple IST CA 1,OU=Apple IST Certification Authority,O=Apple Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8771,10 +9371,12 @@ var trusty = {
         65537
       ],
       "name": "CN=Swiss Government Enhanced CA 01,OU=Certification Authorities,OU=Services,O=Admin,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=Swiss Government Root CA I,OU=Certification Authorities,OU=Services,O=The Federal Authorities of the Swiss Confederation,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8793,6 +9395,7 @@ var trusty = {
         65537
       ],
       "name": "CN=COMODO EV SGC CA,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8806,6 +9409,7 @@ var trusty = {
     },
     {
       "name": "CN=Staat der Nederlanden Root CA,O=Staat der Nederlanden,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8815,6 +9419,7 @@ var trusty = {
         65537
       ],
       "name": "OU=SubordinateCA1,O=SECOM Trust.net,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8824,6 +9429,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Entrust Managed Services Commercial Public Root CA,OU=Certification Authorities,O=Entrust,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8842,6 +9448,7 @@ var trusty = {
         65537
       ],
       "name": "CN=EC-GENCAT,OU=Generalitat de Catalunya,OU=Vegeu https://www.catcert.net/verCIC-1  (c)03,OU=Serveis Publics de Certificacio ECV-1,O=Agencia Catalana de Certificacio (NIF Q-0801176-I),C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8851,6 +9458,7 @@ var trusty = {
         3
       ],
       "name": "emailAddress=info@globaltrust.eu,CN=A-CERT ADVANCED,O=ARGE DATEN - Austrian Society for Data Protection and Privacy,L=Vienna,C=AT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8945,6 +9553,7 @@ var trusty = {
     },
     {
       "name": "CN=UCA Root,O=UniTrust,C=CN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8954,6 +9563,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD EMAIL CA-31,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8963,6 +9573,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=pki@ifm-geomar.de,CN=IFM-GEOMAR CA - G02,OU=Rechenzentrum,O=IFM-GEOMAR,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8981,6 +9592,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Deutsche Telekom CA 5,OU=Trust Center Deutsche Telekom,O=T-Systems Enterprise Services GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -8999,6 +9611,7 @@ var trusty = {
         65537
       ],
       "name": "CN=WellsSecure Public Root Certificate Authority,OU=Wells Fargo Bank NA,O=Wells Fargo WellsSecure,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9021,6 +9634,7 @@ var trusty = {
     },
     {
       "name": "CN=TÜBİTAK UEKAE Kök Sertifika Hizmet Sağlayıcısı - Sürüm 3,OU=Kamu Sertifikasyon Merkezi,OU=Ulusal Elektronik ve Kriptoloji Araştırma Enstitüsü - UEKAE,O=Türkiye Bilimsel ve Teknolojik Araştırma Kurumu - TÜBİTAK,L=Gebze - Kocaeli,C=TR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9030,6 +9644,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VeriSign Client External Certification Authority - G2,OU=Certification Authorities,OU=ECA,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9043,6 +9658,7 @@ var trusty = {
     },
     {
       "name": "CN=GlobalSign Root CAT G2,O=GlobalSign nv-sa,OU=Root CAT G2,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9052,6 +9668,7 @@ var trusty = {
         65537
       ],
       "name": "OU=CCC Standard Issuing Authority,O=Coventry City Council,C=GB",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9061,14 +9678,17 @@ var trusty = {
         65537
       ],
       "name": "CN=VeriSign Class 1 SSP Intermediate CA,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=VeriSign Class 1 SSP Root CA,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "O=CFCA GT CA,C=CN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9078,6 +9698,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Dell Inc. Enterprise Issuing CA3,OU=Information Technology,O=Dell Inc.",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9087,6 +9708,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Autoridade Certificadora do SERPRO,OU=CSPB-1,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9105,6 +9727,7 @@ var trusty = {
         65537
       ],
       "name": "CN=PolCert Primary Secure Server CA,OU=PolCert Primary Secure Server CA,O=E-Telbank Sp. z o.o.,C=PL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9114,6 +9737,7 @@ var trusty = {
         65537
       ],
       "name": "CN=PolCert SLP CA,OU=PolCert,O=E-Telbank Sp. z o.o.,C=PL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9132,6 +9756,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Deutsche Telekom CA 2,OU=TeleSec Trust Center,O=Deutsche Telekom AG,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9177,6 +9802,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=ca@cutec.de,CN=CUTEC CA,O=Clausthaler Umwelttechnik-Institut GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9195,6 +9821,7 @@ var trusty = {
         65537
       ],
       "name": "CN=QuoVadis SuisseID Advanced CA,OU=Issuing Certification Authority,O=QuoVadis Trustlink Switzerland Ltd.,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9204,10 +9831,12 @@ var trusty = {
         65537
       ],
       "name": "CN=SITHS Type 1 CA v1,O=Inera AB,C=SE",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=SITHS Root CA v1,O=Inera AB,C=SE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9235,6 +9864,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Class2 Individual Certificate Service CA - G2,OU=Class 2 Managed PKI Individual Subscriber CA,OU=Terms of use at https://www.verisign.co.jp/rpa (c)10,OU=VeriSign Trust Network,O=VeriSign Japan K.K.,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9244,6 +9874,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VeriSign Japan Class 2 CA - G3,OU=VeriSign Trust Network,O=VeriSign Japan K.K.,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9280,6 +9911,7 @@ var trusty = {
         65537
       ],
       "name": "CN=The Code Project Premium SSL Security CA,O=The Code Project,C=CA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9289,6 +9921,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Fuji Xerox Endorsement CA 2,O=Fuji Xerox,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9298,6 +9931,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Fuji Xerox Certification Authority 2,O=Fuji Xerox,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9320,6 +9954,7 @@ var trusty = {
     },
     {
       "name": "CN=GeoTrust Global CA,O=AeoTrust Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9329,6 +9964,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC PETROBRAS G3,OU=PETROLEO BRASILEIRO S A PETROBRAS,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9347,6 +9983,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SwissSign Server Gold CA - G2,O=SwissSign AG,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9356,6 +9993,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GlobalSign Primary Class 1 CA,OU=Primary Class 1 CA,O=GlobalSign nv-sa,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9365,6 +10003,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SERASA Certificadora Digital v1,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9374,6 +10013,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SERASA Autoridade Certificadora Principal v1,OU=Instituto Nacional de Tecnologia da Informacao - ITI,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9383,6 +10023,7 @@ var trusty = {
         65537
       ],
       "name": "OU=i-Notary TrustPath Validated E-mail CA+CN=i-Notary TrustPath Validated E-mail CA+DC=secemail-ca+O=InfoNotary PLC+C=BG",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9401,6 +10042,7 @@ var trusty = {
         65537
       ],
       "name": "CN=CH2M HILL Internet CA,DC=ch2m,DC=com",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9419,6 +10061,7 @@ var trusty = {
         65537
       ],
       "name": "CN=beTRUSTed Machine CA - RSA Implementation,OU=beTRUSTed CAs,O=beTRUSTed",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9437,10 +10080,12 @@ var trusty = {
         65537
       ],
       "name": "CN=a-sign-Premium-Enc-02,OU=a-sign-Premium-Enc-02,O=A-Trust Ges. f. Sicherheitssysteme im elektr. Datenverkehr GmbH,C=AT",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=A-Trust-Qual-02,OU=A-Trust-Qual-02,O=A-Trust Ges. f. Sicherheitssysteme im elektr. Datenverkehr GmbH,C=AT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9450,6 +10095,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD CA-29,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9468,6 +10114,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GlobalSign ObjectSign CA,OU=ObjectSign CA,O=GlobalSign nv-sa,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9477,6 +10124,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GlobalSign Primary Object Publishing CA,OU=Primary Object Publishing CA,O=GlobalSign nv-sa,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9504,6 +10152,7 @@ var trusty = {
         65537
       ],
       "name": "serialNumber=22,CN=Certigna ID PRIS Pro,OU=0002 481463081,O=Dhimyotis,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9513,6 +10162,7 @@ var trusty = {
         65537
       ],
       "name": "CN=WoSign Class 4 EV Server CA,O=WoSign eCommerce Services Limited,C=CN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9531,6 +10181,7 @@ var trusty = {
         65537
       ],
       "name": "CN=QuoVadis EU Issuing Certification Authority,OU=Issuing Certification Authority,O=QuoVadis Limited\\, Bermuda,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9553,6 +10204,7 @@ var trusty = {
     },
     {
       "name": "CN=Microsoft Root Certificate Authority,DC=microsoft,DC=com",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9562,6 +10214,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC CertiSign V3,OU=AC CertiSign V3,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9580,6 +10233,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TC TrustCenter Class 2 L1 CA V,OU=TC TrustCenter Class 2 L1 CA,O=TC TrustCenter GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9589,6 +10243,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SafeScrypt sub-CA for RCAI Class 2 2012,OU=Sub-CA,O=Sify Technologies Limited,C=IN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9598,6 +10253,7 @@ var trusty = {
         65537
       ],
       "name": "C=FR,O=Gendarmerie nationale,OU=0002 157000019,CN=AC GN Machines",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9607,6 +10263,7 @@ var trusty = {
         65537
       ],
       "name": "DC=fr,DC=gouv,DC=gendarmerie,O=Gendarmerie nationale,CN=AC Racine Gendarmerie nationale",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9634,6 +10291,7 @@ var trusty = {
         65537
       ],
       "name": "ST=Tamil Nadu,L=Chennai,CN=e-Mudhra CA,OU=3i Infotech Consumer Services Ltd.,O=India PKI,C=IN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9661,6 +10319,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AAA Certificate Services,O=Comodo CA Limited,L=Salford,ST=Greater Manchester,C=GB",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9670,6 +10329,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=pki@ciccp.es,CN=CA CICCP,OU=CICCP C.I.F. Q-2867009-I,O=CICCP - Colegio de Ingenieros de Caminos Canales y Puertos,L=Madrid,ST=Madrid,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9683,6 +10343,7 @@ var trusty = {
     },
     {
       "name": "CN=PostSignum Root QCA 2,O=Česká pošta\\, s.p. [IČ 47114983],C=CZ",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9692,6 +10353,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Deutsche Telekom AG Issuing CA 01,OU=Trust Center,O=Deutsche Telekom AG,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9710,6 +10372,7 @@ var trusty = {
         65537
       ],
       "name": "CN=issuingca,OU=pki,O=global,C=ww",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9719,6 +10382,7 @@ var trusty = {
         65537
       ],
       "name": "CN=rootca,OU=pki,O=global,C=ww",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9728,6 +10392,7 @@ var trusty = {
         65537
       ],
       "name": "CN=QuoVadis Swiss Advanced CA,OU=Issuing Certification Authority,O=QuoVadis Trustlink Switzerland Ltd.,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9737,6 +10402,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Personnes Signature,OU=110 043 015,O=Ministere Education Nationale (MENESR),C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9746,6 +10412,7 @@ var trusty = {
         65537
       ],
       "name": "CN=MULTICERT-CA 01,O=MULTICERT-CA,C=pt",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9777,6 +10444,7 @@ var trusty = {
     },
     {
       "name": "CN=Certipost E-Trust TOP Root CA,O=Certipost s.a./n.v.,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9795,6 +10463,7 @@ var trusty = {
         65537
       ],
       "name": "CN=e-Mudhra Class 3 Device CA,OU=e-Mudhra,O=3i Infotech Consumer Services Ltd.,C=IN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9849,6 +10518,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Dell Inc. Enterprise Utility CA1,O=Dell Inc.",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9876,6 +10546,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AUTH Users Certification Authority R6,O=Aristotle University of Thessaloniki,C=GR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9885,6 +10556,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GlobalSign Secure Server CA,OU=Secure Server CA,O=GlobalSign nv-sa,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9894,6 +10566,7 @@ var trusty = {
         65537
       ],
       "name": "CN=HHS-FPKI-Intermediate-CA-E1,OU=Certification Authorities,OU=HHS,O=U.S. Government,C=us",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9903,6 +10576,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Firstserver Corporate Server CA,OU=Cert Services,O=Firstserver\\, Inc.,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9957,6 +10631,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC CAIXA PF-1 v1,OU=Caixa Economica Federal,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9966,6 +10641,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Starfield Root Certificate Authority - G2,OU=https://certs.starfieldtech.com/repository/,O=Starfield Technologies\\, Inc.,L=Scottsdale,ST=Arizona,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9975,6 +10651,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TDB ROOT CA 1-2,O=TEIKOKU DATABANK\\, LTD.,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -9993,10 +10670,12 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=Info@izenpe.com,CN=EAEko Herri Administrazioen CA - CA AAPP Vascas,OU=AZZ Ziurtagiri publikoa - Certificado publico SCA,L=Avda del Mediterraneo Etorbidea 3 - 01010 Vitoria-Gasteiz,O=IZENPE S.A. - CIF A-01337260-RMerc.Vitoria-Gasteiz T1055 F62 S8,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "emailAddress=Info@izenpe.com,CN=Izenpe.com,L=Avda del Mediterraneo Etorbidea 3 - 01010 Vitoria-Gasteiz,O=IZENPE S.A. - CIF A-01337260-RMerc.Vitoria-Gasteiz T1055 F62 S8,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10015,6 +10694,7 @@ var trusty = {
         65537
       ],
       "name": "CN=The Walt Disney Company CA,OU=PKI,DC=disney,DC=com",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10042,6 +10722,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC RACINE MINISTERE EN CHARGE DE L'AGRICULTURE,OU=0002 110070018,O=SERVICE-PUBLIC GOUV MINISTERE EN CHARGE DE L'AGRICULTURE,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10051,6 +10732,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Personnes Authentification,OU=110 043 015,O=Ministere Education Nationale (MENESR),C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10060,6 +10742,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GlobalSign Extended Validation CA,O=GlobalSign,OU=Extended Validation CA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10096,6 +10779,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VeriSign Class 3 Extended Validation 1024-bit SSL SGC CA,OU=Terms of use at https://www.verisign.com/rpa (c)07,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10105,6 +10789,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VeriSign Class 3 SSP Intermediate CA,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10123,6 +10808,7 @@ var trusty = {
         65537
       ],
       "name": "CN=LSU Health System CA1,O=LSU Health System,OU=IT Security and Policy Group,L=Shreveport,ST=Louisiana,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10159,10 +10845,12 @@ var trusty = {
         65537
       ],
       "name": "CN=Trans Sped Qualified CA II,OU=Individual Subscriber CA,O=Trans Sped SRL,C=RO",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=TC TrustCenter Class 3 CA II,OU=TC TrustCenter Class 3 CA,O=TC TrustCenter GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10172,6 +10860,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VeriSign Class 3 Secure Server 1024-bit CA - G2,OU=Terms of use at https://www.verisign.com/rpa (c)09,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10181,6 +10870,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=admin@startcom.org,CN=StartCom Class1 Primary Email Free CA,OU=Secure Certificate Signing,O=StartCom Ltd.,ST=Israel,C=IL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10190,6 +10880,7 @@ var trusty = {
         65537
       ],
       "name": "CN=CISRCA1,OU=Certification Authorities,O=Carillon Information Security Inc.,C=CA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10199,6 +10890,7 @@ var trusty = {
         65537
       ],
       "name": "CN=EID-SK 2007,OU=Sertifitseerimisteenused,O=AS Sertifitseerimiskeskus,C=EE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10221,6 +10913,7 @@ var trusty = {
     },
     {
       "name": "CN=KASBANK-ACP-ROOT-CA,O=KASBANK N.V.,L=Amsterdam,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10230,6 +10923,7 @@ var trusty = {
         65537
       ],
       "name": "CN=(n)Code Solutions - A Division of GNFC LTD.,OU=(n)Code Solutions CA,O=India PKI,C=IN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10239,6 +10933,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SCC RF CA,O=Supreme Commercial Court of the Russian Federation,C=RU",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10252,6 +10947,7 @@ var trusty = {
     },
     {
       "name": "emailAddress=pki@sk.ee,CN=EE Certification Centre Root CA,O=AS Sertifitseerimiskeskus,C=EE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10270,6 +10966,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Digidentity Organisatie CA - G2,O=Digidentity B.V.,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10283,6 +10980,7 @@ var trusty = {
     },
     {
       "name": "CN=Swedish Government Root Authority v1,O=Swedish Social Insurance Agency,C=SE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10292,6 +10990,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC DILA Publication,OU=0002 13000918600011,OU=Direction Information Legale Administrative,O=Gouv,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10301,6 +11000,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC JO Racine,OU=0002 16000102000017,OU=Journaux officiels,O=Gouv,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10310,6 +11010,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Actalis Client Authentication CA,OU=Certification Service Provider,O=Actalis S.p.A.,C=IT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10337,6 +11038,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC BR SRF,OU=Secretaria da Receita Federal - SRF,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10346,6 +11048,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Amazon Root CA 2,O=Amazon,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10409,6 +11112,7 @@ var trusty = {
         65537
       ],
       "name": "OU=www.verisign.com/CPS Incorp.by Ref.\\, LIAB. LTD. (c) 97 VeriSign,OU=VeriSign OnSite Administrator CA - Class 3,O=VeriSign Trust Network",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10427,6 +11131,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Kas_Acc_CA,O=Kas Bank NV,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10454,6 +11159,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Staat der Nederlanden Organisatie Services CA - G3,O=Staat der Nederlanden,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10463,6 +11169,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Migros Root Certification Authority,O=Migros,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10472,6 +11179,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DigiCert Direct Med CA,OU=www.digicert.com,O=DigiCert Inc,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10481,6 +11189,7 @@ var trusty = {
         65537
       ],
       "name": "CN=CFC Certificate Authority,OU=Internet Services,O=CFC",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10490,6 +11199,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VeriSign Class 3 Secure Server CA,OU=Terms of use at https://www.verisign.com/rpa (c)05,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10499,6 +11209,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Coop Root CA 1,O=Coop Genossenschaft,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10544,6 +11255,7 @@ var trusty = {
         65537
       ],
       "name": "CN=InCommon Standard Assurance Client CA,OU=InCommon,O=Internet2,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10553,6 +11265,7 @@ var trusty = {
         53643
       ],
       "name": "CN=Autoridade Certificadora do SERPRO Final v2,OU=CSPB-1,OU=Servico Federal de Processamento de Dados - SERPRO,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10562,6 +11275,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Autoridade Certificadora SERPRO v2,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10575,6 +11289,7 @@ var trusty = {
     },
     {
       "name": "CN=Staat der Nederlanden Root CA - G2,O=Staat der Nederlanden,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10584,6 +11299,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TC TrustCenter Class 2 SAFE CA I,OU=TC TrustCenter Class 2 SAFE CA,O=TC TrustCenter GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10593,10 +11309,12 @@ var trusty = {
         65537
       ],
       "name": "CN=master-SH-CA2,O=LSU Health System,L=Shreveport,ST=Louisiana,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "emailAddress=ca@noc.uoa.gr,CN=UoA Certification Authority,OU=Network Operations Center,O=National & Kapodistrian University of Athens,L=Athens,ST=Greece,C=GR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10606,6 +11324,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Siemens Issuing CA Class Internet Server 2011,OU=Copyright (C) Siemens AG 2011 All Rights Reserved,serialNumber=ZZZZZZV9,O=Siemens,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10615,6 +11334,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Siemens Internet CA V1.0,OU=Copyright (C) Siemens AG 2011 All Rights Reserved,serialNumber=ZZZZZZV0,O=Siemens,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10624,6 +11344,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD CA-21,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10642,6 +11363,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VR IDENT EXTERNAL ROOT CA 2015,OU=VR IDENT,O=GAD EG,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10651,6 +11373,7 @@ var trusty = {
         65537
       ],
       "name": "CN=a-sign-corporate-light-02,OU=a-sign-corporate-light-02,O=A-Trust Ges. f. Sicherheitssysteme im elektr. Datenverkehr GmbH,C=AT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10702,6 +11425,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=mp2@mp2.at,CN=MP2.at Root CA,O=MP2 IT-Solutions GmbH,L=Wien,C=AT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10711,6 +11435,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Premium SSLGenie SGC,OU=http://www.sslgenie.com,O=MindGenies,L=Noida,ST=UP,C=IN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10733,6 +11458,7 @@ var trusty = {
     },
     {
       "name": "CN=Post.Trust Root CA,OU=Post.Trust Ltd.,O=An Post,C=IE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10751,6 +11477,7 @@ var trusty = {
         65537
       ],
       "name": "CN=mtnlTrustLine Class 3 Server Sub CA G1,OU=mtnlTrustLine,O=Mahanagar Telephone Nigam Limited,C=IN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10760,6 +11487,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SERASA Autoridade Certificadora Principal,OU=Instituto Nacional de Tecnologia da Informacao - ITI,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10769,6 +11497,7 @@ var trusty = {
         65537
       ],
       "name": "CN=ORC Public CA 1,O=ORC PKI,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10778,6 +11507,7 @@ var trusty = {
         65537
       ],
       "name": "CN=NRC Rudimentary CA G2,OU=External Rudimentary,O=U.S. Nuclear Regulatory Commission,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10796,6 +11526,7 @@ var trusty = {
         65537
       ],
       "name": "CN=JNJ 2048bit Root Certification Authority,OU=JNJ Public Key Authorities,O=JNJ,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10814,6 +11545,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SERASA Certificadora Digital,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10832,6 +11564,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Jo Tankers CA,O=Jo Tankers,L=Bergen,ST=Hordaland,C=NO,emailAddress=jotca@jotankers.com",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10859,10 +11592,12 @@ var trusty = {
         65537
       ],
       "name": "C=ES,O=ACCV,OU=PKIACCV,CN=ACCVCA-110",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "C=ES,O=ACCV,OU=PKIACCV,CN=ACCVRAIZ1",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10872,6 +11607,7 @@ var trusty = {
         65537
       ],
       "name": "CN=XCOM Comunicacao Segura,C=PT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10894,6 +11630,7 @@ var trusty = {
     },
     {
       "name": "CN=KEYNECTIS ROOT CA,OU=ROOT,O=KEYNECTIS,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10912,6 +11649,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Comtrust Server CA,OU=Comtrust,O=Etisalat,C=AE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10921,6 +11659,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Comtrust Root CA,OU=Comtrust,O=Etisalat,C=AE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10930,6 +11669,7 @@ var trusty = {
         65537
       ],
       "name": "OU=Entrust,OU=FBCA,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10939,6 +11679,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Cartão de Cidadão 001,OU=ECEstado,O=SCEE - Sistema de Certificação Electrónica do Estado,C=PT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10957,6 +11698,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Nederlandse Orde van Advocaten - Dutch Bar Association,O=Nederlandse Orde van Advocaten,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10970,6 +11712,7 @@ var trusty = {
     },
     {
       "name": "CN=TWCA Root Certification Authority,OU=Root CA,O=TAIWAN-CA,C=TW",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -10979,10 +11722,12 @@ var trusty = {
         65537
       ],
       "name": "CN=ChainedSSL CA,O=FreeSSL,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=UTN-USERFirst-Network Applications,OU=http://www.usertrust.com,O=The USERTRUST Network,L=Salt Lake City,ST=UT,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11010,6 +11755,7 @@ var trusty = {
         65537
       ],
       "name": "CN=National and Kapodistrian University of Athens CA R2,O=Hellenic Academic and Research Institutions Cert. Authority,C=GR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11019,6 +11765,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Collaboration Certification Authority G2,OU=Class 2 Managed PKI Individual Subscriber CA,OU=Terms of use at https://www.verisign.com/rpa (c)09,OU=VeriSign Trust Network,O=Hewlett-Packard Company,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11028,6 +11775,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Certinomis AC 2 étoiles,OU=0002 433998903,O=Certinomis,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11037,6 +11785,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GJC Advanced G1 CA1,OU=Tecnologia da Informacão,O=Grupo Jaime Câmara,L=Goiânia,ST=GO,DC=ojc,DC=com,DC=br,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11046,6 +11795,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Fuji Xerox Endorsement CA,O=Fuji Xerox,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11055,6 +11805,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SAFE Bridge CA,OU=Certification Authorities,O=SAFE-Biopharma Association,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11064,6 +11815,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Cybertrust Public Issuing CA 1,OU=PKI,OU=Services,O=Cybertrust Inc,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11073,6 +11825,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VeriSign Class 3 Secure Intranet Server CA,OU=Terms of use at https://www.verisign.com/rpa (c)03,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11082,6 +11835,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DoD Interoperability Root CA 1,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11091,6 +11845,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC DGTPE Signature Authentification,O=DGTPE,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11100,6 +11855,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Racine DGTPE,O=DGTPE,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11118,6 +11874,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD EMAIL CA-24,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11127,6 +11884,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Sun Microsystems Inc SSL CA,OU=Class 3 MPKI Secure Server CA,OU=VeriSign Trust Network,O=Sun Microsystems Inc",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11136,6 +11894,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DigiNotar PKIoverheid CA Overheid,O=DigiNotar B.V.,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11154,6 +11913,7 @@ var trusty = {
         65537
       ],
       "name": "OU=Servizi di Certificazione,OU=ICT Security Office,O=UGIS S.p.A.,C=IT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11169,6 +11929,7 @@ var trusty = {
       "keytype": "EC",
       "params": "prime256v1",
       "name": "CN=Amazon Root CA 3,O=Amazon,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11187,10 +11948,12 @@ var trusty = {
         65537
       ],
       "name": "CN=VAS Latvijas Pasts PSI(PCA),OU=Sertifikacijas pakalpojumi,O=VAS Latvijas Pasts - Vien.reg.Nr.40003052790,C=LV",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=VAS Latvijas Pasts SSI(RCA),OU=Sertifikacijas pakalpojumi,O=VAS Latvijas Pasts - Vien.reg.Nr.40003052790,C=LV",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11200,6 +11963,7 @@ var trusty = {
         65537
       ],
       "name": "CN=(n)Code Solutions,OU=(n)Code Solutions Certifying Authority,O=India PKI,C=IN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11218,6 +11982,7 @@ var trusty = {
         65537
       ],
       "name": "CN=e-Visa,OU=Visa International Service Associations,O=VISA,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11245,10 +12010,12 @@ var trusty = {
         65537
       ],
       "name": "CN=ATHEXnet Subordinate CA,O=Athens Exchange S.A.,C=GR",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=ATHEX Root CA,O=Athens Exchange S.A.,C=GR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11267,6 +12034,7 @@ var trusty = {
         65537
       ],
       "name": "CN=COMODO Name Constraints Testing CA,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11276,6 +12044,7 @@ var trusty = {
         65537
       ],
       "name": "OU=MessageLabs CA,O=MessageLabs,C=GB",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11285,10 +12054,12 @@ var trusty = {
         65537
       ],
       "name": "CN=Comsign EV SSL CA,O=Comsign Ltd.,L=Tel Aviv,C=IL",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "C=IL,O=ComSign Ltd.,CN=ComSign Global Root CA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11302,6 +12073,7 @@ var trusty = {
     },
     {
       "name": "CN=America Online Root Certification Authority 1,O=America Online Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11329,6 +12101,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SSC Qualified Class 3 VS CA,OU=Certification Authority,O=Skaitmeninio sertifikavimo centras,C=LT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11365,6 +12138,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Accenture Application Server CA,OU=Security,O=Accenture,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11374,6 +12148,7 @@ var trusty = {
         65537
       ],
       "name": "CN=StartCom Class 3 Primary Intermediate Object CA,OU=Secure Digital Certificate Signing,O=StartCom Ltd.,C=IL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11383,6 +12158,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TC TrustCenter Class 3 L1 CA V,OU=TC TrustCenter Class 3 L1 CA,O=TC TrustCenter GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11401,6 +12177,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC_MINEFI_DPMA,OU=Administration Centrale du MINEFI,O=GOUV,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11410,6 +12187,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Deutsche Telekom CA 1,OU=T-TeleSec Trust Center,O=Deutsche Telekom AG,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11437,6 +12215,7 @@ var trusty = {
         65537
       ],
       "name": "OU=First Data Root CA,OU=Certification Authorities,O=First Data Corporation,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11446,6 +12225,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD CA-14,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11473,6 +12253,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GlobalSign Enhanced ServerSign CA,OU=Enhanced ServerSign CA,O=GlobalSign nv-sa,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11482,6 +12263,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GlobalSign Primary Enhanced ServerSign CA,OU=Primary Enhanced ServerSign CA,O=GlobalSign nv-sa,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11491,6 +12273,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GlobalSign Organization Validation CAT - G2,O=GlobalSign nv-sa,OU=For Test Purposes Only,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11527,6 +12310,7 @@ var trusty = {
         65537
       ],
       "name": "OU=CMS CA,OU=CMS,O=State of Illinois,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11536,6 +12320,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC CAIXA-JUS v1,OU=Autoridade Certificadora da Justica - AC-JUS,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11549,6 +12334,7 @@ var trusty = {
     },
     {
       "name": "CN=DigiCert Global Root G2,OU=www.digicert.com,O=DigiCert Inc,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11558,6 +12344,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Issuing CA Powertrain,O=Magna Powertrain,C=AT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11576,6 +12363,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Comtrust User Certification Authority,OU=Etisalat eBusiness Services,O=Etisalat,C=AE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11594,6 +12382,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SAIC Public Issuing CA 01,OU=PKI,O=SAIC,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11603,6 +12392,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SAIC Public Policy CA 01,OU=PKI,O=SAIC,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11621,6 +12411,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Saphety CA 01,O=Saphety,C=PT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11648,6 +12439,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Fuji Xerox Xnet CA - G2,O=Fuji Xerox,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11657,6 +12449,7 @@ var trusty = {
         65537
       ],
       "name": "CN=StartCom Class 1 Intermediate CA - The City of Osmio,O=The City of Osmio\\, Inc.,ST=Massachusetts,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11666,6 +12459,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TC TrustCenter Class 3 L1 CA VII,OU=TC TrustCenter Class 3 L1 CA,O=TC TrustCenter GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11675,6 +12469,7 @@ var trusty = {
         65537
       ],
       "name": "CN=NSW-DET-ISS-CA1,OU=ITD,O=Department of Education and Training,C=AU",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11684,6 +12479,7 @@ var trusty = {
         65537
       ],
       "name": "CN=EAEko HAetako langileen CA - CA personal de AAPP vascas (2),OU=AZZ Ziurtagiri publikoa - Certificado publico SCA,O=IZENPE S.A.,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11697,6 +12493,7 @@ var trusty = {
     },
     {
       "name": "CN=VeriSign Class 3 Public Primary Certification Authority - G5,OU=(c) 2006 VeriSign\\, Inc. - For authorizud use only,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11719,6 +12516,7 @@ var trusty = {
     },
     {
       "name": "CN=Certum Trusted Network CA 2,OU=Certum Certification Authority,O=Unizeto Technologies S.A.,C=PL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11755,6 +12553,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GlobalSign PersonalSign 1 CA - SHA256 - G2,O=GlobalSign nv-sa,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11782,6 +12581,7 @@ var trusty = {
         65537
       ],
       "name": "CN=KLASS3-SK,serialNumber=1,OU=Sertifitseerimisteenused,O=AS Sertifitseerimiskeskus,C=EE,emailAddress=pki@sk.ee",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11809,6 +12609,7 @@ var trusty = {
         65537
       ],
       "name": "CN=IdenTrust Commercial Root CA 1,O=IdenTrust,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11827,6 +12628,7 @@ var trusty = {
         65537
       ],
       "name": "CN=QV Schweiz ICA,OU=Issuing Certificate Authority,O=QuoVadis Trustlink Schweiz AG,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11845,6 +12647,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Arab Bank Root CA 1,O=Arab Bank Switzerland Ltd,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11854,6 +12657,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Actalis Server Authentication CA,OU=Certification Service Provider,O=Actalis S.p.A.,C=IT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11863,6 +12667,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Intel External Issuing CA 6B,O=Intel Corporation,L=Santa Clara,ST=CA,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11917,6 +12722,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GlobalSign ServerSign CA,OU=ServerSign CA,O=GlobalSign nv-sa,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11935,6 +12741,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Certum Level I CA,OU=Certum Certification Authority,O=Unizeto Technologies S.A.,C=PL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -11993,6 +12800,7 @@ var trusty = {
         65537
       ],
       "name": "CN=ZF CA 01,OU=ZF IT,O=ZF",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12002,6 +12810,7 @@ var trusty = {
         65537
       ],
       "name": "CN=ZF Root CA,OU=ZF IT,O=ZF",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12029,6 +12838,7 @@ var trusty = {
         65537
       ],
       "name": "serialNumber=31,CN=Certigna Serveur Client,OU=0002 481463081,O=Dhimyotis,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12038,6 +12848,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Autoridade Certificadora do SERPRO Final v3,OU=CSPB-1,OU=Servico Federal de Processamento de Dados - SERPRO,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12047,10 +12858,12 @@ var trusty = {
         65537
       ],
       "name": "CN=PKI SwissPost EXT Machine CA TEST G3,OU=TEST,O=Post CH AG,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=SwissSign Gold Root CA - G3,O=SwissSign AG,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12060,6 +12873,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Certum Level I,O=Unizeto Sp. z o.o.,C=PL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12078,6 +12892,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Microsoft Online Services GFS CA2,OU=GFS,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12087,6 +12902,7 @@ var trusty = {
         65537
       ],
       "name": "CN=EC-PARLAMENT,OU=Parlament de Catalunya,OU=Vegeu https://www.catcert.net/verCIC-2 (c)03,OU=Serveis Publics de Certificacio,L=Passatge de la Concepcio 11 08008 Barcelona,O=Agencia Catalana de Certificacio (NIF Q-0801176-I),C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12096,6 +12912,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD EMAIL CA-19,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12105,12 +12922,14 @@ var trusty = {
         65537
       ],
       "name": "CN=QuoVadis ICA 3,OU=Issuing Certification Authority,O=QuoVadis Limited\\, Bermuda,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
       "keytype": "EC",
       "params": "secp384r1",
       "name": "CN=USERTrust ECC Certification Authority,O=The USERTRUST Network,L=Jersey City,ST=New Jersey,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12129,6 +12948,7 @@ var trusty = {
         65537
       ],
       "name": "CN=adidas EMEA Issuing CA 01,O=adidas AG,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12138,6 +12958,7 @@ var trusty = {
         65537
       ],
       "name": "CN=adidas Global Intermediate CA 01,O=adidas AG,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12147,6 +12968,7 @@ var trusty = {
         65537
       ],
       "name": "CN=LuxTrust Normalised CA,O=LuxTrust s.a,C=LU",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12156,6 +12978,7 @@ var trusty = {
         65537
       ],
       "name": "CN=LuxTrust root CA,O=LuxTrust s.a.,C=LU",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12183,6 +13006,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AffirmTrust Commercial,O=AffirmTrust,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12192,6 +13016,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=security-services@cadence.com,CN=Cadence Secure Server Authority,OU=Information Security Services,O=Cadence Design Systems,L=San Jose,ST=California,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12201,6 +13026,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Cadence Internet Authority",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12228,6 +13054,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Herritar eta Erakundeen CA - CA de Ciudadanos y Entidades (4),OU=NZZ Ziurtagiri publikoa - Certificado publico SCI,O=IZENPE S.A.,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12237,6 +13064,7 @@ var trusty = {
         65537
       ],
       "name": "CN=IGC_DPMA_Agents,OU=Administration Centrale du MINEFI,O=GOUV,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12264,6 +13092,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DigiCert Cloud Services CA-1,O=DigiCert Inc,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12273,6 +13102,7 @@ var trusty = {
         65537
       ],
       "name": "ST=NCT Delhi,emailAddress=support@camail.nic.in,L=New Delhi,CN=NIC Certifying Authority,OU=NIC CA,O=NIC,C=IN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12282,6 +13112,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SwissSign Gold Server CA 2010 - G3,O=SwissSign AG,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12295,6 +13126,7 @@ var trusty = {
     },
     {
       "name": "emailAddress=admin@derekwei.com,CN=VeriSign,OU=Production Security Services,O=VeriSign\\, Inc.,L=Mountain View,ST=California,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12313,10 +13145,12 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=ips@mail.ips.es,CN=CLASE B-3 ipsCA-IPS Seguridad 2005,OU=Certificaciones,O=IPS Seguridad CA,L=Barcelona,ST=Barcelona,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "emailAddress=ips@mail.ips.es,CN=IPS CA CLASE3 Certification Authority,OU=IPS CA CLASE3 Certification Authority,O=ips@mail.ips.es C.I.F.  B-60929452,O=IPS Internet publishing Services s.l.,L=Barcelona,ST=Barcelona,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12326,6 +13160,7 @@ var trusty = {
         65537
       ],
       "name": "CN=CNIPA CA3,OU=Servizi di Sicurezza e Certificazione,O=Centro Nazionale per l'Informatica nella PA,C=IT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12335,6 +13170,7 @@ var trusty = {
         65537
       ],
       "name": "CN=ATT Wi-Fi Services Corporate Certificate Authority G3,OU=ATT Wi-Fi Services,O=ATT Services Inc,ST=Texas,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12344,6 +13180,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SwissSign Server Silver CA - G2,O=SwissSign AG,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12456,6 +13293,7 @@ var trusty = {
     },
     {
       "name": "CN=GPKIRootCA,OU=GPKI,O=Government of Korea,C=KR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12474,6 +13312,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC BOA VISTA,OU=Autoridade Certificadora Raiz Brasileira v2,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12483,6 +13322,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD CA-22,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12505,6 +13345,7 @@ var trusty = {
     },
     {
       "name": "emailAddress=acraiz@suscerte.gob.ve,OU=Superintendencia de Servicios de Certificacion Electronica,O=Sistema Nacional de Certificacion Electronica,ST=Distrito Capital,L=Caracas,C=VE,CN=Autoridad de Certificacion Raiz del Estado Venezolano",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12541,6 +13382,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=PKI@bessy.de,CN=BESSY CA - G02,OU=EDV,O=BESSY,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12550,6 +13392,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VeriSign Class 3 WLAN Secure Server CA,OU=Terms of use at https://www.verisign.com/rpa (c)03,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12559,6 +13402,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VeriSign Class 3 Inter\\01\\00^\\00\\00\\16\\000H\\<o\\08\\00r CA - G3,OU=Terms of use at https://www.verisign.com/rpa (c)10,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12595,6 +13439,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Certinomis Serveurs Et Equipements,OU=0002 433998903,O=Certinomis,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12613,6 +13458,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Kamu Elektronik Sertifika Hizmet Sağlayıcısı - Sürüm 3,OU=Kamu Sertifikasyon Merkezi,OU=Ulusal Elektronik ve Kriptoloji Araştırma Enstitüsü - UEKAE,O=Türkiye Bilimsel ve Teknolojik Araştırma Kurumu - TÜBİTAK,L=Gebze - Kocaeli,C=TR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12622,6 +13468,7 @@ var trusty = {
         65537
       ],
       "name": "CN=UniCERT Certificadora,OU=AC-02 UniCERT,O=Unicert Brasil Certificadora,C=BR,emailAddress=admin@unicert.com.br",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12631,6 +13478,7 @@ var trusty = {
         65537
       ],
       "name": "serialNumber=32,CN=Certigna ID Classe 3,OU=0002 481463081,O=Dhimyotis,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12658,6 +13506,7 @@ var trusty = {
         65537
       ],
       "name": "CN=COMODO RSA Organization Validation Secure Server CA,O=COMODO CA Limited,L=Salford,0.0.0.8=#131247726561746572204D616E63686573746572,C=GB",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12676,6 +13525,7 @@ var trusty = {
         65537
       ],
       "name": "CN=ResellerFly Certificate Services,O=RegisterFly.com\\, inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12685,6 +13535,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC PRODEMGE G2,OU=Companhia de Tecnologia da Informacao do Estado de MG - PRODEMGE,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12698,6 +13549,7 @@ var trusty = {
     },
     {
       "name": "CN=Chambers of Commerce Root - 2008,O=AC Camerfirma S.A.,serialNumber=A82743287,L=Madrid (see current address at www.camerfirma.com/address),C=EU",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12707,10 +13559,12 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=ca@trustwave.com,CN=Trustwave Organization Issuing CA\\, Level 2,O=Trustwave Holdings\\, Inc.,L=Chicago,ST=Illinois,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=XRamp Global Certification Authority,O=XRamp Security Services Inc,OU=www.xrampsecurity.com,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12729,6 +13583,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Go Daddy Root Certificate Authority - G2,OU=https://certs.godaddy.com/repository/,O=GoDaddy.com\\, Inc.,L=Scottsdale,ST=Arizona,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12756,10 +13611,12 @@ var trusty = {
         65537
       ],
       "name": "OU=VeriSign Class 1 CA - Individual Subscriber,O=VeriSign\\, Inc.,L=Internet",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "OU=Class 1 Public Primary Certification Authority,O=VeriSign\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12769,6 +13626,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VAS Latvijas Pasts SI(CA1),OU=Sertifikacijas pakalpojumi,O=VAS Latvijas Pasts - Vien.reg.Nr.40003052790,C=LV",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12787,10 +13645,12 @@ var trusty = {
         65537
       ],
       "name": "CN=Autoridade Certificadora da Presidencia da Republica v3,OU=Autoridade Certificadora Raiz Brasileira v2,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "OU=Class 3 Public Primary Certification Authority,O=VeriSign\\, L®c.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12800,6 +13660,7 @@ var trusty = {
         65537
       ],
       "name": "CN=InnoSSL TrustSign OV Certification Authority,O=Dotname Korea Corp.,C=KR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12813,10 +13674,12 @@ var trusty = {
     },
     {
       "name": "CN=DigiCert Assured ID Root G2,OU=www.digicert.com,O=DigiCert Inc,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=Class 1 Primary CA,O=Certplus,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12835,6 +13698,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC BR RFB G3,OU=Secretaria da Receita Federal do Brasil - RFB,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12853,6 +13717,7 @@ var trusty = {
         65537
       ],
       "name": "CN=IDEACROSS CA,O=IDEACROSS INC.,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12880,6 +13745,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TC TrustCenter Class 3-II L1 CA IV,OU=TC TrustCenter Class 3-II L1 CA,O=TC TrustCenter GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12898,6 +13764,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Swisscom Saphir CA 1,OU=Digital Certificate Services,O=Swisscom,C=ch",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12907,6 +13774,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DST ACES Business Representative CA A2,OU=DST ACES,O=Digital Signature Trust,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12916,6 +13784,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TC TrustCenter Class 2 L1 CA XII,OU=TC TrustCenter Class 2 L1 CA,O=TC TrustCenter GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12925,6 +13794,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VeriSign Class 3 SSP Intermediate CA - G2,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12934,6 +13804,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Wells Fargo Public Primary Certificate Authority,OU=Wells Fargo Certificate Authorities,O=Wells Fargo,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12943,6 +13814,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AusCERT Code Signing CA,OU=Certificate Services,O=AusCERT,C=AU",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12970,6 +13842,7 @@ var trusty = {
         65537
       ],
       "name": "CN=CA134040001,OU=GPKI,O=Government of Korea,C=KR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12979,6 +13852,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SSTrust,OU=licensedCA,O=KICA,C=KR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -12988,6 +13862,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AddTrust Class 1 CA Root,OU=AddTrust TTP Network,O=AddTrust AB,C=SE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13042,6 +13917,7 @@ var trusty = {
         65537
       ],
       "name": "CN=jamesconeyisland.net,OU=Domain Control Validated - Organization Not Validated,OU=See www.geotrust.com/quickssl/cps (c)02,O=jamesconeyisland.net,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13060,6 +13936,7 @@ var trusty = {
         58865
       ],
       "name": "CN=Autoridade Certificadora do SERPRO Final v1,OU=CSPB-1,OU=Servico Federal de Processamento de Dados - SERPRO,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13069,6 +13946,7 @@ var trusty = {
         54167
       ],
       "name": "CN=Autoridade Certificadora do SERPRO v1,OU=Servico Federal de Processamento de Dados - SERPRO,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13078,6 +13956,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Virginia Tech Global Root CA,OU=Global Root CA,O=Virginia Tech,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13150,6 +14029,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Shared Business CA 2,OU=Trust Center Deutsche Telekom,O=T-Systems International GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13159,6 +14039,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Digisign Server ID (Enrich),OU=457608-K,O=Digicert Sdn. Bhd.,C=MY",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13186,6 +14067,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Gracenote Corporate Issuing CA,O=Gracenote Inc",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13195,6 +14077,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Gracenote Corporate Policy CA,O=Gracenote Inc",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13249,6 +14132,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Verizon Public SureServer EV SSL CA G14-SHA1,OU=Cybertrust,O=Verizon Enterprise Solutions,L=Amsterdam,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13262,6 +14146,7 @@ var trusty = {
     },
     {
       "name": "CN=QuoVadis Root CA 3 G3,O=QuoVadis Limited,C=BM",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13271,6 +14156,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=e-sign@e-sign.cl,CN=E-Sign SC Class 2 Consumer Individual Subscriber CA,OU=Terms of use at https://www.e-sign.cl/rpa (c)05,OU=VeriSign Trust Network,O=E-Sign S.A.",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13343,6 +14229,7 @@ var trusty = {
         65537
       ],
       "name": "CN=PKI SwissPost EXT Machine CA G3,OU=PROD,O=Post CH AG,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13379,6 +14266,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=ca@t-systems-sfr.com,CN=T-Systems SfR CA,O=T-Systems SfR,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13442,10 +14330,12 @@ var trusty = {
         65537
       ],
       "name": "CN=yessignCA-SSL,OU=LicensedCA,O=yessign,C=kr",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=KISA RootCA 3,OU=Korea Certification Authority Central,O=KISA,C=KR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13455,6 +14345,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Certum Level IV,O=Unizeto Sp. z o.o.,C=PL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13473,6 +14364,7 @@ var trusty = {
         65537
       ],
       "name": "ST=Delhi,emailAddress=support@camail.nic.in,L=New Delhi,CN=NIC Certifying Authority,OU=NICCA,O=National Informatics Centre,C=IN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13482,6 +14374,7 @@ var trusty = {
         65537
       ],
       "name": "CN=XCOM Server,O=XCOM,C=PT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13491,6 +14384,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=pki@sk.ee,CN=EID-SK 2011,O=AS Sertifitseerimiskeskus,C=EE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13509,6 +14403,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Jack Henry Group CA I,OU=Jack Henry Group CA,O=Jack Henry and Associates\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13527,6 +14422,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SwissSign Personal Gold CA 2014 - G22,O=SwissSign AG,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13545,10 +14441,12 @@ var trusty = {
         65537
       ],
       "name": "CN=Gatekeeper TYPE 3 CA,OU=Terms of use at https://www.esign.com.au/GKRPA/,OU=Gatekeeper PKI,O=VeriSign Australia",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=Gatekeeper Root CA,OU=Gatekeeper PKI,O=eSign Australia",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13558,10 +14456,12 @@ var trusty = {
         65537
       ],
       "name": "C=DE,O=Atos,CN=Atos TrustedRoot Server-CA 2013",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "C=DE,O=Atos,CN=Atos TrustedRoot 2011",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13589,6 +14489,7 @@ var trusty = {
         65537
       ],
       "name": "CN=EASEE-gas CA,O=EASEE-gas,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13598,6 +14499,7 @@ var trusty = {
         65537
       ],
       "name": "CN=pantheon,OU=IT Services,O=Miami University,L=Oxford,ST=OH,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13616,6 +14518,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Government CA,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13625,6 +14528,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Belgium Root CA,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13652,6 +14556,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Digi-Sign CA Digi-ID Xp,OU=Terms and Conditions of use: http://www.digi-sign.com/repository,O=Digi-Sign Limited,L=Dublin,ST=Dublin,C=IE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13685,6 +14590,7 @@ var trusty = {
         65537
       ],
       "name": "CN=MasterCard Root Public CA,OU=Global Technology & Operations,O=MasterCard International,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13739,6 +14645,7 @@ var trusty = {
         65537
       ],
       "name": "CN=General Electric Company CA II,O=General Electric Company,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13748,6 +14655,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Cust_Acc_CA,O=Kas Bank NV,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13784,6 +14692,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Entrust Certification Authority - L1B,OU=(c) 2008 Entrust\\, Inc.,OU=www.entrust.net/CPS is incorporated by reference,OU=CPS CONTAINS IMPORTANT LIMITATIONS OF WARRANTIES AND LIABILITY,OU=AND ADDITIONAL TERMS GOVERNING USE AND RELIANCE,O=Entrust\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13802,6 +14711,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Saphety Server 01,O=Saphety,C=PT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13820,6 +14730,7 @@ var trusty = {
         65537
       ],
       "name": "CN=MINEFI-AC TELEPROCEDURES,OU=TELEPROCEDURES,O=MINEFI,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13838,10 +14749,12 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=pki@tfh-wildau.de,CN=TFH Wildau CA,OU=Hochschulrechenzentrum,O=Technische Fachhochschule Wildau,L=Wildau,ST=Brandenburg,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "emailAddress=ca@digsigtrust.com,CN=DST RootCA X2,OU=DSTCA X2,O=Digital Signature Trust Co.,L=Salt Lake City,ST=Utah,C=us",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13860,6 +14773,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Comtrust Server CA,OU=Comtrust eBusiness Services,O=Etisalat,C=AE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13869,6 +14783,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Intesa Sanpaolo S.p.A. CA Servizi Esterni,DC=sede,DC=corp,DC=sanpaoloimi,DC=com",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13878,6 +14793,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Intesa Sanpaolo S.p.A. - CA Root Interna,O=Intesa Sanpaolo S.p.A.,C=IT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13887,6 +14803,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SERASA Autoridade Certificadora Principal v2,OU=Autoridade Certificadora Raiz Brasileira v2,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13914,6 +14831,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SOGO KEIBI HOSHO ROOT CA,O=SOGO KEIBI HOSHO CO.LTD,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13932,6 +14850,7 @@ var trusty = {
         65537
       ],
       "name": "OU=B.A.T. Server Issuing Authority,OU=B.A.T. FPS,O=B.A.T.,C=GB",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13959,6 +14878,7 @@ var trusty = {
         65537
       ],
       "name": "CN=COMODO RSA Client Authentication and Secure Email CA,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13972,10 +14892,12 @@ var trusty = {
         65537
       ],
       "name": "CN=SwissSign SuisseID Platinum CA 2010 - G2,O=SwissSign AG,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=SwissSign Platinum CA - G2,O=SwissSign AG,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13985,6 +14907,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC SERASA RFB v2,OU=Secretaria da Receita Federal do Brasil - RFB,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -13994,6 +14917,7 @@ var trusty = {
         65537
       ],
       "name": "OU=AC APE,O=FNMT-RCM,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14003,6 +14927,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=pki@uni-halle.de,CN=Uni Halle Chipcard CA,O=Martin-Luther-Universitaet Halle-Wittenberg,L=Halle (Saale),ST=Sachsen-Anhalt,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14012,6 +14937,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Symantec Class 1 Individual Subscriber CA - G5,OU=Persona Not Validated,OU=Symantec Trust Network,O=Symantec Corporation,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14025,6 +14951,7 @@ var trusty = {
         65537
       ],
       "name": "CN=MasterCard Root Public CA,OU=Global Technology and Operations,O=MasterCard Worldwide,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14058,6 +14985,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Network Solutions OV Server CA,O=Network Solutions L.L.C.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14076,6 +15004,7 @@ var trusty = {
         65537
       ],
       "name": "CN=MasterCard Public Root CA Gen 3,OU=Key Management Services,O=MasterCard Worldwide,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14103,6 +15032,7 @@ var trusty = {
         65537
       ],
       "name": "CN=OVH Secure Certification Authority,O=OVH SAS,OU=High Assurance,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14130,6 +15060,7 @@ var trusty = {
         65537
       ],
       "name": "CN=MSIT Enterprise CA 2",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14157,6 +15088,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Sacred Heart University CA,DC=sacredheart,DC=edu",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14175,6 +15107,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Comodo Japan CA,O=Comodo Japan Inc.,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14202,6 +15135,7 @@ var trusty = {
         65537
       ],
       "name": "CN=ESG CA - G2,O=ESG de electronische signatuur BV,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14242,6 +15176,7 @@ var trusty = {
     },
     {
       "name": "CN=CA Disig,O=Disig a.s.,L=Bratislava,C=SK",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14269,6 +15204,7 @@ var trusty = {
         41717
       ],
       "name": "CN=Autoridade Certificadora do SERPRORFB,OU=Secretaria da Receita Federal do Brasil - RFB,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14278,6 +15214,7 @@ var trusty = {
         65537
       ],
       "name": "CN=The Walt Disney Company Commerce CA,OU=PKI,DC=disney,DC=com",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14287,6 +15224,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD CA-30,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14296,10 +15234,12 @@ var trusty = {
         65537
       ],
       "name": "CN=D-TRUST Advanced Class 2 CA 2007,O=D-Trust GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=D-TRUST Root Class 2 CA 2007,O=D-Trust GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14309,10 +15249,12 @@ var trusty = {
         65537
       ],
       "name": "CN=lisign-qualified-01,OU=lisign-qualified-01,O=FLZ-Anstalt,C=LI",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=A-Trust-Qual-03,OU=A-Trust-Qual-03,O=A-Trust Ges. f. Sicherheitssysteme im elektr. Datenverkehr GmbH,C=AT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14322,6 +15264,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=ca.asse@asse-gmbh.de,CN=Asse-GmbH CA - G01,O=Asse-GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14331,6 +15274,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Siemens Issuing CA Class Internet Server V1.0,OU=Copyright (C) Siemens AG 2009 All Rights Reserved,serialNumber=ZZZZZZVI,O=Siemens,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14340,6 +15284,7 @@ var trusty = {
         65537
       ],
       "name": "CN=InfoCert Certification Authority,OU=Internet Services,O=InfoCert SpA,C=IT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14349,6 +15294,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SignTrust Domain Verification CA,O=SignTrust,OU=SignTrust Domain Verification CA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14367,6 +15313,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Swisscom Test-D CA 1,OU=Digital Certificate Services,O=Swisscom,C=ch,emailAddress=noc@swissdigicert.ch",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14403,6 +15350,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TC TrustCenter Class 4 Extended Validation CA III,OU=TC TrustCenter Class 4 L1 CA,O=TC TrustCenter GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14448,6 +15396,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Chenega Root CA,O=Chenega Corporation,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14466,6 +15415,7 @@ var trusty = {
         65537
       ],
       "name": "OU=US Treasury Public CA,OU=Certification Authorities,OU=Department of the Treasury,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14493,6 +15443,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Formidable CA Services Organization Validation,O=Formidable CA Services Ltd.,C=GB",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14502,6 +15453,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DigiNotar Root CA,O=DigiNotar,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14511,6 +15463,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=c3ca@trustcentre.co.za,CN=SAPO Class 3 CA,C=ZA,ST=Western Cape,L=Somerset West,OU=SAPO Trust Centre,O=South African Post Office Limited",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14520,6 +15473,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Shared Business CA,OU=Trust Center Deutsche Telekom,O=T-Systems Enterprise Services GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14556,6 +15510,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Chained SSL CA,O=FreeSSL,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14574,10 +15529,12 @@ var trusty = {
         65537
       ],
       "name": "CN=CA Disig R1I1 Certification Service,O=Disig a.s.,L=Bratislava,C=SK",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=CA Disig Root R1,O=Disig a.s.,L=Bratislava,C=SK",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14596,6 +15553,7 @@ var trusty = {
         65537
       ],
       "name": "CN=State Printing Company Ltd.,DC=any,DC=hu",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14632,6 +15590,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=pki@atriumberlin.de,CN=T-Systems SI CA,OU=Systems Integration Region 1 Standort Berlin,O=T-Systems Enterprise Services GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14650,6 +15609,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Inpriva-ClickID CA,O=Inpriva Inc,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14668,6 +15628,7 @@ var trusty = {
         65537
       ],
       "name": "CN=D-TRUST Advanced Class 2 CA 1 2012,O=D-Trust GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14677,6 +15638,7 @@ var trusty = {
         65537
       ],
       "name": "CN=PolCert Class 1 CA,OU=PolCert Class 1 CA,O=E-Telbank Sp. z o.o.,C=PL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14686,6 +15648,7 @@ var trusty = {
         65537
       ],
       "name": "CN=PolCert Primary Class 1 CA,OU=PolCert Primary Class 1 CA,O=E-Telbank Sp. z o.o.,C=PL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14695,6 +15658,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Trend Micro Gold CA,O=Trend Micro Inc,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14722,6 +15686,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Certisign Multipla G3,OU=Certisign Certificadora Digital S.A.,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14749,6 +15714,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Mobile Armor Enterprise CA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14758,6 +15724,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD EMAIL CA-21,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14767,6 +15734,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Cybertrust Educational CA,OU=Educational CA,O=Cybertrust,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14776,6 +15744,7 @@ var trusty = {
         65537
       ],
       "name": "CN=The Walt Disney Company Enterprise CA,OU=PKI,DC=disney,DC=com",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14839,6 +15808,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Wells Fargo Certificate Authority 01,OU=Wells Fargo Certification Authority,O=Wells Fargo,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14857,6 +15827,7 @@ var trusty = {
         65537
       ],
       "name": "L=BeiJing,CN=BJCA,ST=Beijing,O=BJCA,C=CN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14866,6 +15837,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Certum Level II,O=Unizeto Sp. z o.o.,C=PL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14884,10 +15856,12 @@ var trusty = {
         65537
       ],
       "name": "CN=Vodafone (Corporate Domain 2009),O=Vodafone Group,C=UK",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=OpenTrust Root CA G3,O=OpenTrust,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14915,6 +15889,7 @@ var trusty = {
         65537
       ],
       "name": "CN=I.T. Telecom Global CA,OU=Servizi di certificazione,O=I.T. Telecom,C=IT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14933,6 +15908,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD EMAIL CA-13,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14943,6 +15919,7 @@ var trusty = {
     },
     {
       "name": "CN=GlobalSign,O=GlobalSign,OU=GlobalSign ECC Root CA - R4",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14961,6 +15938,7 @@ var trusty = {
         65537
       ],
       "name": "CN=MasterCard  SSL Sub CA,OU=Global Technology and Operations,O=MasterCard Worldwide,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -14970,6 +15948,7 @@ var trusty = {
         65537
       ],
       "name": "C=ES,O=Generalitat Valenciana,OU=PKIGVA,CN=ACCV-CA1",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15006,6 +15985,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SECOM Passport for Member PUB CA1,OU=SECOM Passport for Member 2.0 PUB,O=SECOM Trust Systems CO.\\,LTD.,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15024,6 +16004,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Eurida Primary CA,O=NETS NORWAY AS - 990224978,C=NO",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15033,6 +16014,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Imprensa Oficial SP RFB G2,OU=Secretaria da Receita Federal do Brasil - RFB,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15042,6 +16024,7 @@ var trusty = {
         65537
       ],
       "name": "CN=ATHEX General Certificates CA - DC,O=Athens Exchange S.A.,C=GR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15051,6 +16034,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Trustwave Enterprise VPN CA,O=Trustwave Holdings\\, Inc.,L=Chicago,ST=Illinois,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15060,6 +16044,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Trustwave Enterprise CA,O=Trustwave Holdings\\, Inc.,L=Chicago,ST=Illinois,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15073,6 +16058,7 @@ var trusty = {
     },
     {
       "name": "CN=IGC/A AC racine Etat francais,OU=0002 130007669,O=ANSSI,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15082,10 +16068,12 @@ var trusty = {
         65537
       ],
       "name": "CN=D-TRUST Service Class 3 CA 1 2008,O=D-Trust GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=D-TRUST Root Class 3 CA 2007,O=D-Trust GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15128,6 +16116,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GEMINI-CA,O=AURA - Gemini Observatory,OU=Information Systems Group,C=US,DC=gemini,DC=edu",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15164,6 +16153,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Swisscom SuisseID Diamant CA 1,OU=Digital Certificate Services,O=Swisscom,C=ch",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15182,6 +16172,7 @@ var trusty = {
         65537
       ],
       "name": "CN=eLeader Global Class3 CA,OU=CA Center,O=TaiOne International Ltd.,C=TW,emailAddress=camaster@egca.com.tw",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15218,6 +16209,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TaiCA Secure CA -Evaluation Only,OU=SSL Certification Service Provider-Evaluation Only,O=TAIWAN-CA.COM Inc.,C=TW",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15227,6 +16219,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD EMAIL CA-20,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15254,6 +16247,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Southern Company External Issuing CA 1,OU=Southern Company Services\\, Inc.,O=Southern Company Services\\, Inc.,L=Atlanta,ST=GA,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15263,6 +16257,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Southern Company External Policy CA,O=Southern Company Services\\, Inc.,OU=Southern Company Services\\, Inc.,L=Atlanta,ST=GA,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15272,6 +16267,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GlobalSign Primary Class 3 CA,OU=Primary Class 3 CA,O=GlobalSign nv-sa,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15290,6 +16286,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Certinomis Serveurs Et Equipements - TEST,OU=Emis dans le cadre de tests,OU=0002 433998903,O=Certinomis,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15299,6 +16296,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Certisign-JUS G2,OU=Autoridade Certificadora da Justica - AC-JUS,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15317,6 +16315,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=admin-pki@fii.org,CN=PSC Publico del MCT para el Estado Venezolano,L=Baruta,ST=Miranda,OU=Fundacion Instituto de Ingenieria,O=Sistema Nacional de Certificacion Electronica,C=VE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15335,6 +16334,7 @@ var trusty = {
         65537
       ],
       "name": "CN=UZI-register Medewerker op naam CA,O=agentschap Centraal Informatiepunt Beroepen Gezondheidszorg,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15344,6 +16344,7 @@ var trusty = {
         65537
       ],
       "name": "CN=UZI-register CSP CA,O=agentschap Centraal Informatiepunt Beroepen Gezondheidszorg,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15362,6 +16363,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Symantec Trust Services Private SHA1 Root CA,O=Symantec Corporation,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15389,6 +16391,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TBS X509 CA persona,OU=TBS INTERNET CA,OU=Terms and Conditions: http://www.tbs-internet.com/CA/repository,O=TBS INTERNET,L=Caen,ST=Calvados,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15398,10 +16401,12 @@ var trusty = {
         65537
       ],
       "name": "C=ES,O=EDICOM,OU=PKI,CN=ACEDICOM Servidores",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "C=ES,O=EDICOM,OU=PKI,CN=ACEDICOM Root",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15420,6 +16425,7 @@ var trusty = {
         51159
       ],
       "name": "CN=Autoridade Certificadora da Presidencia da Republica v1,OU=Instituto Nacional de Tecnologia da Informacao - ITI,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15429,6 +16435,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=admin@startcom.org,CN=StartCom Class 3 Primary Intermediate Free CA,OU=Secure Certificate Signing,O=StartCom Ltd.,ST=Israel,C=IL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15456,6 +16463,7 @@ var trusty = {
         65537
       ],
       "name": "C=FR,CN=AC CERTINOMIS SSL,O=CERTINOMIS",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15474,6 +16482,7 @@ var trusty = {
         65537
       ],
       "name": "CN=NalcoExternalIssuingCA-1,DC=Nalco,DC=One,DC=Net",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15519,6 +16528,7 @@ var trusty = {
         65537
       ],
       "name": "CN=CDC Secure Data Network CA,OU=Class 2 OnSite Individual Subscriber CA,OU=Terms of use at https://www.verisign.com/rpa (c)00,OU=VeriSign Trust Network,O=CDC",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15555,6 +16565,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DPAG Intermediate CA M2 PS,OU=M2 PS,O=Deutsche Post AG,O=Deutsche Post World Net",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15564,6 +16575,7 @@ var trusty = {
         3
       ],
       "name": "CN=DPWN Root CA R2 PS,OU=IT Services,O=Deutsche Post World Net,DC=com",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15573,6 +16585,7 @@ var trusty = {
         65537
       ],
       "name": "CN=EADS pscCA1,O=European Aeronautic Defence and Space Company,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15591,6 +16604,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VeriSign Class 1 Individual Subscriber CA - G3,OU=Persona Not Validated,OU=Terms of use at https://www.verisign.com/rpa (c)09,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15600,6 +16614,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Audkenni Secure Server CA,OU=Secure Server CA,O=Audkenni hf.,C=IS",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15618,6 +16633,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Syncrude Corporate Issuing CA 5,O=Syncrude Canada Ltd,C=CA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15627,6 +16643,7 @@ var trusty = {
         65537
       ],
       "name": "CN=PinkRoccade CSP - Overheid - Services CA,O=PinkRoccade Infrastructure Services BV,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15645,10 +16662,12 @@ var trusty = {
         65537
       ],
       "name": "CN=SecureSign Public CA11,O=Japan Certification Services\\, Inc.,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=SecureSign RootCA11,O=Japan Certification Services\\, Inc.,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15667,6 +16686,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=pki_admin@corp.earthlink.net,CN=Earthlink Application CA,O=Earthlink Inc",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15676,6 +16696,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Cybertrust SureServer CA,O=GlobalSign Inc",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15685,6 +16706,7 @@ var trusty = {
         65537
       ],
       "name": "CN=MasterCard SSL Sub CA,OU=Global Technology and Operations,O=MasterCard International,L=Saint Louis,ST=Missouri,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15694,6 +16716,7 @@ var trusty = {
         65537
       ],
       "name": "serialNumber=2006,CN=Government CA,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15703,6 +16726,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Northrop Grumman Corporation Issuing CA,OU=Northrop Grumman Information Technology,O=Northrop Grumman Corporation,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15712,6 +16736,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Northrop Grumman Corporation Root CA,O=Northrop Grumman Corporation,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15721,6 +16746,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC PRODEMGE RFB G3,OU=Secretaria da Receita Federal do Brasil - RFB,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15730,6 +16756,7 @@ var trusty = {
         65537
       ],
       "name": "CN=QuoVadis EU Qualified Issuing Certification Authority,OU=Issuing Certification Authority,O=QuoVadis Limited\\, Bermuda,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15757,6 +16784,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Agriculture AC Fonctions,OU=0002 110070018,O=service-public gouv agriculture,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15775,6 +16803,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Getronics PinkRoccade PKIoverheid CA - Overheid en Bedrijven,O=Getronics PinkRoccade Nederland B.V.,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15793,6 +16822,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC DNIE 003,OU=DNIE,O=DIRECCION GENERAL DE LA POLICIA,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15802,6 +16832,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=ca@webtizen.co.kr,CN=Webtizen Certification Authority,OU=webtizen.co.kr,O=Webtizen Inc.,L=Gangnam-gu,ST=SEOUL,C=KR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15824,6 +16855,7 @@ var trusty = {
     },
     {
       "name": "CN=thawte Primary Root CA - G3,OU=(c) 2008 thawte\\, Inc. - For authorized use only,OU=Certification Services Division,O=thawte\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15833,6 +16865,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=admin@startcom.org,CN=StartCom Class 3 Primary Email Free CA,OU=Secure Certificate Signing,O=StartCom Ltd.,ST=Israel,C=IL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15869,6 +16902,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VeriSign Class 3 Organizational CA,OU=Terms of use at https://www.verisign.com/rpa (c)04,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15878,6 +16912,7 @@ var trusty = {
         65537
       ],
       "name": "CN=certSIGN Qualified CA Class 3 G2,OU=certSIGN Qualified CA Class 3 G2,O=certSIGN,C=RO",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15905,6 +16940,7 @@ var trusty = {
         65537
       ],
       "name": "C=DE,O=Atos,CN=Atos TrustedRoot Server-CA 2011",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15914,6 +16950,7 @@ var trusty = {
         65537
       ],
       "name": "CN=EINS/PKI Public Certification Authority,O=INTEC INC.,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15923,10 +16960,12 @@ var trusty = {
         65537
       ],
       "name": "CN=ANCERT Certificados Notariales de Sistemas,O=Agencia Notarial de Certificacion S.L. Unipersonal - CIF B83395988,L=Paseo del General Martinez Campos 46-6a planta,ST=Madrid,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=ANCERT Certificados Notariales,O=Agencia Notarial de Certificacion S.L. Unipersonal - CIF B83395988,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15954,6 +16993,7 @@ var trusty = {
         65537
       ],
       "name": "CN=HHS-SSP-CA-B7,OU=HHS,O=U.S. Government,C=US,DC=hhs,DC=gov",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15963,10 +17003,12 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=info@a-cert.at,CN=A-CERT GLOBALTRUST,O=ARGE DATEN - Austrian Society for Data Protection and Privacy,L=Vienna,ST=-,C=AT",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "emailAddress=info@a-cert.at,CN=A-CERT ADVANCED,OU=A-CERT Certification Service,O=ARGE DATEN - Austrian Society for Data Protection,L=Vienna,ST=Austria,C=AT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15976,6 +17018,7 @@ var trusty = {
         65537
       ],
       "name": "CN=ICC-CPI Advanced G3 CA1,O=ICC-CPI,DC=ICC,DC=INT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15985,6 +17028,7 @@ var trusty = {
         65537
       ],
       "name": "OU=政府測試憑證管理中心,O=行政院,C=TW",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -15994,10 +17038,12 @@ var trusty = {
         65537
       ],
       "name": "CN=State Printing Company CA1,DC=any,DC=hu",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=GlobalSign,OU=GlobalSign Root CAT - R3,O=GlobalSign",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16007,6 +17053,7 @@ var trusty = {
         65537
       ],
       "name": "CN=StartCom Class 1 Intermediate CA - Mobile Experts sp. z o.o.,O=Mobile Experts sp. z o.o.,ST=Malopolskie,C=PL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16016,6 +17063,7 @@ var trusty = {
         65537
       ],
       "name": "CN=NII Open Domain Code Signing CA,O=National Institute of Informatics,L=Academe,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16025,6 +17073,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Cybertrust Japan Public CA,O=Betrusted Japan Co.\\, Ltd.,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16061,6 +17110,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=ca@uni-karlsruhe.de,CN=UNIKA-CA,O=Universitaet Karlsruhe,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16070,10 +17120,12 @@ var trusty = {
         65537
       ],
       "name": "O=TÜRKTRUST Bilgi İletişim ve Bilişim Güvenliği Hizmetleri A.Ş. (c) Kasım  2005,C=TR,CN=TÜRKTRUST Elektronik Sunucu Sertifikası Hizmetleri",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "O=TÜRKTRUST Bilgi İletişim ve Bilişim Güvenliği Hizmetleri A.Ş. (c) Kasım 2005,L=Ankara,C=TR,CN=TÜRKTRUST Elektronik Sertifika Hizmet Sağlayıcısı",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16083,6 +17135,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=info@diginotar.nl,CN=DigiNotar Extended Validation CA,O=DigiNotar,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16110,6 +17163,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Autoridade Certificadora da Casa da Moeda do Brasil v2,OU=Autoridade Certificadora Raiz Brasileira v2,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16119,6 +17173,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Deutsche Telekom CA 3,OU=TeleSec Trust Center,O=Deutsche Telekom AG,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16155,6 +17210,7 @@ var trusty = {
         65537
       ],
       "name": "CN=PSC Procert,C=VE,O=Sistema Nacional de Certificacion Electronica,OU=Proveedor de Certificados PROCERT,ST=Miranda,L=Chacao,emailAddress=contacto@procert.net.ve",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16182,6 +17238,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SwissSign Personal Gold CA 2008 - G2,O=SwissSign AG,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16200,6 +17257,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC CAIXA PJ,OU=Caixa Economica Federal,O=ICP-Brasil,C=br",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16209,6 +17267,7 @@ var trusty = {
         65537
       ],
       "name": "CN=*.EGO.GOV.TR,OU=EGO BILGI ISLEM,O=EGO,L=ANKARA,ST=ANKARA,C=TR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16245,6 +17304,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Entrust Certification Authority - L1A,OU=(c) 2006 Entrust\\, Inc.,OU=www.entrust.net/CPS is incorporated by reference,OU=CPS CONTAINS IMPORTANT LIMITATIONS OF WARRANTIES AND LIABILITY,OU=AND ADDITIONAL TERMS GOVERNING USE AND RELIANCE,O=Entrust\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16263,6 +17323,7 @@ var trusty = {
         65537
       ],
       "name": "CN=State Printing Company CA2,DC=any,DC=hu",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16272,6 +17333,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=ca@trustwave.com,CN=Trustwave Code Signing CA\\, Level 2,O=Trustwave Holdings\\, Inc.,L=Chicago,ST=Illinois,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16281,6 +17343,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Equifax Secure E-Business CA,O=Equifax Secure Inc,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16308,6 +17371,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD CA-24,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16326,6 +17390,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=ca@pki.uni-dortmund.de,CN=Uni Dortmund CA - G01,OU=Hochschulrechenzentrum,O=Universitaet Dortmund,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16344,6 +17409,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD EMAIL CA-18,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16380,6 +17446,7 @@ var trusty = {
         65537
       ],
       "name": "CN=COMODO Client Authentication and Secure Email CA,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16407,6 +17474,7 @@ var trusty = {
         65537
       ],
       "name": "CN=CA CICCP Clase 3,OU=CICCP C.I.F. Q-2867009-I,O=CICCP - Colegio de Ingenieros de Caminos Canales y Puertos,L=Madrid,ST=Madrid,C=ES,emailAddress=pki@ciccp.es",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16416,6 +17484,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Firstserver Corporate Server CA V2,OU=Cert Services,O=Firstserver\\, Inc.,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16434,10 +17503,12 @@ var trusty = {
         65537
       ],
       "name": "CN=beTRUSTed CA - Entrust Implementation,OU=beTRUSTed CAs,O=beTRUSTed",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=beTRUSTed Root CA - Entrust Implementation,OU=beTRUSTed Root CAs,O=beTRUSTed",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16456,6 +17527,7 @@ var trusty = {
         65537
       ],
       "name": "CN=UZI-register Server CA G2,O=agentschap Centraal Informatiepunt Beroepen Gezondheidszorg,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16465,6 +17537,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TC TrustCenter Class 2 L1 CA III,OU=TC TrustCenter Class 2 L1 CA,O=TC TrustCenter GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16474,6 +17547,7 @@ var trusty = {
         65537
       ],
       "name": "C=FR,O=Gendarmerie nationale,OU=0002 157000019,CN=AC Racine Gendarmerie nationale",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16483,6 +17557,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Chamber SimplySign Issuing Authority,OU=Trustis FPS,O=Trustis Limited,C=GB",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16505,6 +17580,7 @@ var trusty = {
     },
     {
       "name": "CN=ANF Server CA,serialNumber=G63287510,OU=ANF Clase 1 CA,O=ANF Autoridad de Certificación,L=Barcelona (see current address at https://www.anf.es/address/),ST=Barcelona,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16514,6 +17590,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Aetna Inc. Secure Server CA,O=Aetna Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16532,6 +17609,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Notarial RFB G3,OU=Secretaria da Receita Federal do Brasil - RFB,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16541,10 +17619,12 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Instituto Fenacon RFB G2,OU=Secretaria da Receita Federal do Brasil - RFB,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=Entrust Root Certification Authority - EC1,OU=(c) 2012 Entrust\\, Inc. - for authorized use only,OU=See www.entrust.net/legal-terms,O=Entrust\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16560,6 +17640,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DKHS Device CA,OU=GeoRoot Certification Authority,O=NTT DOCOMO\\, INC.,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16569,6 +17650,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Gracenote Root CA,O=Gracenote Inc",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16578,6 +17660,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GlobalSign PersonalSign 1 CA - G2,O=GlobalSign nv-sa,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16596,6 +17679,7 @@ var trusty = {
         65537
       ],
       "name": "OU=i-Notary TrustPath CodeSign CA+CN=i-Notary TrustPath CodeSign CA+DC=codesign-ca+O=InfoNotary PLC+C=BG",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16605,6 +17689,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Notarial RFB G2,OU=Secretaria da Receita Federal do Brasil - RFB,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16614,6 +17699,7 @@ var trusty = {
         65537
       ],
       "name": "CN=ABB Issuing CA 1,O=ABB Ltd.,DC=ABB,DC=COM",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16641,6 +17727,7 @@ var trusty = {
         65537
       ],
       "name": "CN=LSU Health System CA2,O=LSU Health System,OU=IT Security and Policy Group,L=Shreveport,ST=Louisiana,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16659,10 +17746,12 @@ var trusty = {
         65537
       ],
       "name": "CN=Hongkong Post e-Cert CA,O=Hongkong Post,C=HK",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=Hongkong Post Root CA,O=Hongkong Post,C=HK",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16690,6 +17779,7 @@ var trusty = {
         55465
       ],
       "name": "CN=NetLock Üzleti Eat. (Class B Legal) Tanúsítványkiadó,OU=Tanúsítványkiadók (Certification Services),O=NetLock Kft.,L=Budapest,C=HU",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16726,6 +17816,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Intel External Basic Issuing CA 3A,O=Intel Corporation,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16744,6 +17835,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Cybertrust Japan Public CA G1,O=Cybertrust Japan Co.\\, Ltd.,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16753,6 +17845,7 @@ var trusty = {
         65537
       ],
       "name": "serialNumber=2007,CN=Government CA,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16771,6 +17864,7 @@ var trusty = {
         65537
       ],
       "name": "CN=a-sign-Token-Enc-02,OU=a-sign-Token-Enc-02,O=A-Trust Ges. f. Sicherheitssysteme im elektr. Datenverkehr GmbH,C=AT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16780,6 +17874,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC CAIXA PF v2,OU=Caixa Economica Federal,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16798,6 +17893,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD CA-31,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16843,6 +17939,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC CAIXA PJ-1 v1,OU=Caixa Economica Federal,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16856,6 +17953,7 @@ var trusty = {
     },
     {
       "name": "CN=UCA Global Root,O=UniTrust,C=CN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16874,6 +17972,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AlphaSSL CA - SHA256 - G2,O=AlphaSSL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16887,6 +17986,7 @@ var trusty = {
     },
     {
       "name": "CN=QuoVadis Root CA 1 G3,O=QuoVadis Limited,C=BM",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16905,6 +18005,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC CAIXA PF v1,OU=Caixa Economica Federal,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16923,10 +18024,12 @@ var trusty = {
         65537
       ],
       "name": "O=TÜRKTRUST Bilgi İletişim ve Bilişim Güvenliği Hizmetleri A.Ş. (c) Haziran 2006,C=TR,CN=TÜRKTRUST Elektronik Sunucu Sertifikası Hizmetleri",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "O=(c) 2005 TÜRKTRUST Bilgi İletişim ve Bilişim Güvenliği Hizmetleri A.Ş.,L=ANKARA,C=TR,CN=TÜRKTRUST Elektronik Sertifika Hizmet Sağlayıcısı",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16945,6 +18048,7 @@ var trusty = {
         65537
       ],
       "name": "CN=certSIGN CA Class 2,OU=certSIGN CA Class 2,O=certSIGN,C=RO",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16954,6 +18058,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD CA-12,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16981,6 +18086,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC OAB G2,OU=ORDEM DOS ADVOGADOS DO BRASIL CONSELHO FEDERAL,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16990,6 +18096,7 @@ var trusty = {
         65537
       ],
       "name": "CN=RACER - 2009,L=Madrid (see current address at https://www.camerfirma.com/address),serialNumber=A82743287,O=AC Camerfirma S.A.,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -16999,6 +18106,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Camerfirma - 2009,L=Madrid (see current address at https://www.camerfirma.com/address),serialNumber=A82743287,O=AC Camerfirma S.A.,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17008,6 +18116,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Certipost E-Trust Secondary Normalised CA for Web Servers and Object Signing,O=Certipost s.a./n.v.,C=BE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17017,6 +18126,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Micros CA,O=Micros Systems\\, Inc.,L=Columbia,ST=Maryland,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17044,6 +18154,7 @@ var trusty = {
         65537
       ],
       "name": "CN=ECAR Parlamento,OU=SubECEstado,O=SCEE,C=PT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17053,6 +18164,7 @@ var trusty = {
         65537
       ],
       "name": "CN=ECAR,OU=ECEstado,O=SCEE,C=PT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17062,6 +18174,7 @@ var trusty = {
         65537
       ],
       "name": "OU=GPO SCA,OU=Certification Authorities,OU=Government Printing Office,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17071,6 +18184,7 @@ var trusty = {
         65537
       ],
       "name": "serialNumber=20,CN=Certigna Interne,OU=0002 481463081,O=Dhimyotis,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17080,6 +18194,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TERENA eScience Personal CA,O=TERENA,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17089,6 +18204,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Getronics Class 2 Managed PKI Individual Subscriber CA,OU=VeriSign Trust Network,O=Getronics Nederland B.V.,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17098,6 +18214,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=info@diginotar.nl,CN=DigiNotar Services CA,O=DigiNotar,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17107,6 +18224,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=admin@startcom.org,CN=StartCom Class 1 Primary Intermediate Free CA,OU=Secure Certificate Signing,O=StartCom Ltd.,ST=Israel,C=IL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17116,6 +18234,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD EMAIL CA-14,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17125,6 +18244,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD CA-25,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17134,6 +18254,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TC TrustCenter SSL CA I,OU=TC TrustCenter SSL CA,O=TC TrustCenter GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17170,6 +18291,7 @@ var trusty = {
         65537
       ],
       "name": "OU=NII Open Domain CA,OU=UPKI,O=National Institute of Informatics,L=Academe,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17188,6 +18310,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD EMAIL CA-28,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17197,10 +18320,12 @@ var trusty = {
         65537
       ],
       "name": "C=FR,O=SG TRUST SERVICES,OU=0002 435252895,CN=SG TS SERVEUR",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "C=FR,O=SG TRUST SERVICES,OU=0002 43525289500022,CN=SG TRUST SERVICES RACINE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17210,6 +18335,7 @@ var trusty = {
         65537
       ],
       "name": "OU=Entrust Managed Services SSP CA,OU=Certification Authorities,O=Entrust,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17219,6 +18345,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC PRODEMGE,OU=Companhia de Tecnologia da Informacao do Estado de MG - PRODEMGE,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17228,6 +18355,7 @@ var trusty = {
         65537
       ],
       "name": "CN=StartCom Class 2 Intermediate CA - JanRain Inc.,O=JanRain Inc.,ST=Oregon,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17237,6 +18365,7 @@ var trusty = {
         65025
       ],
       "name": "CN=Autoridade Certificadora da Casa da Moeda do Brasil,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17246,6 +18375,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD EMAIL CA-26,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17259,6 +18389,7 @@ var trusty = {
     },
     {
       "name": "CN=MULTICERT Root Certification Authority 01,O=MULTICERT - Serviços de Certificação Electrónica S.A.,C=PT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17268,6 +18399,7 @@ var trusty = {
         65537
       ],
       "name": "CN=D-TRUST Class 2 CA 1 2011,O=D-Trust GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17286,6 +18418,7 @@ var trusty = {
         65537
       ],
       "name": "CN=ORC ECA SW 3,OU=Certification Authorities,OU=ECA,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17304,6 +18437,7 @@ var trusty = {
         65537
       ],
       "name": "CN=PolCert Secure Server CA,OU=PolCert Secure Server CA,O=E-Telbank Sp. z o.o.,C=PL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17331,6 +18465,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GeoTrust True Credentials CA 2,O=GeoTrust Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17340,6 +18475,7 @@ var trusty = {
         65537
       ],
       "name": "CN=WoTrust Premium Server Authority,O=Wotone Communications\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17349,6 +18485,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Louisiana State University Issuing CA 1,DC=lsu,DC=edu",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17358,6 +18495,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Jo Tankers Test CA,DC=tojankers,DC=com",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17403,10 +18541,12 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=acsiger@economia.gob.mx,O=Secretaria de Economia,OU=Direccion General de Normatividad Mercanti,CN=Autoridad Certificadora del Sistema Integral de Gestion Registral,street=Insurgentes Sur 1940,postalCode=01030,C=MX,ST=Distrito Federal,L=Alvaro Obregon",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "emailAddress=acrse@economia.gob.mx,O=Secretaria de Economia,OU=Direccion General de Normatividad Mercantil,CN=Autoridad Certificadora Raiz de la Secretaria de Economia,street=Insurgentes Sur 1940,postalCode=01030,C=MX,ST=Distrito Federal,L=Alvaro Obregon",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17416,6 +18556,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Fraunhofer User CA - G01,OU=Fraunhofer Corporate PKI,O=Fraunhofer,L=Muenchen,ST=Bayern,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17434,6 +18575,7 @@ var trusty = {
         65537
       ],
       "name": "CN=E-Control Certification Services,O=Energie-Control GmbH,C=AT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17452,6 +18594,7 @@ var trusty = {
         65537
       ],
       "name": "CN=*.kakao.com,OU=Development Team,O=KAKAO,L=Seongnam-si,ST=Gyeonggi-do,C=KR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17488,10 +18631,12 @@ var trusty = {
         65537
       ],
       "name": "CN=ANCERT Certificados para Corporaciones de Derecho Publico,O=Agencia Notarial de Certificacion S.L. Unipersonal - CIF B83395988,L=Paseo del General Martinez Campos 46-6a planta,ST=Madrid,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=ANCERT Corporaciones de Derecho Publico,O=Agencia Notarial de Certificacion S.L. Unipersonal - CIF B83395988,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17501,6 +18646,7 @@ var trusty = {
         65537
       ],
       "name": "CN=YandexExternalCA,DC=ld,DC=yandex,DC=ru",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17510,6 +18656,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Cisco SSCA2,O=Cisco Systems",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17528,10 +18675,12 @@ var trusty = {
         65537
       ],
       "name": "CN=VeriSign Class 1 CA Individual Subscriber-Persona Not Validated,OU=www.verisign.com/repository/RPA Incorp. By Ref.\\,LIAB.LTD(c)98,OU=VeriSign Trust Network,O=VeriSign\\, Inc.",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=AddTrust External CA Root,OU=AddTrusu External TTP Network,O=AddTrust AB,C=SE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17568,6 +18717,7 @@ var trusty = {
         65537
       ],
       "name": "CN=QuoVadis Internal CA G1,O=QuoVadis Limited,C=BM",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17595,6 +18745,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DigiCert Global CA (2048),OU=www.digicert.com,O=DigiCert Inc,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17613,6 +18764,7 @@ var trusty = {
         65537
       ],
       "name": "CN=CrossCert Server Authority CA,OU=AccreditedCA,O=CrossCert,C=KR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17658,10 +18810,12 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD EMAIL CA-12,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=DigiCert X Root,OU=Test,O=DigiCert\\, Inc",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17689,6 +18843,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Certinomis - Autorité de Test,OU=0002 433998903,O=Certinomis,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17698,6 +18853,7 @@ var trusty = {
         65537
       ],
       "name": "CN=subito. Dokumente aus Bibliotheken e.V. CA - G01,OU=Business Office,O=subito. Dokumente aus Bibliotheken e.V.,L=Berlin,ST=Berlin,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17711,6 +18867,7 @@ var trusty = {
     },
     {
       "name": "CN=AffirmTrust Premium,O=AffirmTrust,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17738,6 +18895,7 @@ var trusty = {
         65537
       ],
       "name": "CN=KIBS Verba Server CA,OU=Verba CA,O=KIBS AD Skopje,C=MK",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17801,6 +18959,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TC TrustCenter Class 2 L1 CA XI,OU=TC TrustCenter Class 2 L1 CA,O=TC TrustCenter GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17819,6 +18978,7 @@ var trusty = {
         65537
       ],
       "name": "CN=CA ROOT TRUSTSIGN,O=TRUSTSIGN IN CERTIFICADORA LTDA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17837,6 +18997,7 @@ var trusty = {
         65537
       ],
       "name": "serialNumber=4,CN=Certigna ID,OU=0002 481463081,O=Dhimyotis,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17855,6 +19016,7 @@ var trusty = {
         65537
       ],
       "name": "CN=kosaido,O=kosaido,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17873,6 +19035,7 @@ var trusty = {
         65537
       ],
       "name": "CN=WoTrust Server Authority,O=Wotone Communications\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17882,6 +19045,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DigiNotar PKIoverheid CA Overheid en Bedrijven,O=DigiNotar B.V.,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17918,6 +19082,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DigiCert Accredited Direct Med CA,OU=www.digicert.com,O=DigiCert Inc,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17931,6 +19096,7 @@ var trusty = {
     },
     {
       "name": "CN=D-TRUST Root Class 3 CA 2 EV 2009,O=D-Trust GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17949,6 +19115,7 @@ var trusty = {
         65537
       ],
       "name": "CN=United SSL CA,ST=Berlin,L=Berlin,OU=United SSL CA Operations,O=United SSL Deutschland GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17958,6 +19125,7 @@ var trusty = {
         65537
       ],
       "name": "CN=E-ME SI (CA1),DC=SPS,DC=EME,DC=INTERNAL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17985,6 +19153,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Ministerie van Defensie Certificatie Autoriteit - G2,O=Ministerie van Defensie,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -17994,6 +19163,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Microsoft Secure Server Authority",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18004,6 +19174,7 @@ var trusty = {
     },
     {
       "name": "CN=DigiCert Global Root G3,OU=www.digicert.com,O=DigiCert Inc,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18022,6 +19193,7 @@ var trusty = {
         65537
       ],
       "name": "CN=eLeader Global Class3 CA v3,OU=CA Center,O=TaiOne International Ltd.,C=TW,emailAddress=camaster@egca.com.tw",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18031,6 +19203,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VeriSign Class 3 Secure Server CA - T1,OU=Terms of use at https://www.verisign.com/rpa (c)10,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18058,6 +19231,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD CA-17,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18067,6 +19241,7 @@ var trusty = {
         65537
       ],
       "name": "CN=McAfee Public CA v1,O=McAfee Inc",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18076,6 +19251,7 @@ var trusty = {
         65537
       ],
       "name": "CN=idOnDemand CA,O=idOnDemand,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18103,6 +19279,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SSC Qualified Class 3 CA,OU=Certification Authority,O=Skaitmeninio sertifikavimo centras,C=LT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18130,10 +19307,12 @@ var trusty = {
         65537
       ],
       "name": "CN=Admin-CA3,OU=Certification Authorities,OU=Services,O=Admin,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=Admin-Root-CA,OU=Certification Authorities,OU=Services,O=admin,C=ch",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18152,6 +19331,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Certinomis Corporate,OU=0002 433998903,O=Certinomis,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18179,6 +19359,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Swisscom Diamant SuisseID CA 2,OU=Digital Certificate Services,O=Swisscom,C=ch",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18188,6 +19369,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=pki@hmt-hannover.de,CN=HMT Hannover CA,O=Hochschule fuer Musik und Theater Hannover,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18224,6 +19406,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD CA-26,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18242,6 +19425,7 @@ var trusty = {
         36863
       ],
       "name": "CN=NetLock Minősített Eat. (Class Q Legal) Tanúsítványkiadó,OU=Tanúsítványkiadók (Certification Services),O=NetLock Kft.,L=Budapest,C=HU",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18260,6 +19444,7 @@ var trusty = {
         65537
       ],
       "name": "CN=ORC Public Sub CA 1,O=ORC PKI,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18269,6 +19454,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Deutsche Telekom CA 6,OU=Trust Center Deutsche Telekom,O=T-Systems Enterprise Services GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18287,6 +19473,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Agriculture AC Agents,OU=0002 110070018,O=service-public gouv agriculture,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18296,6 +19483,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Retail Ventures - Public Primary CA,OU=Public,O=Retail Ventures,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18323,6 +19511,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=ca@rhrk.uni-kl.de,CN=RHRK-CA Classic - G02,O=Regionales Hochschulrechenzentrum Kaiserslautern,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18333,6 +19522,7 @@ var trusty = {
     },
     {
       "name": "CN=AffirmTrust Premium ECC,O=AffirmTrust,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18342,6 +19532,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD EMAIL CA-32,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18369,6 +19560,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TRUST2408 OCES CA I,O=TRUST2408,C=DK",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18391,6 +19583,7 @@ var trusty = {
     },
     {
       "name": "CN=Autoridade Certificadora Raiz Brasileira,OU=Instituto Nacional de Tecnologia da Informacao - ITI,O=ICP-Brasil,L=Brasilia,ST=DF,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18404,6 +19597,7 @@ var trusty = {
     },
     {
       "name": "CN=Global Chambersign Root - 2008,O=AC Camerfirma S.A.,serialNumber=A82743287,L=Madrid (see current address at www.camerfirma.com/address),C=EU",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18431,6 +19625,7 @@ var trusty = {
         65537
       ],
       "name": "CN=USERTRUST - Server Authentication,OU=http://www.usertrust.com,O=The USERTRUST Network,L=Salt Lake City,ST=UT,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18440,6 +19635,7 @@ var trusty = {
         65537
       ],
       "name": "OU=i-Notary TrustPath Data Encryption CA+CN=i-Notary TrustPath Data Encryption CA+DC=encryption-ca+O=InfoNotary PLC+C=BG",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18458,6 +19654,7 @@ var trusty = {
         65537
       ],
       "name": "CN=certSIGN Qualified CA Class 3,OU=certSIGN Qualified CA Class 3,O=certSIGN,C=RO",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18467,6 +19664,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GLOBE SSL Domain Validated CA,O=GLOBE HOSTING CERTIFICATION AUTHORITY,C=RO",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18485,6 +19683,7 @@ var trusty = {
         65537
       ],
       "name": "C=US,O=Virginia Tech,OU=Global Server CA,CN=Virginia Tech Global Server CA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18503,6 +19702,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=admin@startcom.org,CN=StartCom Class 1 Intermediate Domain Controller CA,OU=Secure Certificate Signing,O=StartCom Ltd.,ST=Israel,C=IL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18512,6 +19712,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC DNIE 002,OU=DNIE,O=DIRECCION GENERAL DE LA POLICIA,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18530,6 +19731,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Certum Level III,O=Unizeto Sp. z o.o.,C=PL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18548,6 +19750,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SOGO KEIBI HOSHO SV CA,O=SOGO KEIBI HOSHO CO.LTD,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18575,6 +19778,7 @@ var trusty = {
         65537
       ],
       "name": "OU=First Investment Bank Hosted CA+CN=First Investment Bank Hosted CA+DC=fib-hosted-ca+O=InfoNotary PLC+C=BG",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18584,6 +19788,7 @@ var trusty = {
         65537
       ],
       "name": "CN=University of Wisconsin-Madison,OU=Faculty - Staff - Students,O=Division of Information Technology,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18620,6 +19825,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=pki@fh-oow.de,CN=FH-OOW CA - G02,OU=Hochschulrechenzentrum,O=Fachhochschule Oldenburg/Ostfriesland/Wilhelmshaven,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18629,6 +19835,7 @@ var trusty = {
         65537
       ],
       "name": "CN=wvCA1,OU=Certification Authorities,O=State of West Virginia,DC=wv,DC=gov",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18638,6 +19845,7 @@ var trusty = {
         65537
       ],
       "name": "CN=EC-IDCat,OU=Entitat publica de certificacio de ciutadans,OU=Vegeu https://www.catcert.net/verCIC-2 (c)03,OU=Serveis Publics de Certificacio ECV-2,L=Passatge de la Concepcio 11 08008 Barcelona,O=Agencia Catalana de Certificacio (NIF Q-0801176-I),C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18656,6 +19864,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GlobalSSL Domain Validation SSL CA,O=GlobalSSL,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18665,6 +19874,7 @@ var trusty = {
         65537
       ],
       "name": "CN=RealNetworks SSL CA,O=RealNetworks\\, Inc",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18674,6 +19884,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=info@diginotar.nl,CN=DigiNotar Services 1024 CA,O=DigiNotar,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18692,6 +19903,7 @@ var trusty = {
         65537
       ],
       "name": "CN=KEYNECTIS ICS ADVANCED Class 3 CA,OU=0002 478217318,OU=ICS,O=KEYNECTIS,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18701,6 +19913,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Issuing CA magna.global,O=Magna International Inc.,C=CA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18755,6 +19968,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC CertiSign Multipla V3,OU=Certisign Certificadora Digital S.A.,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18764,6 +19978,7 @@ var trusty = {
         65537
       ],
       "name": "CN=WISeKey CertifyID Advanced Services CA 1,OU=International,OU=Copyright (c) 2006 WISeKey SA,O=WISeKey,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18791,6 +20006,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC DILA Infra,OU=0002 13000918600011,OU=Direction Information Legale Administrative,O=Gouv,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18809,6 +20025,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=ca@fhtw-berlin.de,CN=Fachhochschule fuer Technik und Wirtschaft Berlin - G02,OU=HRZ,O=Fachhochschule fuer Technik und Wirtschaft Berlin,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18827,6 +20044,7 @@ var trusty = {
         65537
       ],
       "name": "serialNumber=29,CN=Certigna ID PRIS** Pro,OU=0002 481463081,O=Dhimyotis,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18836,6 +20054,7 @@ var trusty = {
         1073741953
       ],
       "name": "CN=ESG De Electronische Signatuur bv,O=ESG BV,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18854,6 +20073,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Bechtel Corporation External CA,OU=Information Security,O=Bechtel Corporation,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18863,10 +20083,12 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=c2ca@trustcentre.co.za,CN=SAPO Class 2 CA,C=ZA,ST=Western Cape,L=Somerset West,OU=SAPO Trust Centre,O=South African Postoffice Limited",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "emailAddress=pkiadmin@trustcentre.co.za,CN=SAPO Class 2 Root CA,OU=SAPO Trust Centre,O=South African Post Office Limited,L=Somerset West,ST=Western Cape,C=ZA",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18876,6 +20098,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD CA-23,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18885,6 +20108,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Staat der Nederlanden Burger CA - G2,O=Staat der Nederlanden,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18912,6 +20136,7 @@ var trusty = {
         65537
       ],
       "name": "OU=First Data Corporate CA,OU=Certification Authorities,O=First Data Corporation,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18921,6 +20146,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Deutsche Telekom CA 4,OU=TeleSec Trust Center,O=Deutsche Telekom AG,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18930,6 +20156,7 @@ var trusty = {
         65537
       ],
       "name": "CN=QuoVadis Issuing Certification Authority 2,OU=Issuing Certification Authority,O=QuoVadis Limited,C=BM",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18939,10 +20166,12 @@ var trusty = {
         65537
       ],
       "name": "CN=PersonalID Supervised Operational CA 2011,OU=Certificate Services,O=PersonalID Ltd.,C=IL",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=PersonalID Trustworthy RootCA 2011,OU=Certificate Services,O=PersonalID Ltd.,C=IL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18956,6 +20185,7 @@ var trusty = {
     },
     {
       "name": "CN=Staat der Nederlanden Root CA - G3,O=Staat der Nederlanden,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18965,6 +20195,7 @@ var trusty = {
         65537
       ],
       "name": "CN=COMODO Exclude All dNSNames Testing CA,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -18974,6 +20205,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Swiss Post Platinum CA 2008 - G2,O=SwissSign AG,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19037,6 +20269,7 @@ var trusty = {
         65537
       ],
       "name": "CN=WindSSL CA,C=TR,O=TURKTRUST\\, Inc.",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19055,6 +20288,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Verified by Visa v2,OU=Visa CEMEA,O=VISA,C=CE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19082,6 +20316,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=admin@startcom.org,CN=StartCom Class 2 Primary Intermediate Free CA,OU=Secure Certificate Signing,O=StartCom Ltd.,ST=Israel,C=IL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19091,6 +20326,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Intesa Sanpaolo S.p.A. - Certification Authority Infrastrutture,O=Intesa Sanpaolo S.p.A.,C=IT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19109,6 +20345,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=chipcard-ca@pki.tu-dortmund.de,CN=TU Dortmund Chipcard CA,O=Technische Universitaet Dortmund,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19127,6 +20364,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Certisign SPB G5,OU=CSPB-2,OU=Certisign Certificadora Digital S.A.,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19136,6 +20374,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC DILA Infra Qualif,OU=0002 99999999999999,OU=Direction de l’Information Légale et Administrative,O=Gouv,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19145,6 +20384,7 @@ var trusty = {
         61209
       ],
       "name": "C=TR,O=EBG Bilişim Teknolojileri ve Hizmetleri A.Ş.,CN=EBG Web Sunucu Sertifika Hizmet Sağlayıcısı",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19172,6 +20412,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DigiCert Global CA-1,OU=www.digicert.com,O=DigiCert Inc,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19181,6 +20422,7 @@ var trusty = {
         65537
       ],
       "name": "CN=certSIGN Non-Repudiation CA Class 4 G2,OU=certSIGN Non-Repudiation CA Class 4 G2,O=certSIGN,C=RO",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19190,6 +20432,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VeriSign Japan Class 1 CA - G3,OU=VeriSign Trust Network,O=VeriSign Japan K.K.,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19199,6 +20442,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Authentication e-Szigno CA4,OU=e-Szigno CA,O=Microsec Ltd.,L=Budapest,C=HU",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19208,6 +20452,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD CA-18,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19223,6 +20468,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Nestle External CA,OU=IS/IT,O=Nestle,L=Vevey,ST=Vaud,C=CH,emailAddress=pki-security-ext@nestle.com",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19236,6 +20482,7 @@ var trusty = {
     },
     {
       "name": "CN=thawte Primary Root CA,OU=Certification Services Division,OU=(c) 2006 thawte\\, Inc. - For authorized use only,O=thawte\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19254,6 +20501,7 @@ var trusty = {
         3
       ],
       "name": "CN=AC Camerfirma Express Corporate Server,O=AC Camerfirma SA,serialNumber=A82743287,L=Madrid (see current address at www.camerfirma.com/address),emailAddress=cmfecs2@camerfirma.com,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19281,6 +20529,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC DILA Infra Qualif,OU=0002 99999999999999,OU=D.I.L.A.,O=Gouv,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19290,6 +20539,7 @@ var trusty = {
         65537
       ],
       "name": "C=ES,O=ACCV,OU=PKIACCV,CN=ACCVCA-130",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19299,6 +20549,7 @@ var trusty = {
         65537
       ],
       "name": "CN=nazwaSSL,OU=http://nazwa.pl,O=NetArt Spółka Akcyjna S.K.A.,C=PL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19326,6 +20577,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=certificate@fh-osnabrueck.de,CN=FH Osnabrueck CA - G02,OU=Fachdienst EDV,O=Fachhochschule Osnabrueck,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19335,6 +20587,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Booz Allen Hamilton CA,OU=Components,O=BAH,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19344,6 +20597,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC PETROBRAS G2,OU=PETROLEO BRASILEIRO S A PETROBRAS,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19353,6 +20607,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SAIC Public Issuing CA 02,OU=PKI,O=SAIC,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19362,6 +20617,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Swisscom Customer CA 2,OU=Digital Certificate Services,O=Swisscom,C=ch",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19407,6 +20663,7 @@ var trusty = {
         65537
       ],
       "name": "CN=FAA-AVS,O=TATI,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19443,6 +20700,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VR IDENT SSL CA 2009,OU=VR IDENT,O=GAD EG,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19474,6 +20732,7 @@ var trusty = {
     },
     {
       "name": "CN=QuoVadis Root CA 2 G3,O=QuoVadis Limited,C=BM",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19483,6 +20742,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Serveurs,OU=0002 120066022,O=Ministère Écologie\\, Développement et Aménagement durables,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19501,6 +20761,7 @@ var trusty = {
         65537
       ],
       "name": "CN=mtnlTrustLine Class 3 Server Sub CA,OU=mtnlTrustLine,O=Mahanagar Telephone Nigam Limited,C=IN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19510,6 +20771,7 @@ var trusty = {
         65537
       ],
       "name": "CN=American Express Channel Server CA 3,ST=NY,OU=American Express Technologies,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19519,6 +20781,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Entrust Class 2 Client CA,OU=(c) 2010 Entrust\\, Inc.,OU=www.entrust.net/CPS is incorporated by reference,O=Entrust\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19528,6 +20791,7 @@ var trusty = {
         65537
       ],
       "name": "C=PT,O=SCEE - Sistema de Certificação Electrónica do Estado,OU=ECEstado,CN=Cartão de Cidadão 001",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19537,6 +20801,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GLOBE SSL CA,O=GLOBE HOSTING CERTIFICATION AUTHORITY,C=RO",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19555,6 +20820,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TWCA Secure CA,OU=Certification Service Provider,O=TAIWAN-CA.COM,C=TW",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19582,6 +20848,7 @@ var trusty = {
         65537
       ],
       "name": "CN=MSIT Enterprise CA 4",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19609,6 +20876,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC CAIXA PF,OU=Caixa Economica Federal,O=ICP-Brasil,C=br",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19636,6 +20904,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Fuji Xerox Xnet CA,O=Fuji Xerox,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19645,6 +20914,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Swiss Post Platinum CA - G2,O=SwissSign AG,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19663,6 +20933,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Jack Henry Application CA I,OU=Jack Henry Application CA,O=Jack Henry and Associates\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19681,6 +20952,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Vodafone (Trusted Clients),O=Vodafone Group,C=UK",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19690,6 +20962,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TeliaSonera Class 2 CA v1,O=TeliaSonera",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19699,6 +20972,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Bayerische SSL-CA-2012,O=Freistaat Bayern,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19714,6 +20988,7 @@ var trusty = {
         65537
       ],
       "name": "serialNumber=28,CN=Certigna ID PRIS**,OU=0002 481463081,O=Dhimyotis,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19723,6 +20998,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=pki@sk.ee,CN=ESTEID-SK 2011,O=AS Sertifitseerimiskeskus,C=EE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19741,6 +21017,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=admin-pki@fii.gob.ve,CN=PSC Publico del MCT para el Estado Venezolano,L=Sartenejas,ST=Miranda,OU=Fundacion Instituto de Ingenieria,O=Sistema Nacional de Certificacion Electronica,C=VE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19759,6 +21036,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Registry Pro CA,O=Registry Pro,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19777,6 +21055,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Certinomis Serveurs et Equipements,OU=0002 433998903,O=Certinomis,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19786,6 +21065,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Trustis FPS Enterprise Issuing Authority,OU=Trustis FPS,O=Trustis Limited,C=GB",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19804,6 +21084,7 @@ var trusty = {
         65537
       ],
       "name": "CN=a-sign-Token-Enc-01,OU=a-sign-Token-Enc-01,O=A-Trust Ges. f. Sicherheitssysteme im elektr. Datenverkehr GmbH,C=AT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19822,6 +21103,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Booz Allen Hamilton CA 2,OU=Components,O=BAH,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19855,6 +21137,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC RACINE MINISTERE INTERIEUR,OU=0002 110014016,O=MINISTERE INTERIEUR,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19873,6 +21156,7 @@ var trusty = {
         3
       ],
       "name": "CN=AC Camerfirma Certificados Camerales,O=AC Camerfirma SA,serialNumber=A82743287,L=Madrid (see current address at www.camerfirma.com/address),emailAddress=ac_camerfirma_cc@camerfirma.com,C=ES",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19900,6 +21184,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SwissSign Personal Silver CA 2008 - G2,O=SwissSign AG,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19909,6 +21194,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Trustwave Client Authentication Certification Authority,O=Trustwave Holdings\\, Inc.,L=Chicago,ST=Illinois,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19927,6 +21213,7 @@ var trusty = {
         65537
       ],
       "name": "CN=SignGATESSTrust,OU=AccreditedCA,O=KICA,C=KR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19945,6 +21232,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VeriSign Class 3 Secure OFX CA - G3,OU=Terms of use at https://www.verisign.com/rpa (c)09,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19954,12 +21242,14 @@ var trusty = {
         65537
       ],
       "name": "OU=i-Notary Company Q Sign CA+CN=i-Notary Company Q Sign CA+DC=qsign-company-ca+O=InfoNotary PLC+C=BG",
+      "nocerts": true,
       "radius": 6
     },
     {
       "keytype": "EC",
       "params": "secp384r1",
       "name": "CN=NCC Group Secure Server CA G3,O=NCC Group,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19978,6 +21268,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC SINCOR G3,OU=SINCOR-SP - Sindicato dos Corretores de Seguros no Estado de SP,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -19987,10 +21278,12 @@ var trusty = {
         65537
       ],
       "name": "CN=SwissSign Silver Server CA 2010 - G3,O=SwissSign AG,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
       "name": "CN=SwissSign Silver Root CA - G3,O=SwissSign AG,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20018,6 +21311,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD EMAIL CA-16,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20027,6 +21321,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TeliaSonera Class 1 CA v1,O=TeliaSonera",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20036,6 +21331,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DOD CA-11,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20054,6 +21350,7 @@ var trusty = {
         65537
       ],
       "name": "CN=GlobalSign Organization Validation CAT,O=GlobalSign,OU=Organization Validation CAT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20090,6 +21387,7 @@ var trusty = {
         65537
       ],
       "name": "OU=Trustis FPS Healthcare Issuing Authority,O=Trustis Limited,C=GB",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20103,6 +21401,7 @@ var trusty = {
     },
     {
       "name": "CN=Posta CA Root,CN=AIA,CN=Public Key Services,CN=Services,CN=Configuration,DC=ca,DC=posta,DC=rs",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20130,6 +21429,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TERENA Personal CA,O=TERENA,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20148,6 +21448,7 @@ var trusty = {
         65537
       ],
       "name": "CN=PinkRoccade CSP - Overheid - Authenticiteit CA,O=PinkRoccade Infrastructure Services BV,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20157,6 +21458,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Swisscom SuisseID Saphir CA 1,OU=Digital Certificate Services,O=Swisscom,C=ch",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20184,6 +21486,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC SERASA RFB v1,OU=Secretaria da Receita Federal do Brasil - RFB,O=ICP-Brasil,C=BR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20193,6 +21496,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC Personnel Keynectis,O=Keynectis,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20202,6 +21506,7 @@ var trusty = {
         65537
       ],
       "name": "CN=OptimumSSL CA,O=Comodo CA Limited,L=Salford,ST=Greater Manchester,C=GB",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20211,6 +21516,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TeliaSonera Class 1 CA v2,O=TeliaSonera,C=FI",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20220,6 +21526,7 @@ var trusty = {
         65537
       ],
       "name": "CN=UZI-register Zorgverlener CA,O=agentschap Centraal Informatiepunt Beroepen Gezondheidszorg,C=NL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20265,6 +21572,7 @@ var trusty = {
         65537
       ],
       "name": "CN=E.ON Internal Devices Sub CA V2,OU=CA,O=EON,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20278,6 +21586,7 @@ var trusty = {
     },
     {
       "name": "CN=Entrust.net 2048,O=entrust,C=ca",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20296,6 +21605,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Fraunhofer Service CA 2007,OU=Fraunhofer Corporate PKI,O=Fraunhofer,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20305,6 +21615,7 @@ var trusty = {
         65537
       ],
       "name": "CN=nazwaSSL,OU=http://nazwa.pl,O=NetArt SpÃ³Åka Akcyjna S.K.A.,C=PL",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20323,6 +21634,7 @@ var trusty = {
         65537
       ],
       "name": "CN=CNIPA CA2,OU=Servizi di Sicurezza e Certificazione,O=Centro Nazionale per l'Informatica nella PA,C=IT",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20341,6 +21653,7 @@ var trusty = {
         65537
       ],
       "name": "CN=DPWN SSL CA I2 PS,OU=I2 PS,O=Deutsche Post World Net",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20359,6 +21672,7 @@ var trusty = {
         65537
       ],
       "name": "CN=e-Mudhra Sub CA for Class 2 SSL 2011,OU=Certifying Authority,O=eMudhra Consumer Services Limited,C=IN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20395,6 +21709,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AusCERT Client CA,OU=Certificate Services,O=AusCERT,C=AU",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20404,6 +21719,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Chenega Corporate CA,O=Chenega Corporation",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20413,6 +21729,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TDB CA S4,O=TEIKOKU DATABANK\\, LTD.,C=JP",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20440,6 +21757,7 @@ var trusty = {
         65537
       ],
       "name": "serialNumber=21,CN=Certigna ID PRIS,OU=0002 481463081,O=Dhimyotis,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20449,6 +21767,7 @@ var trusty = {
         65537
       ],
       "name": "CN=ACE Limited Issuing Certification Authority,OU=Certification Authority,O=ACE Limited,C=BM",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20485,6 +21804,7 @@ var trusty = {
         65537
       ],
       "name": "ST=Andhra Pradesh,emailAddress=cahelp@idrbt.ac.in,L=Hyderabad,CN=IDRBT CERTIFYING AUTHORITY,OU=IDRBT CA,O=INDIA PKI,C=IN",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20494,6 +21814,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TC TrustCenter Class 4 Extended Validation CA II,OU=TC TrustCenter Class 4 L1 CA,O=TC TrustCenter GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20511,6 +21832,7 @@ var trusty = {
     },
     {
       "name": "OU=Equifax Secure Certificqte Authority,O=Equifax,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20535,6 +21857,7 @@ var trusty = {
         65537
       ],
       "name": "CN=eLeader Global Class2 CA v2,OU=CA Center,O=TaiOne International Ltd.,C=TW,emailAddress=camaster@egca.com.tw",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20571,6 +21894,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Swisscom Diamant CA 1,OU=Digital Certificate Services,O=Swisscom,C=ch",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20598,6 +21922,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Symantec Class 3 Admin Intermediate Certificate Authority,OU=Symantec Trust Network,O=Symantec Corporation,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20607,6 +21932,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Entrust Class 1 Client CA,OU=(c) 2010 Entrust\\, Inc.,OU=www.entrust.net/CPS is incorporated by reference,O=Entrust\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20616,6 +21942,7 @@ var trusty = {
         65537
       ],
       "name": "CN=AC JO Infra,OU=0002 16000102000017,OU=Journaux officiels,O=Gouv,C=FR",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20634,6 +21961,7 @@ var trusty = {
         65537
       ],
       "name": "CN=T-TeleSec GlobalCA Class 2,OU=T-Systems Trust Center,O=T-Systems Enterprise Services GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20643,6 +21971,7 @@ var trusty = {
         65537
       ],
       "name": "CN=Swisscom TSA CA 1,OU=Digital Certificate Services,O=Swisscom,C=CH",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20652,6 +21981,7 @@ var trusty = {
         65537
       ],
       "name": "CN=E.ON Internal Devices Sub CA V3,OU=CA,O=EON,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20661,6 +21991,7 @@ var trusty = {
         65537
       ],
       "name": "emailAddress=info@e-szigno.hu,CN=Advanced Class 2 e-Szigno CA 2009,O=Microsec Ltd.,L=Budapest,C=HU",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20724,6 +22055,7 @@ var trusty = {
         65537
       ],
       "name": "CN=VeriSign Class 1 Individual Subscriber CA - G2,OU=Persona Not Validated,OU=Terms of use at https://www.verisign.com/rpa (c)05,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20737,6 +22069,7 @@ var trusty = {
     },
     {
       "name": "CN=D-TRUST Root Class 3 CA 2 2009,O=D-Trust GmbH,C=DE",
+      "nocerts": true,
       "radius": 6
     },
     {
@@ -20746,6 +22079,7 @@ var trusty = {
         65537
       ],
       "name": "CN=TEST-SK,OU=Testsertifikaadid,O=AS Sertifitseerimiskeskus,C=EE",
+      "nocerts": true,
       "radius": 6
     }
   ],
