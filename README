@@ -1,1 +1,7 @@
-See gh-pages branch
+This is source data for generating the trust anchor list used for the
+trust graph.  See the gh-pages branch for the trust graph.
+
+The sources:
+mozilla - NSS certdata.txt (PKCS #11) 
+java - JRE cadata (Java Key Store format)
+microsoft - SST and STL data
