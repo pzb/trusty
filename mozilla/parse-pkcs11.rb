@@ -111,19 +111,22 @@ def parse_certdata(io)
       if attr_name.to_s !~ /^trust_/
         $stderr.puts "Bad attribute! #{attr_name}"
       end
-      if rest =~ /\ACKT_((NETSCAPE|NSS)_TRUST_UNKNOWN|NSS_MUST_VERIFY_TRUST)\z/
+      # VALID alone was used to indicate not explicitly trusted in the past
+      if rest =~ /\ACKT_((NETSCAPE|NSS)_(VALID|TRUST_UNKNOWN)|NSS_MUST_VERIFY_TRUST)\z/
         # Not trusted for this use
         curr_cert[:neutral] = true
         next
       end
 
       # Completely distrusted
-      if rest =~ /\ACKT_(NETSCAPE_UNTRUSTED|NSS_NOT_TRUSTED)\z/
+      # See https://bugzilla.mozilla.org/show_bug.cgi?id=642503#c3 to
+      #  explain why VALID_DELEGATOR means untrusted
+      if rest =~ /\ACKT_(NETSCAPE|NSS)_(UNTRUSTED|NOT_TRUSTED|VALID|VALID_DELEGATOR)\z/
         curr_cert[:distrusted] = true
         next
       end
       # Delegator means trusted
-      if rest !~ /\ACKT_(NETSCAPE|NSS)_(VALID|(VALID|TRUSTED)_DELEGATOR)\z/
+      if rest !~ /\ACKT_(NETSCAPE|NSS)_TRUSTED_DELEGATOR\z/
         $stderr.puts "Bad value! #{rest}"
       end
       if !curr_cert.key?(:trust)
