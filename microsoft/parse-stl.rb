@@ -230,11 +230,8 @@ module CTL
       end
       @listIdentifier = nil
       seq = asn1.take(6)
-      @subjectUsage = seq.shift
-      if !@subjectUsage.is_a?(OpenSSL::ASN1::Sequence) || @subjectUsage.count != 1
-        raise "Error Z1: #{@subjectUsage}"
-      end
-      @subjectUsage = @subjectUsage.take(1).first.value
+      @subjectUsage = validExtra(seq.shift)
+
       if (seq.count == 5)
         @listIdentifier = seq.shift
         if !@listIdentifier.is_a?(OpenSSL::ASN1::OctetString)
@@ -242,6 +239,7 @@ module CTL
         end
         @listIdentifier = @listIdentifier.value.force_encoding("UTF-16LE").encode("UTF-8").chomp("\0")
       end
+
       @sequenceNumber = seq.shift
       if !@sequenceNumber.is_a?(OpenSSL::ASN1::Integer)
         raise "Error Z3: #{@sequenceNumber}"
@@ -276,14 +274,13 @@ def parseSTL(asn1)
 #    raise "Error YII: #{i.oid}"
   end
 
-	cert_pointers = {}
+	entries = {}
 	ctl.trustedSubjects.each do |entry|
     ts = CTL::TrustedSubject.new(entry)
-		sha1 = ts.hash
-		if cert_pointers.has_key? sha1
-			raise "Error CC: #{sha1}"
+		if entries.key?(ts.hash)
+			raise "Error CC: #{ts.hash}"
 		end
-		pointer = {}
+		properties = {}
 		ts.attributes.each do |oid, val|
 			if oid[0..21] != "1.3.6.1.4.1.311.10.11."
 				raise "Error CC: #{oid}"
@@ -291,9 +288,6 @@ def parseSTL(asn1)
 			prop = oid.split('.').last.to_i
 			if PROPS.has_key? prop
 				prop = PROPS[prop]
-			end
-			if pointer.has_key? prop
-				raise "Error BB: #{prop}"
 			end
 			if prop == :FRIENDLY_NAME
 				val = FriendlyName(val)
@@ -317,11 +311,11 @@ def parseSTL(asn1)
 			else
 				raise "Unparsed property #{prop}\n"
 			end
-			pointer[prop] = val
+			properties[prop] = val
 		end
-		cert_pointers[sha1] = pointer
+		entries[ts.hash] = properties
 	end
-	cert_pointers
+	entries
 end
 
 a = OpenSSL::ASN1.decode(File.read(ARGV[0]))
