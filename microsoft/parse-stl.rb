@@ -220,23 +220,21 @@ module CTL
     attr_reader :thisUpdate
     attr_reader :subjectAlgorithm
     attr_reader :trustedSubjects
+    attr_reader :extensions
 
     def initialize(asn1)
       if not asn1.is_a? OpenSSL::ASN1::Sequence
         raise "Error A: #{asn1.class}"
       end
-      if asn1.count < 5 || asn1.count > 6
+      if asn1.count < 5 || asn1.count > 7
         raise "Error B: #{asn1.count}"
       end
       @listIdentifier = nil
-      seq = asn1.take(6)
+      seq = asn1.take(7)
       @subjectUsage = validExtra(seq.shift)
 
-      if (seq.count == 5)
+      if seq[0].is_a?(OpenSSL::ASN1::OctetString)
         @listIdentifier = seq.shift
-        if !@listIdentifier.is_a?(OpenSSL::ASN1::OctetString)
-          raise "Error Z2: #{@listIdentifier}"
-        end
         @listIdentifier = @listIdentifier.value.force_encoding("UTF-16LE").encode("UTF-8").chomp("\0")
       end
 
@@ -252,6 +250,7 @@ module CTL
       @thisUpdate = @thisUpdate.value
       @subjectAlgorithm = seq.shift
       @trustedSubjects = seq.shift
+      @extensions = seq.shift
     end
   end
 end
