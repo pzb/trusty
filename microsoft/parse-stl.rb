@@ -324,7 +324,8 @@ def parseSTL(asn1)
   ctl = CTL::CertificateTrustList.new(signed_content.content)
 
   # Make sure this is a Root List
-  if ctl.subjectUsage != ["1.3.6.1.4.1.311.10.3.9"] # szOID_ROOT_LIST_SIGNER
+  if ctl.subjectUsage != ["1.3.6.1.4.1.311.10.3.9"] && # szOID_ROOT_LIST_SIGNER 
+     ctl.subjectUsage != ["1.3.6.1.4.1.311.10.3.30"] # szOID_DISALLOWED_LIST
     raise "Error pstlC: #{ctl.subjectUsage}"
   end
 
